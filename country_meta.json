@@ -1,0 +1,998 @@
+{
+    "ALB": {
+      "country": "Albania",
+      "svgFileName": "albania",
+      "iso2ID": "AL",
+      "iso3ID": "ALB"
+    },
+    "AGO": {
+      "country": "Angola",
+      "svgFileName": "angola",
+      "iso2ID": "AO",
+      "iso3ID": "AGO"
+    },
+    "ARG": {
+      "country": "Argentina",
+      "svgFileName": "argentina",
+      "iso2ID": "AR",
+      "iso3ID": "ARG"
+    },
+    "AUS": {
+      "country": "Australia",
+      "svgFileName": "australia",
+      "iso2ID": "AU",
+      "iso3ID": "AUS"
+    },
+    "AUT": {
+      "country": "Austria",
+      "svgFileName": "austria",
+      "iso2ID": "AT",
+      "iso3ID": "AUT"
+    },
+    "AZE": {
+      "country": "Azerbaijan",
+      "svgFileName": "azerbaijan",
+      "iso2ID": "AZ",
+      "iso3ID": "AZE"
+    },
+    "BGD": {
+      "country": "Bangladesh",
+      "svgFileName": "bangladesh",
+      "iso2ID": "BD",
+      "iso3ID": "BGD"
+    },
+    "BRB": {
+      "country": "Barbados",
+      "svgFileName": "barbados",
+      "iso2ID": "BB",
+      "iso3ID": "BRB"
+    },
+    "BLR": {
+      "country": "Belarus",
+      "svgFileName": "belarus",
+      "iso2ID": "BY",
+      "iso3ID": "BLR"
+    },
+    "BEL": {
+      "country": "Belgium",
+      "svgFileName": "belgium",
+      "iso2ID": "BE",
+      "iso3ID": "BEL"
+    },
+    "BLZ": {
+      "country": "Belize",
+      "svgFileName": "belize",
+      "iso2ID": "BZ",
+      "iso3ID": "BLZ"
+    },
+    "BMU": {
+      "country": "Bermuda",
+      "svgFileName": "bermuda",
+      "iso2ID": "BM",
+      "iso3ID": "BMU"
+    },
+    "BTN": {
+      "country": "Bhutan",
+      "svgFileName": "bhutan",
+      "iso2ID": "BT",
+      "iso3ID": "BTN"
+    },
+    "BOL": {
+      "country": "Bolivia",
+      "svgFileName": "bolivia",
+      "iso2ID": "BO",
+      "iso3ID": "BOL"
+    },
+    "BIH": {
+      "country": "Bosnia and Herzegovina",
+      "svgFileName": "bosnia and herzegovina",
+      "iso2ID": "BA",
+      "iso3ID": "BIH"
+    },
+    "BWA": {
+      "country": "Botswana",
+      "svgFileName": "botswana",
+      "iso2ID": "BW",
+      "iso3ID": "BWA"
+    },
+    "BRA": {
+      "country": "Brazil",
+      "svgFileName": "brazil",
+      "iso2ID": "BR",
+      "iso3ID": "BRA"
+    },
+    "BRN": {
+      "country": "Brunei",
+      "svgFileName": "brunei",
+      "iso2ID": "BN",
+      "iso3ID": "BRN"
+    },
+    "BGR": {
+      "country": "Bulgaria",
+      "svgFileName": "bulgaria",
+      "iso2ID": "BG",
+      "iso3ID": "BGR"
+    },
+    "KHM": {
+      "country": "Cambodia",
+      "svgFileName": "cambodia",
+      "iso2ID": "KH",
+      "iso3ID": "KHM"
+    },
+    "CMR": {
+      "country": "Cameroon",
+      "svgFileName": "cameroon",
+      "iso2ID": "CM",
+      "iso3ID": "CMR"
+    },
+    "CAN": {
+      "country": "Canada",
+      "svgFileName": "canada",
+      "iso2ID": "CA",
+      "iso3ID": "CAN"
+    },
+    "CYM": {
+      "country": "Cayman Islands",
+      "svgFileName": "cayman islands",
+      "iso2ID": "KY",
+      "iso3ID": "CYM"
+    },
+    "CAF": {
+      "country": "Central African Republic",
+      "svgFileName": "central african republic",
+      "iso2ID": "CF",
+      "iso3ID": "CAF"
+    },
+    "TCD": {
+      "country": "Chad",
+      "svgFileName": "chad",
+      "iso2ID": "TD",
+      "iso3ID": "TCD"
+    },
+    "CHL": {
+      "country": "Chile",
+      "svgFileName": "chile",
+      "iso2ID": "CL",
+      "iso3ID": "CHL"
+    },
+    "CHN": {
+      "country": "China",
+      "svgFileName": "china",
+      "iso2ID": "CN",
+      "iso3ID": "CHN"
+    },
+    "COL": {
+      "country": "Colombia",
+      "svgFileName": "colombia",
+      "iso2ID": "CO",
+      "iso3ID": "COL"
+    },
+    "COG": {
+      "country": "Congo",
+      "svgFileName": "republic of the congo",
+      "iso2ID": "CG",
+      "iso3ID": "COG"
+    },
+    "CRI": {
+      "country": "Costa Rica",
+      "svgFileName": "costa rica",
+      "iso2ID": "CR",
+      "iso3ID": "CRI"
+    },
+    "CRO": {
+      "country": "Croatia",
+      "svgFileName": "croatia",
+      "iso2ID": "HR",
+      "iso3ID": "HRV"
+    },
+    "CUB": {
+      "country": "Cuba",
+      "svgFileName": "cuba",
+      "iso2ID": "CU",
+      "iso3ID": "CUB"
+    },
+    "CYP": {
+      "country": "Cyprus",
+      "svgFileName": "cyprus",
+      "iso2ID": "CY",
+      "iso3ID": "CYP"
+    },
+    "CZE": {
+      "country": "Czech Republic",
+      "svgFileName": "czech republic",
+      "iso2ID": "CZ",
+      "iso3ID": "CZE"
+    },
+    "COD": {
+      "country": "Democratic Republic of the Congo",
+      "svgFileName": "democratic republic of congo",
+      "iso2ID": "CD",
+      "iso3ID": "COD"
+    },
+    "DNK": {
+      "country": "Denmark",
+      "svgFileName": "denmark",
+      "iso2ID": "DK",
+      "iso3ID": "DNK"
+    },
+    "DJI": {
+      "country": "Djibouti",
+      "svgFileName": "djibouti",
+      "iso2ID": "DJ",
+      "iso3ID": "DJI"
+    },
+    "DMA": {
+      "country": "Dominica",
+      "svgFileName": "dominica",
+      "iso2ID": "DM",
+      "iso3ID": "DMA"
+    },
+    "ECU": {
+      "country": "Ecuador",
+      "svgFileName": "ecuador",
+      "iso2ID": "EC",
+      "iso3ID": "ECU"
+    },
+    "EGY": {
+      "country": "Egypt",
+      "svgFileName": "egypt",
+      "iso2ID": "EG",
+      "iso3ID": "EGY"
+    },
+    "SLV": {
+      "country": "El Salvador",
+      "svgFileName": "el salvador",
+      "iso2ID": "SV",
+      "iso3ID": "SLV"
+    },
+    "EST": {
+      "country": "Estonia",
+      "svgFileName": "estonia",
+      "iso2ID": "EE",
+      "iso3ID": "EST"
+    },
+    "ETH": {
+      "country": "Ethiopia",
+      "svgFileName": "ethiopia",
+      "iso2ID": "ET",
+      "iso3ID": "ETH"
+    },
+    "FJI": {
+      "country": "Fiji Islands",
+      "svgFileName": "fiji",
+      "iso2ID": "FJ",
+      "iso3ID": "FJI"
+    },
+    "FIN": {
+      "country": "Finland",
+      "svgFileName": "finland",
+      "iso2ID": "FI",
+      "iso3ID": "FIN"
+    },
+    "FRA": {
+      "country": "France",
+      "svgFileName": "france",
+      "iso2ID": "FR",
+      "iso3ID": "FRA"
+    },
+    "GAB": {
+      "country": "Gabon",
+      "svgFileName": "gabon",
+      "iso2ID": "GA",
+      "iso3ID": "GAB"
+    },
+    "GEO": {
+      "country": "Georgia",
+      "svgFileName": "georgia",
+      "iso2ID": "GE",
+      "iso3ID": "GEO"
+    },
+    "DEU": {
+      "country": "Germany",
+      "svgFileName": "germany",
+      "iso2ID": "DE",
+      "iso3ID": "DEU"
+    },
+    "GHA": {
+      "country": "Ghana",
+      "svgFileName": "ghana",
+      "iso2ID": "GH",
+      "iso3ID": "GHA"
+    },
+    "GRC": {
+      "country": "Greece",
+      "svgFileName": "greece",
+      "iso2ID": "GR",
+      "iso3ID": "GRC"
+    },
+    "GRL": {
+      "country": "Greenland",
+      "svgFileName": "greenland",
+      "iso2ID": "GL",
+      "iso3ID": "GRL"
+    },
+    "GRD": {
+      "country": "Grenada",
+      "svgFileName": "grenada",
+      "iso2ID": "GD",
+      "iso3ID": "GRD"
+    },
+    "GUM": {
+      "country": "Guam",
+      "svgFileName": "guam",
+      "iso2ID": "GU",
+      "iso3ID": "GUM"
+    },
+    "GTM": {
+      "country": "Guatemala",
+      "svgFileName": "guatemala",
+      "iso2ID": "GT",
+      "iso3ID": "GTM"
+    },
+    "GIN": {
+      "country": "Guinea",
+      "svgFileName": "guinea",
+      "iso2ID": "GN",
+      "iso3ID": "GIN"
+    },
+    "GUY": {
+      "country": "Guyana",
+      "svgFileName": "guyana",
+      "iso2ID": "GY",
+      "iso3ID": "GUY"
+    },
+    "HTI": {
+      "country": "Haiti",
+      "svgFileName": "haiti",
+      "iso2ID": "HT",
+      "iso3ID": "HTI"
+    },
+    "HND": {
+      "country": "Honduras",
+      "svgFileName": "honduras",
+      "iso2ID": "HN",
+      "iso3ID": "HND"
+    },
+    "HKG": {
+      "country": "Hong Kong S.A.R.",
+      "svgFileName": "hong kong",
+      "iso2ID": "HK",
+      "iso3ID": "HKG"
+    },
+    "HUN": {
+      "country": "Hungary",
+      "svgFileName": "hungary",
+      "iso2ID": "HU",
+      "iso3ID": "HUN"
+    },
+    "ISL": {
+      "country": "Iceland",
+      "svgFileName": "iceland",
+      "iso2ID": "IS",
+      "iso3ID": "ISL"
+    },
+    "IND": {
+      "country": "India",
+      "svgFileName": "india",
+      "iso2ID": "IN",
+      "iso3ID": "IND"
+    },
+    "IDN": {
+      "country": "Indonesia",
+      "svgFileName": "indonesia",
+      "iso2ID": "ID",
+      "iso3ID": "IDN"
+    },
+    "IRN": {
+      "country": "Iran",
+      "svgFileName": "iran",
+      "iso2ID": "IR",
+      "iso3ID": "IRN"
+    },
+    "IRQ": {
+      "country": "Iraq",
+      "svgFileName": "iraq",
+      "iso2ID": "IQ",
+      "iso3ID": "IRQ"
+    },
+    "IRL": {
+      "country": "Ireland",
+      "svgFileName": "ireland",
+      "iso2ID": "IE",
+      "iso3ID": "IRL"
+    },
+    "ISR": {
+      "country": "Israel",
+      "svgFileName": "israel",
+      "iso2ID": "IL",
+      "iso3ID": "ISR"
+    },
+    "ITA": {
+      "country": "Italy",
+      "svgFileName": "italy",
+      "iso2ID": "IT",
+      "iso3ID": "ITA"
+    },
+    "JAM": {
+      "country": "Jamaica",
+      "svgFileName": "jamaica",
+      "iso2ID": "JM",
+      "iso3ID": "JAM"
+    },
+    "JPN": {
+      "country": "Japan",
+      "svgFileName": "japan",
+      "iso2ID": "JP",
+      "iso3ID": "JPN"
+    },
+    "JOR": {
+      "country": "Jordan",
+      "svgFileName": "jordan",
+      "iso2ID": "JO",
+      "iso3ID": "JOR"
+    },
+    "KAZ": {
+      "country": "Kazakhstan",
+      "svgFileName": "kazakhstan",
+      "iso2ID": "KZ",
+      "iso3ID": "KAZ"
+    },
+    "KEN": {
+      "country": "Kenya",
+      "svgFileName": "kenya",
+      "iso2ID": "KE",
+      "iso3ID": "KEN"
+    },
+    "KWT": {
+      "country": "Kuwait",
+      "svgFileName": "kuwait",
+      "iso2ID": "KW",
+      "iso3ID": "KWT"
+    },
+    "KGZ": {
+      "country": "Kyrgyzstan",
+      "svgFileName": "kyrgyzstan",
+      "iso2ID": "KG",
+      "iso3ID": "KGZ"
+    },
+    "LAO": {
+      "country": "Laos",
+      "svgFileName": "laos",
+      "iso2ID": "LA",
+      "iso3ID": "LAO"
+    },
+    "LVA": {
+      "country": "Latvia",
+      "svgFileName": "latvia",
+      "iso2ID": "LV",
+      "iso3ID": "LVA"
+    },
+    "LBN": {
+      "country": "Lebanon",
+      "svgFileName": "lebanon",
+      "iso2ID": "LB",
+      "iso3ID": "LBN"
+    },
+    "LBR": {
+      "country": "Liberia",
+      "svgFileName": "liberia",
+      "iso2ID": "LR",
+      "iso3ID": "LBR"
+    },
+    "LBY": {
+      "country": "Libya",
+      "svgFileName": "libya",
+      "iso2ID": "LY",
+      "iso3ID": "LBY"
+    },
+    "LTU": {
+      "country": "Lithuania",
+      "svgFileName": "lithuania",
+      "iso2ID": "LT",
+      "iso3ID": "LTU"
+    },
+    "LUX": {
+      "country": "Luxembourg",
+      "svgFileName": "luxembourg",
+      "iso2ID": "LU",
+      "iso3ID": "LUX"
+    },
+    "MAC": {
+      "country": "Macau S.A.R.",
+      "svgFileName": "macao",
+      "iso2ID": "MO",
+      "iso3ID": "MAC"
+    },
+    "MDG": {
+      "country": "Madagascar",
+      "svgFileName": "madagascar",
+      "iso2ID": "MG",
+      "iso3ID": "MDG"
+    },
+    "MYS": {
+      "country": "Malaysia",
+      "svgFileName": "malaysia",
+      "iso2ID": "MY",
+      "iso3ID": "MYS"
+    },
+    "MDV": {
+      "country": "Maldives",
+      "svgFileName": "maldives",
+      "iso2ID": "MV",
+      "iso3ID": "MDV"
+    },
+    "MLI": {
+      "country": "Mali",
+      "svgFileName": "mali",
+      "iso2ID": "ML",
+      "iso3ID": "MLI"
+    },
+    "MLT": {
+      "country": "Malta",
+      "svgFileName": "malta",
+      "iso2ID": "MT",
+      "iso3ID": "MLT"
+    },
+    "MEX": {
+      "country": "Mexico",
+      "svgFileName": "mexico",
+      "iso2ID": "MX",
+      "iso3ID": "MEX"
+    },
+    "MDA": {
+      "country": "Moldova",
+      "svgFileName": "moldova",
+      "iso2ID": "MD",
+      "iso3ID": "MDA"
+    },
+    "MCO": {
+      "country": "Monaco",
+      "svgFileName": "monaco",
+      "iso2ID": "MC",
+      "iso3ID": "MCO"
+    },
+    "MNG": {
+      "country": "Mongolia",
+      "svgFileName": "mongolia",
+      "iso2ID": "MN",
+      "iso3ID": "MNG"
+    },
+    "MNE": {
+      "country": "Montenegro",
+      "svgFileName": "montenegro",
+      "iso2ID": "ME",
+      "iso3ID": "MNE"
+    },
+    "MSR": {
+      "country": "Montserrat",
+      "svgFileName": "montserrat",
+      "iso2ID": "MS",
+      "iso3ID": "MSR"
+    },
+    "MAR": {
+      "country": "Morocco",
+      "svgFileName": "morocco",
+      "iso2ID": "MA",
+      "iso3ID": "MAR"
+    },
+    "MOZ": {
+      "country": "Mozambique",
+      "svgFileName": "mozambique",
+      "iso2ID": "MZ",
+      "iso3ID": "MOZ"
+    },
+    "MMR": {
+      "country": "Myanmar",
+      "svgFileName": "myanmar",
+      "iso2ID": "MM",
+      "iso3ID": "MMR"
+    },
+    "NAM": {
+      "country": "Namibia",
+      "svgFileName": "namibia",
+      "iso2ID": "NA",
+      "iso3ID": "NAM"
+    },
+    "NPL": {
+      "country": "Nepal",
+      "svgFileName": "nepal",
+      "iso2ID": "NP",
+      "iso3ID": "NPL"
+    },
+    "NLD": {
+      "country": "Netherlands",
+      "svgFileName": "netherlands",
+      "iso2ID": "NL",
+      "iso3ID": "NLD"
+    },
+    "NZL": {
+      "country": "New Zealand",
+      "svgFileName": "new zealand",
+      "iso2ID": "NZ",
+      "iso3ID": "NZL"
+    },
+    "NIC": {
+      "country": "Nicaragua",
+      "svgFileName": "nicaragua",
+      "iso2ID": "NI",
+      "iso3ID": "NIC"
+    },
+    "NER": {
+      "country": "Niger",
+      "svgFileName": "niger",
+      "iso2ID": "NE",
+      "iso3ID": "NER"
+    },
+    "NGA": {
+      "country": "Nigeria",
+      "svgFileName": "nigeria",
+      "iso2ID": "NG",
+      "iso3ID": "NGA"
+    },
+    "PRK": {
+      "country": "North Korea",
+      "svgFileName": "north korea",
+      "iso2ID": "KP",
+      "iso3ID": "PRK"
+    },
+    "MKD": {
+      "country": "North Macedonia",
+      "svgFileName": "republic of macedonia",
+      "iso2ID": "MK",
+      "iso3ID": "MKD"
+    },
+    "NOR": {
+      "country": "Norway",
+      "svgFileName": "norway",
+      "iso2ID": "NO",
+      "iso3ID": "NOR"
+    },
+    "OMN": {
+      "country": "Oman",
+      "svgFileName": "oman",
+      "iso2ID": "OM",
+      "iso3ID": "OMN"
+    },
+    "PAK": {
+      "country": "Pakistan",
+      "svgFileName": "pakistan",
+      "iso2ID": "PK",
+      "iso3ID": "PAK"
+    },
+    "PAN": {
+      "country": "Panama",
+      "svgFileName": "panama",
+      "iso2ID": "PA",
+      "iso3ID": "PAN"
+    },
+    "PNG": {
+      "country": "Papua New Guinea",
+      "svgFileName": "papua new guinea",
+      "iso2ID": "PG",
+      "iso3ID": "PNG"
+    },
+    "PRY": {
+      "country": "Paraguay",
+      "svgFileName": "paraguay",
+      "iso2ID": "PY",
+      "iso3ID": "PRY"
+    },
+    "PER": {
+      "country": "Peru",
+      "svgFileName": "peru",
+      "iso2ID": "PE",
+      "iso3ID": "PER"
+    },
+    "PHL": {
+      "country": "Philippines",
+      "svgFileName": "philippines",
+      "iso2ID": "PH",
+      "iso3ID": "PHL"
+    },
+    "POL": {
+      "country": "Poland",
+      "svgFileName": "poland",
+      "iso2ID": "PL",
+      "iso3ID": "POL"
+    },
+    "PRT": {
+      "country": "Portugal",
+      "svgFileName": "portugal",
+      "iso2ID": "PT",
+      "iso3ID": "PRT"
+    },
+    "PRI": {
+      "country": "Puerto Rico",
+      "svgFileName": "puerto rico",
+      "iso2ID": "PR",
+      "iso3ID": "PRI"
+    },
+    "QAT": {
+      "country": "Qatar",
+      "svgFileName": "qatar",
+      "iso2ID": "QA",
+      "iso3ID": "QAT"
+    },
+    "ROU": {
+      "country": "Romania",
+      "svgFileName": "romania",
+      "iso2ID": "RO",
+      "iso3ID": "ROU"
+    },
+    "RUS": {
+      "country": "Russia",
+      "svgFileName": "russia",
+      "iso2ID": "RU",
+      "iso3ID": "RUS"
+    },
+    "RWA": {
+      "country": "Rwanda",
+      "svgFileName": "rwanda",
+      "iso2ID": "RW",
+      "iso3ID": "RWA"
+    },
+    "WSM": {
+      "country": "Samoa",
+      "svgFileName": "samoa",
+      "iso2ID": "WS",
+      "iso3ID": "WSM"
+    },
+    "SAU": {
+      "country": "Saudi Arabia",
+      "svgFileName": "saudi arabia",
+      "iso2ID": "SA",
+      "iso3ID": "SAU"
+    },
+    "SEN": {
+      "country": "Senegal",
+      "svgFileName": "senegal",
+      "iso2ID": "SN",
+      "iso3ID": "SEN"
+    },
+    "SRB": {
+      "country": "Serbia",
+      "svgFileName": "serbia",
+      "iso2ID": "RS",
+      "iso3ID": "SRB"
+    },
+    "SGP": {
+      "country": "Singapore",
+      "svgFileName": "singapore",
+      "iso2ID": "SG",
+      "iso3ID": "SGP"
+    },
+    "SVK": {
+      "country": "Slovakia",
+      "svgFileName": "slovakia",
+      "iso2ID": "SK",
+      "iso3ID": "SVK"
+    },
+    "SVN": {
+      "country": "Slovenia",
+      "svgFileName": "slovenia",
+      "iso2ID": "SI",
+      "iso3ID": "SVN"
+    },
+    "SOM": {
+      "country": "Somalia",
+      "svgFileName": "somalia",
+      "iso2ID": "SO",
+      "iso3ID": "SOM"
+    },
+    "ZAF": {
+      "country": "South Africa",
+      "svgFileName": "south africa",
+      "iso2ID": "ZA",
+      "iso3ID": "ZAF"
+    },
+    "SGS": {
+      "country": "South Georgia",
+      "svgFileName": "south georgia",
+      "iso2ID": "GS",
+      "iso3ID": "SGS"
+    },
+    "KOR": {
+      "country": "South Korea",
+      "svgFileName": "south korea",
+      "iso2ID": "KR",
+      "iso3ID": "KOR"
+    },
+    "SSD": {
+      "country": "South Sudan",
+      "svgFileName": "south sudan",
+      "iso2ID": "SS",
+      "iso3ID": "SSD"
+    },
+    "ESP": {
+      "country": "Spain",
+      "svgFileName": "spain",
+      "iso2ID": "ES",
+      "iso3ID": "ESP"
+    },
+    "LKA": {
+      "country": "Sri Lanka",
+      "svgFileName": "sri lanka",
+      "iso2ID": "LK",
+      "iso3ID": "LKA"
+    },
+    "SDN": {
+      "country": "Sudan",
+      "svgFileName": "sudan",
+      "iso2ID": "SD",
+      "iso3ID": "SDN"
+    },
+    "SUR": {
+      "country": "Suriname",
+      "svgFileName": "suriname",
+      "iso2ID": "SR",
+      "iso3ID": "SUR"
+    },
+    "SWE": {
+      "country": "Sweden",
+      "svgFileName": "sweden",
+      "iso2ID": "SE",
+      "iso3ID": "SWE"
+    },
+    "CHE": {
+      "country": "Switzerland",
+      "svgFileName": "switzerland",
+      "iso2ID": "CH",
+      "iso3ID": "CHE"
+    },
+    "SYR": {
+      "country": "Syria",
+      "svgFileName": "syria",
+      "iso2ID": "SY",
+      "iso3ID": "SYR"
+    },
+    "TWN": {
+      "country": "Taiwan",
+      "svgFileName": "taiwan",
+      "iso2ID": "TW",
+      "iso3ID": "TWN"
+    },
+    "TJK": {
+      "country": "Tajikistan",
+      "svgFileName": "tajikistan",
+      "iso2ID": "TJ",
+      "iso3ID": "TJK"
+    },
+    "TZA": {
+      "country": "Tanzania",
+      "svgFileName": "tanzania",
+      "iso2ID": "TZ",
+      "iso3ID": "TZA"
+    },
+    "THA": {
+      "country": "Thailand",
+      "svgFileName": "thailand",
+      "iso2ID": "TH",
+      "iso3ID": "THA"
+    },
+    "BHS": {
+      "country": "The Bahamas",
+      "svgFileName": "bahamas",
+      "iso2ID": "BS",
+      "iso3ID": "BHS"
+    },
+    "TKL": {
+      "country": "Tokelau",
+      "svgFileName": "tokelau",
+      "iso2ID": "TK",
+      "iso3ID": "TKL"
+    },
+    "TON": {
+      "country": "Tonga",
+      "svgFileName": "tonga",
+      "iso2ID": "TO",
+      "iso3ID": "TON"
+    },
+    "TTO": {
+      "country": "Trinidad and Tobago",
+      "svgFileName": "trinidad and tobago",
+      "iso2ID": "TT",
+      "iso3ID": "TTO"
+    },
+    "TUN": {
+      "country": "Tunisia",
+      "svgFileName": "tunisia",
+      "iso2ID": "TN",
+      "iso3ID": "TUN"
+    },
+    "TUR": {
+      "country": "Turkey",
+      "svgFileName": "turkey",
+      "iso2ID": "TR",
+      "iso3ID": "TUR"
+    },
+    "TKM": {
+      "country": "Turkmenistan",
+      "svgFileName": "turkmenistan",
+      "iso2ID": "TM",
+      "iso3ID": "TKM"
+    },
+    "UKR": {
+      "country": "Ukraine",
+      "svgFileName": "ukraine",
+      "iso2ID": "UA",
+      "iso3ID": "UKR"
+    },
+    "ARE": {
+      "country": "United Arab Emirates",
+      "svgFileName": "united arab emirates",
+      "iso2ID": "AE",
+      "iso3ID": "ARE"
+    },
+    "GBR": {
+      "country": "United Kingdom",
+      "svgFileName": "united kingdom",
+      "iso2ID": "GB",
+      "iso3ID": "GBR"
+    },
+    "USA": {
+      "country": "United States",
+      "svgFileName": "united states",
+      "iso2ID": "US",
+      "iso3ID": "USA"
+    },
+    "UMI": {
+      "country": "United States Minor Outlying Islands",
+      "svgFileName": "united states",
+      "iso2ID": "UM",
+      "iso3ID": "UMI"
+    },
+    "URY": {
+      "country": "Uruguay",
+      "svgFileName": "uruguay",
+      "iso2ID": "UY",
+      "iso3ID": "URY"
+    },
+    "UZB": {
+      "country": "Uzbekistan",
+      "svgFileName": "uzbekistan",
+      "iso2ID": "UZ",
+      "iso3ID": "UZB"
+    },
+    "VUT": {
+      "country": "Vanuatu",
+      "svgFileName": "vanuatu",
+      "iso2ID": "VU",
+      "iso3ID": "VUT"
+    },
+    "VEN": {
+      "country": "Venezuela",
+      "svgFileName": "venezuela",
+      "iso2ID": "VE",
+      "iso3ID": "VEN"
+    },
+    "VNM": {
+      "country": "Vietnam",
+      "svgFileName": "vietnam",
+      "iso2ID": "VN",
+      "iso3ID": "VNM"
+    },
+    "VGB": {
+      "country": "Virgin Islands (British)",
+      "svgFileName": "virgin islands",
+      "iso2ID": "VG",
+      "iso3ID": "VGB"
+    },
+    "VIR": {
+      "country": "Virgin Islands (US)",
+      "svgFileName": "virgin islands",
+      "iso2ID": "VI",
+      "iso3ID": "VIR"
+    },
+    "YEM": {
+      "country": "Yemen",
+      "svgFileName": "yemen",
+      "iso2ID": "YE",
+      "iso3ID": "YEM"
+    },
+    "ZWE": {
+      "country": "Zimbabwe",
+      "svgFileName": "zimbabwe",
+      "iso2ID": "ZW",
+      "iso3ID": "ZWE"
+    }
+  }
