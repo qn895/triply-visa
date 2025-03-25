@@ -740,7 +740,7 @@ BJN,Bajone,-17.17:37.95,Mozambique,
 BJO,Bermejo,-22.77:-64.31,Bolivia,
 BJP,Braganca Paulista,-4.63:-39.77,Brazil,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brag1.jpg/800px-Brag1.jpg
 BJR,Bahar Dar,11.609444:37.321944,Ethiopia,
-BJS,Beijing,39.904214:116.407413,China,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg/800px-Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg
+PEK,Beijing,39.904214:116.407413,China,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/2560px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg
 BJT,Bentota River,,Sri Lanka,
 BJU,Bajura,29.5:81.67,Nepal,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Martadi_View.jpg/800px-Martadi_View.jpg
 BJV,Milas,37.25:27.66,Turkey,
@@ -821,7 +821,7 @@ BMW,Bordj Badji Mokhtar,21.325:0.946,Algeria,https://upload.wikimedia.org/wikipe
 BMX,Big Mountain,,United States,
 BMY,Belep Island,-19.75:163.666667,New Caledonia,
 BMZ,Bamu,-7.83:143.23,Papua New Guinea,
-BNA,Nashville,36.1658899:-86.7844432,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nashville_Skyline_from_Ft_Negly_2024.jpg/960px-Nashville_Skyline_from_Ft_Negly_2024.jpg
+BNA,Nashville,36.1658899:-86.7844432,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Broadway_%28Nashville%29_lights.jpg/2560px-Broadway_%28Nashville%29_lights.jpg
 BNB,Boende,-0.2842862:20.8850949,Democratic Republic of the Congo,
 BNC,Beni,0.488453:29.45895,Democratic Republic of the Congo,
 BND,Bandar Abbas,27.1833333:56.2666667,Iran,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mabad-Hendooha.jpg/960px-Mabad-Hendooha.jpg
@@ -1266,7 +1266,7 @@ CHE,Caherciveen,51.9477635:-10.224143,Ireland,
 CHF,Jinhae,35.1330308:128.7100167,South Korea,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jinhae_City_20090405.JPG/800px-Jinhae_City_20090405.JPG
 CHG,Chaoyang,,China,
 CHH,Chachapoyas,-6.2166667:-77.85,Peru,
-CHI,Chicago,41.8781136:-87.6297982,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicago_Skyline_in_September_2023_%28cropped%29.jpg/960px-Chicago_Skyline_in_September_2023_%28cropped%29.jpg
+ORD,Chicago,41.8781136:-87.6297982,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicago_Skyline_in_September_2023_%28cropped%29.jpg/960px-Chicago_Skyline_in_September_2023_%28cropped%29.jpg
 CHJ,Chipinge,-20.21:32.63,Zimbabwe,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Zimbabwe_adm_location_map.svg/662px-Zimbabwe_adm_location_map.svg.png
 CHK,Chickasha,35.052565:-97.9364326,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rock_Island_Chickasha.jpg/800px-Rock_Island_Chickasha.jpg
 CHL,Challis,44.5046445:-114.2317308,United States,
@@ -1643,7 +1643,7 @@ DAH,Dathina,13.87:46.13,Yemen,
 DAI,Darjeeling,27.0360066:88.2626751,India,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Darjeeling-panoramic.jpg/800px-Darjeeling-panoramic.jpg
 DAJ,Dauan Island,-9.4201831:142.5345281,Australia,
 DAK,Dakhla Oasis,25.411608:29.003058,Egypt,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dakhla_Oasis_view_%28May_2007%29.jpg/960px-Dakhla_Oasis_view_%28May_2007%29.jpg
-DAL,Dallas,32.802955:-96.769923,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dallasdowntown2023.jpg/800px-Dallasdowntown2023.jpg
+DFW,Dallas,32.802955:-96.769923,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dallasdowntown2023.jpg/800px-Dallasdowntown2023.jpg
 DAM,Damascus,33.519299:36.31345,Syria,
 DAN,Danville,36.5859718:-79.3950228,United States,
 DAO,Dabo,,Papua New Guinea,
@@ -2839,7 +2839,7 @@ HJT,Khujirt,46.93:102.78,Mongolia,https://upload.wikimedia.org/wikipedia/commons
 HKA,Blytheville,35.9272953:-89.9189753,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Blytheville_City_Park_Blytheville_AR_008.jpg/800px-Blytheville_City_Park_Blytheville_AR_008.jpg
 HKB,Healy Lake,63.87:-148.97,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/World_location_map_%28equirectangular_180%29.svg/800px-World_location_map_%28equirectangular_180%29.svg.png
 HKD,Hakodate,41.7687933:140.7288103,Japan,
-HKG,Hong Kong,22.2478599:114.2033843,Hong Kong,
+HKG,Hong Kong,22.2478599:114.2033843,Hong Kong,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Island_Skyline_201108.jpg/960px-Hong_Kong_Island_Skyline_201108.jpg
 HKK,Hokitika,-42.7173686:170.9665427,New Zealand,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hokitika_Township.jpg/800px-Hokitika_Township.jpg
 HKN,Hoskins,-5.461667:150.405,Papua New Guinea,
 HKT,Phuket,7.9843109:98.3307468,Thailand,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Phuket_Aerial.jpg/800px-Phuket_Aerial.jpg
@@ -4029,7 +4029,7 @@ LDZ,Londolozi,-24.8:31.5,South Africa,
 LEA,Learmonth,-22.24:114.09,Australia,
 LEB,White River,43.6486818:-72.3148134,United States,
 LEC,Lencois,-12.5570843:-41.3920641,Brazil,
-LED,St Petersburg,59.939039:30.315785,Russia,
+LED,St Petersburg,59.939039:30.315785,Russia,https://media.architecturaldigest.com/photos/5d360eeef80a24000ae71e5b/16:9/w_2560%2Cc_limit/GettyImages-481780740.jpg
 LEE,Leesburg,28.810823:-81.8778582,United States,
 LEF,Lebakeng,-29.783333:28.583333,Lesotho,
 LEG,Aleg,17.05829:-13.90869,Mauritania,
@@ -4209,7 +4209,7 @@ LOI,Lontras,-4.38:-51.92,Brazil,https://upload.wikimedia.org/wikipedia/commons/t
 LOK,Lodwar,3.12:35.61,Kenya,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lodwar_Kenya_from_hill2010.JPG/960px-Lodwar_Kenya_from_hill2010.JPG
 LOL,Lovelock,40.1793537:-118.4734808,United States,
 LOM,Lagos De Moreno,21.3579529:-101.9303604,Mexico,
-LON,London,51.51:0.06,United Kingdom,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg
+LHR,London,51.51:0.06,United Kingdom,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg
 LOP,Lombok,-8.565:116.351,Indonesia,
 LOQ,Lobatse,-25.18:25.67,Botswana,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/My_Home_Town_from_a_Hilltop_%2C_Lobatse.jpg/800px-My_Home_Town_from_a_Hilltop_%2C_Lobatse.jpg
 LOS,Lagos,6.4530556:3.3958333,Nigeria,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg/800px-2014_Tinubu_Square_Lagos_Nigeria_14640600637.jpg
@@ -4747,7 +4747,7 @@ MOS,Moses Point,64.6946462:-162.0628295,United States,
 MOT,Minot,48.2325095:-101.2962732,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Minot%2C_North_Dakota_%282022%29.jpg/800px-Minot%2C_North_Dakota_%282022%29.jpg
 MOU,Mountain Village,62.0855556:-163.7294444,United States,
 MOV,Moranbah,-22.0009139:148.0457654,Australia,
-MOW,Moscow,55.755786:37.617633,Russia,
+MOW,Moscow,55.755786:37.617633,Russia,https://upload.wikimedia.org/wikipedia/commons/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg
 MOX,Morris,45.5861111:-95.9138889,United States,
 MOY,Monterrey,4.875918:-72.897911,Colombia,
 MOZ,Moorea,-17.5388435:-149.8295234,French Polynesia,
@@ -6110,7 +6110,7 @@ QFQ,Maloy,61.9355433:5.1135542,Norway,
 QGQ,Attu,,Greenland,
 QGY,Per,,Hungary,
 QHA,Hasselt,,Belgium,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Panorama_Hasselt-_stadscentrum_met_Sint_Quintinuskathedraal_en_Blauwe_Boulevard.jpg/800px-Panorama_Hasselt-_stadscentrum_met_Sint_Quintinuskathedraal_en_Blauwe_Boulevard.jpg
-QHO,Houston,29.7601927:-95.3693896,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632226.tif/lossy-page1-800px-Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632226.tif.jpg
+IAH,Houston,29.7601927:-95.3693896,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632226.tif/lossy-page1-800px-Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632226.tif.jpg
 QHU,Husum,,Germany,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Am_Hafen_-_panoramio_-_Georg_Denda_%281%29.jpg/960px-Am_Hafen_-_panoramio_-_Georg_Denda_%281%29.jpg
 QIE,Istres,,France,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Istres_-_Centre_ancien.jpg/960px-Istres_-_Centre_ancien.jpg
 QIG,Iguatu,-6.34:-39.3,Brazil,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bandeira_de_Iguatu.jpeg/800px-Bandeira_de_Iguatu.jpeg
@@ -6644,7 +6644,7 @@ SIJ,Siglufjordur,66.1511755:-18.9112652,Iceland,
 SIK,Sikeston,36.876719:-89.5878579,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sikeston-downtown-area-mo.jpg/800px-Sikeston-downtown-area-mo.jpg
 SIL,Sila,-9.12:148.4,Papua New Guinea,
 SIM,Simbai,-5.27:144.53,Papua New Guinea,
-SIN,Singapore,1.2894365:103.8499802,Singapore,
+SIN,Singapore,1.2894365:103.8499802,Singapore,https://upload.wikimedia.org/wikipedia/commons/a/ac/Singapore_skyline_at_sunset_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg
 SIO,Smithton,-40.8419763:145.1257907,Australia,
 SIP,Simferopol,44.952117:34.102417,Ukraine,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Simferopol_04-14_img20_MGorky_Crimean_Theatre.jpg/800px-Simferopol_04-14_img20_MGorky_Crimean_Theatre.jpg
 SIQ,Singkep,-0.48:104.58,Indonesia,
@@ -8166,12 +8166,12 @@ XGR,Kangiqsualujjuaq,58.689838:-65.969643,Canada,https://upload.wikimedia.org/wi
 XIC,Xichang,27.894496:102.264443,China,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/00_Xichang_Qionghai_Lake.jpg/960px-00_Xichang_Qionghai_Lake.jpg
 XIE,Xienglom,19.65:100.83,Laos,
 XIG,Xinguara,-6.97:-48.8,Brazil,
-XIH,Khan Al Baghdadi,,Iraq,
+XIH,Khan Al Baghdadi,,Iraq,https://www.travelthewholeworld.com/wp-content/uploads/2021/11/Iraq-Baghdad-Ramadan-Mosque.jpg
 XIJ,Ahmed Al Jaber,,Kuwait,
 XIL,Xilinhot,43.92:115.96,China,
 XIN,Xingning,24.15:115.76,China,
 XIQ,Ilimanaq,,Greenland,
-XIY,Xi An,34.264987:108.944269,China,
+XIY,Xi'An,34.264987:108.944269,China,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Xi%27an_-_City_wall_-_014.jpg/2560px-Xi%27an_-_City_wall_-_014.jpg
 XJD,Al Udeid,,Qatar,
 XJM,Mangla,,Pakistan,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mangla_Fort%2C_Mangla_Dam.jpg/800px-Mangla_Fort%2C_Mangla_Dam.jpg
 XJS,Kitzbuehl,,Austria,
@@ -8745,7 +8745,7 @@ ZCA,Tai Shan,,China,
 ZCD,Bamberg,,Germany,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bamberg_Altstadt_20061115-057-Pano.jpg/800px-Bamberg_Altstadt_20061115-057-Pano.jpg
 ZCL,Zacatecas,22.7708555:-102.5832426,Mexico,https://upload.wikimedia.org/wikipedia/commons/a/ab/Silver-158794.jpg
 ZCO,Temuco,-38.75:-72.6666667,Chile,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vista_Temuco.jpg/800px-Vista_Temuco.jpg
-ZCP,Foshan,23.021548:113.121416,China,
+ZCP,Foshan,23.021548:113.121416,China,https://content.r9cdn.net/rimg/dimg/f0/e2/4540b0cb-city-52569-17ea26327b7.jpg?crop=true&width=1020&height=498
 ZCU,She Kou,,China,
 ZDM,Ramallah,,Palestinian Territory,
 ZEC,Secunda,-26.5157792:29.1913918,South Africa,
