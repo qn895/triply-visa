@@ -4492,7 +4492,7 @@ MEH,Mehamn,71.03:27.83,Norway,https://upload.wikimedia.org/wikipedia/commons/thu
 MEI,Meridian,32.3643098:-88.703656,United States,,Key Field,KMEI,America/Chicago,MEI,US
 MEJ,Meadville,41.63:-80.21,United States,,Meadville,KGKJ,America/New_York,MEJ,US
 MEK,Meknes,33.90387:-5.55745,Morocco,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Place_el-Hedim_%28cropped_for_panorama%29_DSCF5775.jpg/800px-Place_el-Hedim_%28cropped_for_panorama%29_DSCF5775.jpg,Meknes,GMFM,Africa/Casablanca,MEK,MA
-MEL,Melbourne,-37.8131869:144.9629796,Australia,,Tullamarine Airport,YMML,Australia/Melbourne,MEL,AU
+MEL,Melbourne,-37.8131869:144.9629796,Australia,https://upload.wikimedia.org/wikipedia/commons/4/46/Melburnian_Skyline_b.jpg,Tullamarine Airport,YMML,Australia/Melbourne,MEL,AU
 MEM,Memphis,35.1495343:-90.0489801,United States,,Memphis International Airport,KMEM,America/Chicago,MEM,US
 MEN,Mende,44.517611:3.501873,France,,Brenoux,LFNB,Europe/Paris,MEN,FR
 MEO,Manteo,35.9082256:-75.6757302,United States,,Dare County Regional,KMQI,America/New_York,MEO,US
@@ -5376,7 +5376,7 @@ OGA,Ogallala,41.1288889:-101.7194444,United States,,Searle Field,KOGA,America/De
 OGB,Orangeburg,33.4918203:-80.8556476,United States,,Municipal,KOGB,America/New_York,OGB,US
 OGD,Ogden,41.223:-111.9738304,United States,,Municipal,KOGD,America/Denver,OGD,US
 OGE,Ogeranang,-6.47:147.35,Papua New Guinea,,Ogeranang,AYOG,Pacific/Port_Moresby,OGE,PG
-OGG,Maui,20.7983626:-156.3319253,United States,,Kahului Airport,PHOG,Pacific/Honolulu,OGG,US
+OGG,Maui,20.7983626:-156.3319253,United States,https://vacations.hawaiilife.com/sites/default/files/uploads/kahului_maui.jpg,Kahului Airport,PHOG,Pacific/Honolulu,OGG,US
 OGL,Ogle,6.81:-58.1,Guyana,,Ogle Airport,SYEC,America/Guyana,OGL,GY
 OGN,Yonaguni Jima,24.47:122.98,Japan,,Yonaguni Jima,ROYN,Asia/Tokyo,OGN,JP
 OGO,Abengourou,6.72718:-3.490142,Ivory Coast,,Abengourou,DIAU,Africa/Abidjan,OGO,CI
@@ -7022,7 +7022,7 @@ SXZ,Siirt,37.94429:41.93288,Turkey,https://upload.wikimedia.org/wikipedia/common
 SYA,Shemya,,United States,,Shemya AFB,PASY,America/Adak,SYA,US
 SYB,Seal Bay,58.17:-152.5,United States,,Seal Bay,,America/Anchorage,SYB,US
 SYC,Shiringayoc,-11.9:-69.17,Peru,,Shiringayoc,SPSY,America/Lima,SYC,PE
-SYD,Sydney,-33.8689009:151.2070914,Australia,,Sydney (Kingsford Smith) Airport,YSSY,Australia/Sydney,SYD,AU
+SYD,Sydney,-33.8689009:151.2070914,Australia,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/2880px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg,Sydney (Kingsford Smith) Airport,YSSY,Australia/Sydney,SYD,AU
 SYE,Sadah,16.97:43.73,Yemen,,Sadah,OYSH,Asia/Aden,SYE,YE
 SYF,Silva Bay,49.1650852:-123.7959878,Canada,,Silva Bay,,America/Vancouver,SYF,CA
 SYG,Svalbard,78.0:20.0,Norway,,,,,,
