@@ -430,7 +430,7 @@ AUO,Auburn,32.6098566:-85.4807825,United States,,Auburn-Opelika,KAUO,America/Chi
 AUP,Agaun,-9.92:149.38,Papua New Guinea,,Agaun,AYAG,Pacific/Port_Moresby,AUP,PG
 AUQ,Atuona,-9.803:-139.0396,French Polynesia,,Hiva Oa Airport,NTMN,Pacific/Marquesas,AUQ,PF
 AUR,Aurillac,44.930953:2.444997,France,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aurillac-Hotel-de-ville-dpt-Cantal-DSC3-233.jpg/781px-Aurillac-Hotel-de-ville-dpt-Cantal-DSC3-233.jpg,Aurillac Airport,LFLW,Europe/Paris,AUR,FR
-AUS,Austin,30.267153:-97.7430608,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Austin_Downtown_2024.jpg/800px-Austin_Downtown_2024.jpg,Austin-Bergstrom International Airport,KAUS,America/Chicago,AUS,US
+AUS,Austin,30.267153:-97.7430608,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Austin_Downtown_2024.jpg/800px-Austin_Downtown_2024.jpg,Austin Bergstrom International Airport,KAUS,America/Chicago,AUS,US
 AUT,Atauro,-8.2368705:125.5767287,East Timor,,Atauro,WPAT,Asia/Dili,AUT,ID
 AUU,Aurukun Mission,-13.35:141.72,Australia,,Aurukun Mission,YAUR,Australia/Brisbane,AUU,AU
 AUV,Aumo,-5.73:148.5,Papua New Guinea,,Aumo,AYUM,Pacific/Port_Moresby,AUV,PG
@@ -5303,6 +5303,7 @@ NWT,Nowata,-9.98:149.72,Papua New Guinea,,Nowata,,Pacific/Port_Moresby,NWT,PG
 NXX,Willow Grove,,United States,,Willow Grove NAS,,America/New_York,NXX,US
 NYA,Nyagan,62.11:65.615,Russia,,Nyagan Airport,USHN,Asia/Yekaterinburg,NYA,RU
 NYC,New York,40.7143528:-74.0059731,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/800px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg,,,America/New_York,NYC,US
+JFK,New York,40.7143528:-74.0059731,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/800px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg,,,America/New_York,NYC,US
 NYE,Nyeri,-0.37:36.97,Kenya,,Nyeri,HKNI,Africa/Nairobi,NYE,KE
 NYG,Quantico,,United States,,Quantico NAS,,America/New_York,NYG,US
 NYI,Sunyani,7.36:-2.33,Ghana,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cocoa_House_in_Sunyani.jpg/800px-Cocoa_House_in_Sunyani.jpg,Sunyani,DGSN,Africa/Accra,NYI,GH
@@ -8865,3 +8866,1184 @@ ZYI,Zunyi,27.725654:106.927389,China,https://upload.wikimedia.org/wikipedia/comm
 ZYL,Sylhet,24.8977778:91.8713889,Bangladesh,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sylhet%2C_by_Murshed.jpg/800px-Sylhet%2C_by_Murshed.jpg,Civil Airport,VGSY,Asia/Dhaka,ZYL,BD
 ZZU,Mzuzu,-11.44:34.01,Malawi,,Mzuzu,FWUU,Africa/Blantyre,ZZU,MW
 ZZV,Zanesville,39.9403453:-82.0131924,United States,,Zanesville,KZZV,America/New_York,ZZV,US
+AAP,,29.833332:-95.666664,United States,,Andrau Airpark,WALS,America/Chicago,HOU,US
+ABB,Asaba,6.20565465:6.66385456506626,Nigeria,,Asaba International Airport,DNAS,Africa/Lagos,ABB,NG
+ACF,Aral,40.464167:81.246944,China,,Alaer Talimu Airport,ZWAL,Asia/Urumqi,ACF,CN
+ADB,,38.28959325:27.1588197365317,Turkey,,Izmir Adnan Menderes Airport,LTBJ,Europe/Istanbul,IZM,TR
+ADJ,Amman,31.97342425:35.9946125485289,Jordan,,Marka International Airport,OJAM,Asia/Amman,AMM,JO
+ADM,Dickson,34.3028:-97.0192,United States,,Ardmore Municipal Airport,KADM,America/Chicago,ADM,US
+ADP,,7.3385247:81.625224246467,Sri Lanka,,Ampara,VCCG,Asia/Colombo,ADP,LK
+ADS,Haltom City,32.783333:-97.3,United States,,Addison Airport,KADS,America/Chicago,DFW,US
+AEB,Tianzhou,23.72020895:106.960971409612,China,,Youjiang,ZGBS,Asia/Shanghai,AEB,CN
+AEE,,10.0524392:32.9620072135567,South Sudan,,Adareil Airport,,Africa/Juba,AEE,SS
+AEM,,45.8414555:137.673640885763,Russia,,Amgu,UHTG,Asia/Vladivostok,AEM,RU
+AEP,Colegiales,-34.55622:-58.41667,Argentina,,Jorge Newbery Airport,SABE,America/Argentina/Buenos_Aires,BUE,AR
+AEQ,Tianshan,43.90797955:120.149347985592,China,,Ar Horqin Airport,,Asia/Shanghai,AEQ,CN
+AFF,Cimarron Hills,38.833332:-104.7,United States,,USAF Academy Airstrip,KAFF,America/Denver,COS,US
+AFW,Haslet,32.99299785:-97.3183646128057,United States,,Fort Worth Alliance Airport,KAFW,America/Chicago,DFW,US
+AGB,Rehling,48.425278:10.931667,Germany,,Augsburg Airport,EDMA,Europe/Berlin,MUC,DE
+AGC,Pleasant Hills,40.3534454:-79.9290465432013,United States,,Allegheny County Airport,KAGC,America/New_York,PIT,US
+AHA,,26.2:127.65,Japan,,Naha AFB,,Asia/Tokyo,OKA,JP
+AHG,,-10.3717:56.60313,,,Agalega Island Airstrip,,Indian/Mauritius,AHG,MU
+AHJ,Qiongxi,32.5367833:102.350229534524,China,,Hongyuan Airport,ZUHY,Asia/Shanghai,AHJ,CN
+AHM,Ashland,42.19029999:-122.6610031,United States,,Sumner Parker Field,KS03,America/Los_Angeles,AHM,US
+AHW,,31.34292:48.74668,Oman,,Saih Rawl,,Asia/Tehran,AHW,OM
+AIY,,39.3859082:-74.4254622,United States,,Bader Field,,America/New_York,AIY,US
+AKS,,-8.7042047:160.6817763,,,Gwaunaru'u,AGGA,Pacific/Guadalcanal,AKS,SB
+ANK,Batikent,39.9517942:32.6894144100836,Turkey,,Etimesgut,LTAD,Europe/Istanbul,ANK,TR
+AOE,,39.81:30.519444,Turkey,,Anadolu University,LTBY,Europe/Istanbul,ESK,TR
+AOM,,22.48980955:57.3915487339568,Oman,,Adam Airport,OOAD,Asia/Muscat,AOM,OM
+AOP,Alianza Cristiana,-2.7952148:-76.4682010432661,Peru,,Alferez FAP Alfredo Vladimir Sara Bauer Airport,SPAS,America/Lima,AOP,PE
+APA,,39.733334:-104.98333,United States,,Centennial Airport,KAPA,America/Denver,DEN,US
+APD,,-4.46021:120.30683,Indonesia,,Arung Palakka Airport,,Asia/Jakarta,APD,ID
+APG,Aberdeen,39.5:-76.166664,United States,,Phillips AAF,KAPG,America/New_York,APG,US
+APJ,Burang,30.3975:81.138611,China,,Ngari Burang Airport,ZUPL,Asia/Shanghai,APJ,CN
+ARN,Marsta,59.6467921:17.9370443341945,Sweden,https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQWC_4eteFOo7y_fKidCdSGIziN-bl_PUH_hqpB3Nkai2j3f84tqU_CmaUQb1r9kvEddQsOPRubrssdd5eTdOgtZsdZfB939Wvz7bNWOgA,Stockholm Arlanda Airport,ESSA,Europe/Stockholm,STO,SE
+ARZ,,-7.5:13.5,Angola,,N'zeto,FNZE,Africa/Luanda,ARZ,AO
+ASQ,,39.4664739:-117.197082391621,United States,,Austin,KTMT,America/Los_Angeles,ASQ,US
+ASS,,-24.7410105:31.5185186,South Africa,,Arathusa Safari Lodge,FAAR,Africa/Johannesburg,ASS,ZA
+ATC,,24.6302173:-75.675917998054,The Bahamas,,Arthur's Town,MYCA,America/Nassau,ATC,BS
+AUM,Austin,43.666668:-92.98333,United States,,Austin,KAUM,America/Chicago,AUM,US
+AUW,Schofield,44.923332:-89.623055,United States,,Municipal,KAUW,America/Chicago,AUW,US
+AVR,Sobralinho,38.8833008:-9.0300999,Portugal,,Alverca,LPAR,Europe/Lisbon,AVR,PT
+AVW,Marana,32.4113732:-111.217487916318,United States,,Avra Valley,KAVQ,America/Phoenix,TUS,US
+AXF,Bayan Hot,38.7476971:105.586124023687,China,,Alxa Left Banner,ZBAL,Asia/Chongqing,AXF,CN
+AXJ,Hondo,32.4822166:130.15846001265,Japan,,Amakusa,RJDA,Asia/Tokyo,AXJ,JP
+AXO,Pantar,-8.244694:124.219278,Indonesia,,Bandar Udara Pantar,,Asia/Makassar,AXO,ID
+AYJ,Faizabad,26.748034:82.150781,India,,Maharishi Valmiki International Airport,VEAY,Asia/Kolkata,AYJ,IN
+AYM,,24.467:54.6103,United Arab Emirates,,Yas Island SPB,,Asia/Dubai,AUH,AE
+AYX,Puerto Ocopa,-10.72845785:-73.7690729583761,Peru,,Gerardo Pérez Pinedo,SPAY,America/Lima,AYX,PE
+AYY,,6.86:81.82388889,Sri Lanka,,Arugam Bay SPB,,Asia/Colombo,AYY,LK
+AZA,Queen Creek,33.30591455:-111.65264411502,United States,,Phoenix-Mesa Gateway Airport,KIWA,America/Phoenix,PHX,US
+AZH,Manduri,26.153333:83.118333,India,,Azamgarh Airport,VEAH,Asia/Kolkata,AZH,IN
+AZI,,24.419167:54.451668,United Arab Emirates,,Bateen,OMAD,Asia/Dubai,AUH,AE
+AZJ,Changzhou,31.912266555746:119.78395645531,China,,Zhenjiang Dalu,,Asia/Shanghai,AZJ,CN
+AZL,,-13.465528:-58.866935,Brazil,,Fazenda Tucunare Airport,SWTU,America/Cuiaba,AZL,BR
+AZP,Iztacalco,19.416668:-99.1,Mexico,,Atizapan,MMJC,America/Mexico_City,MEX,MX
+BAB,Marysville,39.15:-121.583336,United States,,Beale AFB,KBAB,America/Los_Angeles,MYV,US
+BAD,Bossier City,32.5:-93.666664,United States,,Barksdale AFB,KBAD,America/Chicago,SHV,US
+BBU,,44.50029205:26.0902283244848,Romania,,Baneasa,LRBS,Europe/Bucharest,BUH,RO
+BEC,,37.683334:-97.333336,United States,,Beech,KBEC,America/Chicago,ICT,US
+BEO,Belmont,-33.033333:151.66667,Australia,,Belmont,YLMQ,Australia/Sydney,NTL,AU
+BEX,Benson,51.63333:-1.083333,United Kingdom,,Benson RAF Station,EGUB,Europe/London,BEX,GB
+BFH,Curitiba,-25.4048327:-49.2316509521796,Brazil,,Bacacheri,SBBI,America/Sao_Paulo,BFH,BR
+BFI,Boulevard Park,47.5371:-122.3037,United States,,Boeing Field International Airport,KBFI,America/Los_Angeles,SEA,US
+BFM,,30.683332:-88.23333,United States,,Mobile Downtown Airport,KBFM,America/Chicago,MOB,US
+BFY,,33.166:117.057,China,,Bengbu Tenghu Airport,,Asia/Shanghai,BFY,CN
+BGS,,32.385555:-101.48333,United States,,Webb AFB,,America/Chicago,HCA,US
+BHC,Murree,33.925:73.433334,Pakistan,,Bhurban Heliport,,Asia/Karachi,BHC,PK
+BHD,Castlereagh,54.62032935:-5.86981938134511,United Kingdom,,George Best Belfast City Airport,EGAC,Europe/London,BFS,GB
+BHW,,32.0561:72.9484,Pakistan,,Bhagatanwala Airport,OPBG,Asia/Karachi,SGI,PK
+BIF,El Paso,31.75:-106.48333,United States,,Biggs AAF,KBIF,America/Denver,ELP,US
+BJE,Al Fulah,11.19957815:28.5225695985587,Sudan,,Baleela,,Africa/Khartoum,BJE,SD
+BJQ,,19.87305556:56.06777778,Oman,,Bahja Airport,,Asia/Muscat,BJQ,OM
+BJY,Novi Banovci,44.9372722:20.2498245889766,Serbia,,Batajnica,LYBT,Europe/Belgrade,BEG,RS
+BKA,,55.433334:37.966667,Russia,,Bykovo,,Europe/Moscow,MOW,RU
+BKL,Cleveland,41.5188169:-81.6811324115243,United States,,Burke Lakefront Airport,KBKL,America/New_York,CLE,US
+BKV,Bailingmiao,41.656944:110.3125,China,,Bailing Airport,,Asia/Shanghai,BKV,CN
+BMA,Bromma,59.3546192:17.944740459282,Sweden,,Bromma Airport,ESSB,Europe/Stockholm,STO,SE
+BOF,,38.9:-77.03333,United States,,Bolling AFB,,America/New_York,WAS,US
+BPL,Dostyq,44.904232:82.024185,China,,Bole Airport,ZWBL,Asia/Shanghai,BPL,CN
+BPM,Quthbullapur,17.4540314:78.4696729514071,India,,Begumpet,VOHY,Asia/Kolkata,HYD,IN
+BPT,Nederland,29.950832:-94.02,United States,,Jefferson County Airport,KBPT,America/Chicago,BPT,US
+BQG,Bogorodskoye,52.3825564:140.450027378128,Russia,,Bogorodskoye,UHNB,Asia/Vladivostok,BQG,RU
+BQH,Biggin Hill,51.333332:0.033333,United Kingdom,,Biggin Hill,EGKB,Europe/London,LON,GB
+BQJ,Batagay,67.6462041:134.702456763159,Russia,,Batagay,UEBB,Asia/Vladivostok,BQJ,RU
+BQV,,58.416668:-135.73334,United States,,Bartlett SPB,BQV,America/Juneau,GST,US
+BRW,,71.28620995:-156.775002483415,United States,,Wiley Post-Will Rogers Memorial Airport,PABR,America/Anchorage,BRW,US
+BVA,Tille,49.459488:2.110815,France,,Beauvais-Tille Airport,LFOB,Europe/Paris,PAR,FR
+BVJ,Aksarka,70.3115293:68.3486315738333,Russia,,Bovanenkovo Airport,USDB,Asia/Yekaterinburg,BVJ,RU
+BVV,,44.928646:147.61337,Russia,,Burevestnik AFB,UHSB,Asia/Sakhalin,BVV,RU
+BWI,Ferndale,39.179527:-76.66894,United States,,Baltimore/Wash International Thurgood Marshall Airport,KBWI,America/New_York,BWI,US
+BWU,Bankstown,-33.92424555:150.990074449681,Australia,,Sydney Bankstown,YSBK,Australia/Sydney,SYD,AU
+BWW,Yaguajay,22.62129974:-79.14720154,Cuba,,Las Brujas Airport,MUBR,America/Havana,BWW,CU
+BWX,Kepuh Wetan,-8.3104548:114.33786464963,Indonesia,,Bandar Udara Internasional Banyuwangi,WADY,Asia/Jakarta,BWX,ID
+BXP,Biala Podlaska,52.0073897:23.1474220271544,Poland,,Biala Podlaska,EPBP,Europe/Warsaw,BXP,PL
+BXW,Paloh,-5.72494045:112.676930689479,Indonesia,,Harun Thohir Airport,WARW,Asia/Jakarta,BXW,ID
+BXY,Toretam,45.623611:63.213889,Kazakhstan,,Baikonur Krayniy Airport,UAOL,Asia/Qyzylorda,BXY,KZ
+BYF,Bray-sur-Somme,49.9715004:2.697659969,France,,Albert-Bray Airport,LFAQ,Europe/Paris,BYF,FR
+BYH,Blytheville,35.964444:-89.943889,United States,,Arkansas International Airport,KBYH,America/Chicago,BYH,US
+BYJ,Beja,38.078899:-7.9324,Portugal,,Beja International,LPBJ,Europe/Lisbon,BYJ,PT
+BYP,,-22.67434605:119.165602908837,Australia,,Barimunya Airport,YBRY,Australia/Perth,BYP,AU
+BYV,Colombo,6.927468:79.848358,Sri Lanka,,Beira Lake SPB,,Asia/Colombo,CMB,LK
+BZF,Redding,40.5737993:-122.407699975703,United States,,Benton Field,O85,America/Los_Angeles,RDD,US
+BZJ,Bozhou,33.56083333:115.90916667,China,,Bozhou Airport,,Asia/Shanghai,BZJ,CN
+BZS,,38.863335:-77.013336,United States,,Buzzards Pt S,,America/New_York,WAS,US
+BZX,Bazhou,31.7383789:106.645515557829,China,,Bazhong Enyang Airport,ZUBZ,Asia/Shanghai,BZX,CN
+BZZ,Carterton,51.7511241:-1.57939330096555,United Kingdom,,Raf Brize Norton,EGVN,Europe/London,BZZ,GB
+CAS,Casablanca,33.559723:-7.663056,Morocco,,Anfa,,Africa/Casablanca,CAS,MA
+CBM,,33.5:-88.416664,United States,,Columbus AFB,KCBM,America/Chicago,UBS,US
+CCD,,34.066666:-118.26667,United States,,Century City,,America/Los_Angeles,LAX,US
+CCE,,18.05:-63.11667,,,Grand Case,HECP,America/Marigot,SFG,MF
+CDG,,49.0068908:2.57108196910192,France,,Charles de Gaulle Airport,LFPG,Europe/Paris,PAR,FR
+CDT,Benlloch,40.2125456:0.070324046608378,Spain,,Castellon,LECH,Europe/Madrid,CDT,ES
+CEA,,37.7:-97.333336,United States,,Cessna Aircraft Field,KCEA,America/Chicago,ICT,US
+CFM,,55.69372395:-111.268788399183,Canada,,Conklin (Leismer) Airport,CET2,America/Edmonton,CFM,CA
+CGF,Highland Heights,41.56406585:-81.4888934102782,United States,,Cuyahoga County,KCGF,America/New_York,CLE,US
+CGH,Diadema,-23.626902:-46.659557,Brazil,,Sao Paulo/Congonhas Airport,SBSP,America/Sao_Paulo,SAO,BR
+CGK,Teluknaga,-6.12389155:106.65658968644,Indonesia,,Soekarno-Hatta International Airport,WIII,Asia/Jakarta,JKT,ID
+CGL,,-7.797222:-77.651389,Peru,,Chagual Airport,SPGL,America/Lima,CGL,PE
+CGX,,41.85889:-87.60833,United States,,Merrill C Meigs,,America/Chicago,CHI,US
+CHD,,-13.031667:-41.444444,Brazil,,Mucuge Airport,SNQU,America/Bahia,CHD,BR
+CHI,,41.8781136:-87.6297982,United States,,Chicago FSS,,America/Chicago,CHI,US
+CHS,Hanahan,32.89929845:-80.0394650305043,United States,,Charleston International Airport,KCHS,America/New_York,CHS,US
+CIA,Ciampino,41.799065:12.590987,Italy,,Ciampino-G. B. Pastine International Airport,LIRA,Europe/Rome,ROM,IT
+CIB,,33.406113:-118.41389,United States,,Ap In The Sky,,America/Los_Angeles,AVX,US
+CII,Choteau,47.90278:-112.312225,Turkey,,Cildir,LTBD,Europe/Istanbul,CII,TR
+CIU,,46.5:-84.35,United States,,Chippewa County Airport,KCIU,America/Detroit,SSM,US
+CJF,,-22.9642029:118.8123347,Australia,,Coondewanna Airport,YCWA,Australia/Perth,CJF,AU
+CJZ,Cajazeiras,-6.882778:-38.615833,Brazil,,Cajazeiras Airport,SJZA,America/Fortaleza,CJZ,BR
+CKU,,60.55:-145.75,United States,,City,CKU,America/Anchorage,CDV,US
+CKW,Wilkie,52.430557:-108.74722,Australia,,Christmas Creek Mine,YCHK,Australia/Perth,CKW,AU
+CLW,Clearwater,27.976667:-82.75861,United States,,Executive,KCLW,America/New_York,CLW,US
+CNF,Lagoa Santa,-19.63339785:-43.9683694239394,Brazil,,Tancredo Neves International Airport,SBCF,America/Sao_Paulo,BHZ,BR
+CNW,Hillsboro,31.916668:-97.13333,United States,,TSTC Waco Airport,KCNW,America/Chicago,ACT,US
+COE,Coeur d'Alene,47.683334:-116.76667,United States,,Coeur D'Alene,KCOE,America/Los_Angeles,COE,US
+COF,Rockledge,28.35:-80.73333,United States,,Patrick AFB,KCOF,America/New_York,COI,US
+CPP,,-20.75:-68.683333,Chile,,Coposa Airport,SCKP,America/Santiago,CPP,CL
+CQW,,34.7129:-79.957,United States,,CHERAW MUNI/LYNCH BELLINGER FLD AIRPORT,,America/New_York,CQW,US
+CRE,North Myrtle Beach,33.8112835:-78.7233511,United States,,Grand Strand Airport,KCRE,America/New_York,MYR,US
+CRG,,30.5:-81.666664,United States,,Craig Municipal,KCRG,America/New_York,JAX,US
+CRL,Charleroi,50.46363725:4.4661732838594,Belgium,,Charleroi Brussels South Airport,EBCI,Europe/Brussels,BRU,BE
+CSM,Meeker,35.539165:-96.933334,United States,,Sherman,KCSM,America/Chicago,CSM,US
+CTS,Chitose,42.786787:141.682959762514,Japan,,New Chitose Airport,RJCC,Asia/Tokyo,SPK,JP
+CTV,Saurimo,-9.430985:20.311478,Angola,,Catoca Airport,,Africa/Luanda,CTV,AO
+CUB,,33.936943:-81.11528,United States,,Owens Field,KCUB,America/New_York,CAE,US
+CUX,,27.75:-97.33611,United States,,Cuddihy Field,,America/Chicago,CRP,US
+CVA,,40.496666:-80.23583,United States,,Civic Ar Heli,,America/New_York,PIT,US
+CVO,Albany,44.63333:-123.11667,United States,,Albany,KCVO,America/Los_Angeles,CVO,US
+CVS,Cannon Air Force Base,34.382445:-103.320967,United States,,Cannon AFB,KCVS,America/Denver,CVN,US
+CWF,Moss Bluff,30.305918:-93.23189,United States,,Chennault International.,KCWF,America/Chicago,LCH,US
+CWJ,Mengdong,23.2772471:99.3747814446396,China,,Cangyuan Washan Airport,ZPCW,Asia/Chongqing,CWJ,CN
+CWK,,25.167694:80.9358,India,,Chitrakoot Airport,VECT,Asia/Kolkata,CWK,IN
+CWO,,32.8:-98.11667,United States,,Ft Wolter AAF,,America/Chicago,MWL,US
+CWX,Willcox,32.2460187:-109.894783881783,United States,,Cochise County Airport,P33,America/Phoenix,CWX,US
+CXB,Cox's Bazar,21.45533845:91.9640526984051,Bangladesh,,Coxs Bazar Airport,VGCB,Asia/Dhaka,CXB,BD
+CXH,,49.266666:-123.11667,Canada,,Coal Harbour Sea Plane Base,CYHC,America/Vancouver,YVR,CA
+CXR,Cam Lam,11.9968644:109.217288553589,Vietnam,,Cam Ranh International Airport,VVCR,Asia/Ho_Chi_Minh,NHA,VN
+CYD,Benque Viejo del Carmen,17.104722:-89.101389,Belize,,San Ignacio Town Airstrip,MZMF,America/Belize,CYD,BZ
+CYF,,60.216667:-164.2,United States,,Chefornak Sea Plane Base,PACK,America/Nome,CYF,US
+CYW,Colonia Fraccionamiento el Puente,20.5456333:-100.88527857396,Mexico,,Celaya,MMCY,America/Mexico_City,CYW,MX
+CZR,,56.913333:118.27,Russia,,Chara Kyust-Kemda Airport,UIAR,Asia/Chita,CZR,RU
+DAL,University Park,32.8450229:-96.8498413,United States,,Dallas Love Field,KDAL,America/Chicago,DFW,US
+DBC,Deshun,45.5065501:123.020699911489,China,,Baicheng Chang'an,ZYBA,Asia/Harbin,DBC,CN
+DBK,Puttalam,8.273:79.756,Sri Lanka,,Dutch Bay SPB Seaplane Base,,Asia/Colombo,DBK,LK
+DBR,Darbhanga,26.1967856:85.9118892,India,,Darbhanga Airport,VE89,Asia/Kolkata,DBR,IN
+DCA,,38.853436:-77.04346,United States,,Ronald Reagan National Airport,KDCA,America/New_York,WAS,US
+DCG,,25.2644444:55.3116667,United Arab Emirates,,Dubai Creek SPB,,Asia/Dubai,DXB,AE
+DCN,,-17.580804:123.82154363476,Australia,,RAAF Curtin,YCIN,Australia/Perth,DRB,AU
+DCP,Fort Nelson,59.23361111:-121.691388,Canada,,Cabin Plant Heliport,,America/Vancouver,DCP,CA
+DCY,Sangpi,29.31628015:100.060553478344,China,,Daocheng Yading Airport,ZUDC,Asia/Shanghai,DCY,CN
+DDD,Kudahuvadhoo,2.66648215:72.8861167976552,Maldives,,Dhaalu Airport,VRMU,Indian/Maldives,DDD,MV
+DDR,Xigaze,28.604567:86.798,China,,Shigatse Tingri Airport,,Asia/Shanghai,DDR,CN
+DEQ,Leidian,30.504167:120.107222,China,,Deqing Moganshan Airport,,Asia/Shanghai,DEQ,CN
+DET,Hamtramck,42.4112358:-83.0085213216686,United States,,Detroit City,KDET,America/Detroit,DTT,US
+DEX,,-4.8560338:139.479721099156,Indonesia,,Nop Goliat Airport,WAVD,Asia/Jakarta,DEX,ID
+DFA,Yaoshi,33.7085:110.2493,China,,Danfeng Airport,,Asia/Shanghai,DFA,CN
+DGH,Deoghar,24.444722:86.7025,India,,Deoghar International Airport,VEDO,Asia/Kolkata,DGH,IN
+DGL,,31.35:-109.566666,United States,,Douglas Municipal,KDGL,America/Phoenix,DUG,US
+DHB,,48.6209117:-123.0032063,United States,,Deer Harbor,,America/Los_Angeles,DHB,US
+DHF,,24.433332:54.65,United Arab Emirates,,Al Dhafra Military Airport,OMAM,Asia/Dubai,AUH,AE
+DHG,Dal'negorsk,44.55892:135.491233,Russia,,Dalnegorks,,Asia/Vladivostok,DHG,RU
+DHH,,43.7546:93.1311,China,,Balikun Dahe Airport,,Asia/Urumqi,DHH,CN
+DHO,,59.4593:-122.2553,Canada,,Horn River,,America/Vancouver,DHO,CA
+DHX,,-7.761672:111.951521,Indonesia,,Dhoho International Airport,WARD,Asia/Jakarta,DHX,ID
+DIA,Doha,25.2607:51.5646,Qatar,,Doha International Airport,OTBD,Asia/Qatar,DIA,QA
+DJH,Jebel Ali,24.988889:55.023889,United Arab Emirates,,Jebel Ali Seaplane Base,,Asia/Dubai,DJH,AE
+DKA,Katsina,13.0057213:7.65945521628926,Nigeria,,Katsina,,Africa/Lagos,DKA,NG
+DKL,,59.2416:-122.9222,Canada,,Kiwigana Lodge Heliport,,America/Vancouver,DKL,CA
+DLF,Del Rio,29.366667:-100.9,United States,,Laughlin AFB,KDLF,America/Chicago,DRT,US
+DLR,Dal'nerechensk,45.8783:133.7363,Russia,,Dalnerechensk Airport,,Asia/Vladivostok,DLR,RU
+DMA,Tucson,32.17079565:-110.869902396303,United States,,Davis Monthan AFB,KDMA,America/Phoenix,TUS,US
+DME,Yakovlevskoye,55.40912105:37.9041662124159,Russia,,Moscow Domodedovo Airport,UUDD,Europe/Moscow,MOW,RU
+DMK,Don Mueang,13.9122207:100.603531423907,Thailand,,Don Mueang International Airport,VTBD,Asia/Bangkok,BKK,TH
+DNE,Westworth,32.75:-97.38333,United States,,Dallas North Airport,,America/Chicago,DFW,US
+DNL,Augusta,33.466667:-81.96667,United States,,Daniel Field,KDNL,America/New_York,AGS,US
+DNT,Santa Ana,33.766666:-117.86667,United States,,Downtown Heliport,,America/Los_Angeles,SNA,US
+DPA,Wayne,41.90513465:-88.2521833326609,United States,,DuPage Airport,KDPA,America/Chicago,CHI,US
+DPB,,-54.05:-68.808333,Chile,,Pampa Guanaco Airport,SCBI,America/Santiago,DPB,CL
+DPP,,25.649972:78.503167,India,,Datia Airport,,Asia/Kolkata,DPP,IN
+DPT,Deputatsky,69.39220535:139.889140146474,Russia,,Deputatsky,UEBD,Asia/Yakutsk,DPT,RU
+DQM,,19.50219325:57.6439281708598,Oman,,Duqm International Airport,OODQ,Asia/Muscat,DQM,OM
+DRK,,8.71811025:-83.6367216865081,Costa Rica,,Drake Bay,MRDK,America/Costa_Rica,DRK,CR
+DRP,,13.112222:123.677222,Philippines,,Bicol International Airport,RPLK,Asia/Manila,DRP,PH
+DRV,Open Stage,5.1563788:73.129714802335,Maldives,,Dharavandhoo AIrport,VRMD,Indian/Maldives,DRV,MV
+DSO,Sinsang-ni,39.7462648:127.4721274,North Korea,,Sondok,ZKSD,Asia/Pyongyang,DSO,KP
+DSS,Pout,14.6655114:-17.0734311656051,Senegal,,Blaise Diagne International Airport,GOBD,Africa/Dakar,DKR,SN
+DST,,25.25971985:55.27162933,United Arab Emirates,,Dubai Seaplane Terminal,,Asia/Dubai,DST,AE
+DSX,Hudong,20.7061886:116.722483782854,Taiwan,,Dongsha Island,RCLM,Asia/Taipei,DSX,TW
+DSY,Koh Kong,10.91482235:103.225265056204,Cambodia,,Dara Sakor International Airport,,Asia/Phnom_Penh,DSY,KH
+DTB,Siborong-borong,2.26118555:98.9771782941386,Indonesia,,Sisingamangaraja XII International Airport,WIMN,Asia/Jakarta,DTB,ID
+DTI,Diamantina,-18.23369525:-43.6503671988384,Brazil,,Diamantina,SNDT,America/Sao_Paulo,DTI,BR
+DTN,,32.54041615:-93.7450072825914,United States,,Shreveport Downtown,KDTN,America/Chicago,SHV,US
+DTU,Baoquan,48.4429184:126.13780921754,China,,Wudalianchi Dedu Airport,ZYDU,Asia/Shanghai,DTU,CN
+DTW,Romulus,42.2056991:-83.3529753762166,United States,,Detroit Metropolitan Wayne County Airport,KDTW,America/Detroit,DTT,US
+DUQ,Duncan,48.783333:-123.7,Canada,,Duncan/Quam,CAM3,America/Vancouver,DUQ,CA
+DVD,,-22.078333:43.259167,Madagascar,,Andavadoaka,,Indian/Antananarivo,DVD,MG
+DVT,Glendale,33.68916925:-112.079804318037,United States,,Phoenix Deer Valley Airport,KDVT,America/Phoenix,PHX,US
+DWC,,24.918056:55.175278,United Arab Emirates,,Dubai World Central - Al Maktoum International Airport,OMDW,Asia/Dubai,DXB,AE
+DWF,Kettering,39.666668:-84.183334,United States,,Wright AFB,,America/New_York,DAY,US
+DWH,,29.75:-95.416664,United States,,David Wayne Hooks,KDWH,America/Chicago,HOU,US
+DWN,,35.45:-97.53333,United States,,Downtown Airpark,,America/Chicago,OKC,US
+DWO,Battaramulla South,6.904439:79.9093208,Sri Lanka,,Diyawanna Oya Seaplane Base,,Asia/Colombo,DWO,LK
+DWR,Markaz-e Hukumat-e Darweshan,31.0:64.0,,,Dwyer Air Base,,Asia/Kabul,DWR,AF
+DWS,Celebration,28.4020746:-81.5722231,United States,,Walt Disney World,,America/New_York,ORL,US
+DXE,Madison,32.4392835:-90.1031341423993,United States,,Bruce Campbell Field,KMBO,America/Chicago,DXE,US
+DXJ,,28.4972:109.5218,China,,Xiangxi Biancheng Airport,ZGXX,Asia/Shanghai,DXJ,CN
+DYS,Abilene,32.466667:-99.71667,United States,,Dyess AFB,KDYS,America/Chicago,ABI,US
+DZH,Dazhou,31.05057705:107.436982222975,China,,Dazhou Jinya Airport,,Asia/Shanghai,DZH,CN
+EBH,El Bayadh,33.7271397:1.09823725760427,,,El Bayadh,DAOY,Africa/Algiers,EBH,DZ
+EBR,Port Allen,30.45:-91.183334,United States,,Downtown,,America/Chicago,BTR,US
+ECI,Tola,11.4277197:-86.0341549969657,Nicaragua,,Costa Esmeralda Airport,MNCE,America/Managua,ECI,NI
+ECP,Laguna Beach,30.357803:-85.79892,United States,,NW Florida Beaches Int,KECP,America/Chicago,PFN,US
+EDC,,30.3974931:-97.5663935,United States,,Austin Executive Airport,KEDC,America/Chicago,EDC,US
+EDF,,61.25323915:-149.808180224203,United States,,Elmendorf AFB,PAED,America/Anchorage,ANC,US
+EDN,,31.2997:-85.8998,United States,,Enterprise Muni Airport,UHWE,America/Chicago,EDN,US
+EEA,Correia Pinto,-27.63194875:-50.3496337774351,Brazil,,Aeroporto Regional do Planalto Serrano,SNCP,America/Sao_Paulo,EEA,BR
+EES,Berenice City,23.980303:35.4500368569354,Egypt,,Berenice International Airport,,Africa/Cairo,IUP,EG
+EFD,Webster,29.6:-95.15,United States,,Ellington Field,KEFD,America/Chicago,HOU,US
+EHU,Ezhou,30.346:115.0474,China,,Ezhou Huahu Airport,ZHEC,Asia/Shanghai,EHU,CN
+EIK,Yeysk,46.68697795:38.2371580946109,Russia,,Yeysk,URKE,Europe/Moscow,EIK,RU
+EIL,,64.85:-147.71666,United States,,Eielson AFB,PAEI,America/Anchorage,FAI,US
+EJN,Dalain Hob,42.01684485:100.997253534904,China,,Ejin Banner Taolai Airport,ZBEN,Asia/Chongqing,EJN,CN
+EKS,Shakhtersk,49.190735:142.077703,Russia,,Shakhtyorsk Airport,UHSK,Asia/Sakhalin,EKS,RU
+EMB,,37.62528:-122.375,United States,,Embarkadero,,America/Los_Angeles,SFO,US
+END,,36.4:-97.88333,United States,,Vance AFB,KEND,America/Chicago,WDG,US
+ENG,,-5.305361:102.189056,Indonesia,,Enggano Airport,WIGE,Asia/Jakarta,ENG,ID
+ENY,Bao'an,36.63495905:109.549617000703,China,,Ershilipu Airport,ZLYA,Asia/Shanghai,ENY,CN
+ERG,Yerbogachen,61.2758297:108.028007597899,Russia,,Erbogachen Airport,UIKE,Asia/Irkutsk,ERG,RU
+ERL,Erenhot,43.42349855:112.094751768843,China,,Eren Hot Airport,ZBER,Asia/Shanghai,ERL,CN
+ERQ,,-20.976667:141.0086,Australia,,Elrose Mine,YESE,Australia/Brisbane,ERQ,AU
+ERS,,-22.616667:17.083332,,,Eros Airport,FYWE,Africa/Windhoek,WDH,
+ESA,,-9.733333:150.81667,Papua New Guinea,,Esa'Ala,,Pacific/Port_Moresby,ESA,PG
+ESF,Ball,31.398928:-92.2966857510515,United States,,Esler Field,KESF,America/Chicago,AEX,US
+ETL,Svetlaya,46.54217:138.32973,Russia,,Svetlaya Airport,UHTQ,Asia/Vladivostok,ETL,RU
+ETM,,29.72369:35.011417,Israel,,Ramon Airport,LLER,Asia/Jerusalem,ETH,IL
+ETR,Santa Rosa,-3.442288:-79.9962930340367,Ecuador,,Coronel Artilleria Victor Larrea Airport,SERO,America/Guayaquil,ETR,EC
+EWR,Elizabeth,40.68906405:-74.1772548503535,United States,,Newark Liberty International Airport,KEWR,America/New_York,NYC,US
+EYA,,53.69066:127.09404,Russia,,Zeya Airport,,Asia/Yakutsk,EYA,RU
+EZE,Ezeiza,-34.81681415:-58.5474233505226,Argentina,,Ministro Pistarini Airport,SAEZ,America/Argentina/Buenos_Aires,BUE,AR
+FAU,,22.35697855:56.481527723689105,Oman,,Fahud,OOFD,Asia/Muscat,FAU,OM
+FBA,,-2.53238505:-66.083966476345,Brazil,,Fonte Boa,SWOB,America/Manaus,FBA,BR
+FBG,Fort Bragg,35.166668:-79.01667,United States,,Simmons AAF,KFBG,America/New_York,FBG,US
+FBK,,64.833336:-147.7,United States,,Ft Wainwright,PAFB,America/Anchorage,FAI,US
+FCH,Fresno,36.73238155:-119.820518668498,United States,,Fresno-Chandler,KFCH,America/Los_Angeles,FAT,US
+FCM,,44.983334:-93.26667,United States,,Flying Cloud Airport,KFCM,America/Chicago,MSP,US
+FCO,Fiumicino-Isola Sacra,41.8144309:12.2269012048808,Italy,,Leonardo da Vinci-Fiumicino Airport,LIRF,Europe/Rome,ROM,IT
+FCS,Colorado Springs,38.833332:-104.816666,United States,,Butts AAF,KFCS,America/Denver,COS,US
+FCT,,46.6:-120.51667,United States,,Firing Center AAF,,America/Los_Angeles,YKM,US
+FEW,Cheyenne,41.14232855:-104.872011762705,United States,,Warren AFB,,America/Denver,CYS,US
+FFO,Dayton,39.75:-84.2,United States,,Patterson AFB,KFFO,America/New_York,DAY,US
+FGI,Apia,-13.8495609:-171.739004017588,Samoa,,Fagali I Airport,NSFI,Pacific/Apia,APW,WS
+FLG,Kachina Village,35.14039825:-111.670204417811,United States,,Flagstaff Pulliam Airport,KFLG,America/Phoenix,GCN,US
+FLU,,40.775555:-73.83444,United States,,Flushing,,America/New_York,NYC,US
+FLZ,Batangtoru,1.5584287:98.887749118689,Indonesia,,Ferdinand Lumban Tobing Airport,WIMS,Asia/Jakarta,FLZ,ID
+FMT,,0.1924994:73.1945767,Maldives,,Faresmathoda Airport,,Indian/Maldives,FMT,MV
+FMU,Florence,43.98641155:-124.112179013726,United States,,Florence Municipal,,America/Los_Angeles,FMU,US
+FND,Funadhoo,6.16165575:73.2878010233472,Maldives,,Funadhoo Airport,,Indian/Maldives,FND,MV
+FNU,Palmas Arborea,39.8951383:8.64062013490057,Italy,,Fenosu,LIER,Europe/Rome,FNU,IT
+FOE,,38.96168595:-95.6814997471288,United States,,Forbes Field,KFOE,America/Chicago,TOP,US
+FSZ,Shimada,34.7965038:138.184137072165,Japan,,Shizuoka Airport,RJNS,Asia/Tokyo,FSZ,JP
+FTY,Mableton,33.783333:-84.51667,United States,,Fulton County,KFTY,America/New_York,ATL,US
+FVM,Fuvahmulah,-0.309444:73.43278,Maldives,,Fumawula,VRMR,Indian/Maldives,FVM,MV
+FWH,,32.76389:-97.3,United States,,Fort Worth NAS Jrb/Carswell Field,KNFW,America/Chicago,DFW,US
+FXE,Dania Beach,26.066668:-80.15,United States,,Fort Lauderdale Executive Airport,KFXE,America/New_York,FLL,US
+FYJ,Fuyuan,48.199494:134.366447,China,,Fuyuan Dongji Airport,ZYFY,Asia/Shanghai,FYJ,CN
+FZL,Fuzuli,39.5945705:47.1964348,Azerbaijan,,Fuzuli International Airport,UBBF,Asia/Baku,FZL,AZ
+FZO,Almondsbury,51.516666:-2.583333,United Kingdom,,Filton,EGTG,Europe/London,FZO,GB
+GBW,,-22.5812:120.03553,Australia,,Ginbata Airport,YGIA,Australia/Perth,GBW,AU
+GCD,Coulee Dam,47.9234839:-119.080579,United States,,Grand Coulee Dam,3W7,America/Los_Angeles,GCD,US
+GCJ,Germiston,-26.233334:28.15,South Africa,,Grand Central,FAGC,Africa/Johannesburg,JNB,ZA
+GCT,,36.258:-113.2311,United States,,Grand Canyon Bar 10 Airport,,America/Phoenix,GCT,US
+GCW,Meadview,36.07211:-113.9495,United States,,Grand Canyon West,K1G4,America/Phoenix,GCW,US
+GDB,Gondia,21.522:80.01,India,,Gondia Airport,VAGD,Asia/Kolkata,GDB,IN
+GDC,Mauldin,34.8:-82.35,United States,,Donaldson Center,KGYH,America/New_York,GSP,US
+GDR,Angra dos Reis,-22.975278:-44.307222,Brazil,,Angra dos Reis Airport,SDAG,America/Sao_Paulo,GDR,BR
+GEA,Noumea,-22.25761285:166.47299068887,,,Noumea Magenta Airport,NWWM,Pacific/Noumea,NOU,NC
+GEM,Mongomo,1.68179985:11.0234652798176,,,President Obiang Nguema International Airport,FGMY,Africa/Malabo,GEM,GQ
+GEX,Geelong West,-38.13333:144.35,Australia,,Geelong,YGLG,Australia/Melbourne,GEX,AU
+GFA,,47.5:-111.28333,United States,,Malmstrom AFB,,America/Denver,GTF,US
+GGB,Mozarlandia,-14.01962765:-52.1502659922048,Brazil,,Água Boa,,America/Cuiaba,GGB,BR
+GGF,,-1.47928445:-52.578080064938,Brazil,,Almeirim,,America/Santarem,GGF,BR
+GGH,Cianorte,-23.691667:-52.642222,Brazil,,Gastão Mesquita Airport,,America/Sao_Paulo,GGH,BR
+GGJ,Salto del Guaira,-24.08087945:-54.1911462944182,Brazil,,Guaíra Airport,SSGY,America/Sao_Paulo,GGJ,BR
+GGM,Kakamega,0.27144975:34.787255666881,Kenya,,Kakamega Airport,HKKG,Africa/Nairobi,GGM,KE
+GHS,,-0.2036:115.76,Indonesia,,Melak Airport,,Asia/Makassar,GHS,ID
+GHV,,45.70622:25.52352,Romania,,Brașov-Ghimbav International Airport,LRBV,Europe/Bucharest,GHV,RO
+GIG,Duque de Caxias,-22.81122025:-43.25862020408191,Brazil,,Galeao Antonio Carlos Jobim International Airport,SBGL,America/Sao_Paulo,RIO,BR
+GKD,Gokceada,40.20526735:25.8837153739744,Turkey,,Gokceada,LTFK,Europe/Istanbul,GKD,TR
+GKK,,0.730833:73.433056,Maldives,,Kooddoo Airport,VRMO,Indian/Maldives,GKK,MV
+GLB,,33.5314:-110.66736,United States,,San Calos Apache,,America/Phoenix,GLB,US
+GLU,Sarpang,26.88757475:90.4615060468961,Bhutan,,Gelephu Airport,VQGP,Asia/Thimphu,GLU,BT
+GMD,Bouznika,33.65400975:-7.21764544475633,Morocco,,Ben Slimane,GMMB,Africa/Casablanca,GMD,MA
+GMO,Akko,10.2969752:10.896393554717,Nigeria,,Gombe Lawanti International Airport,DNGO,Africa/Lagos,GMO,NG
+GMP,Bucheon-si,37.55900775:126.794240265775,South Korea,,Gimpo International Airport,RKSS,Asia/Seoul,SEL,KR
+GMQ,Dawu,34.41974775:100.299659292545,China,,Golog Maqin Airport,ZLGL,Asia/Shanghai,GMQ,CN
+GMU,Greenville,34.84803945:-82.3521383664293,United States,,Greenville Downtown,KGMU,America/New_York,GSP,US
+GNF,Charleston,33.975307:-89.93228,United States,,Gansner Field,,America/Los_Angeles,GNF,US
+GNJ,Ganja,40.7370535:46.3162830422784,Azerbaijan,,Ganja International Airport,UBBG,Asia/Baku,GNJ,AZ
+GNY,,37.094166:38.846943,Turkey,,Sanliurfa GAP Airport,LTCS,Europe/Istanbul,GNY,TR
+GOF,,31.466667:-100.433334,United States,,Goodfellow AFB,,America/Chicago,SJT,US
+GOX,Mopa,15.7302:73.8631,India,,Mopa Airport,VOGA,Asia/Kolkata,GOX,IN
+GPD,,-19.999445:139.91777,Australia,,Mount Gordon Mine,YGON,Australia/Brisbane,GPD,AU
+GRF,Fort Lewis,47.07929475:-122.582250730311,United States,,Gray AAF,KGRF,America/Los_Angeles,TIW,US
+GRU,Guarulhos,-23.43779495:-46.4813205288006,Brazil,,Sao Paulo-Guarulhos International Airport,SBGR,America/Sao_Paulo,SAO,BR
+GSE,Majorna,57.77775:11.864513,Sweden,,Gothenburg City Airport,ESGP,Europe/Stockholm,GOT,SE
+GSJ,Puerto San Jose,13.93653185:-90.8329920251878,Guatemala,,Puerto San Jose,MGSJ,America/Guatemala,GSJ,GT
+GSV,Shumeyka,51.716667:46.166667,Russia,,Saratov Gagarin Airport,,Europe/Saratov,RTW,RU
+GTN,,-43.766666:170.13611,New Zealand,,Glentanner,NZGT,Pacific/Auckland,MON,NZ
+GTP,Merlin,42.5101682:-123.3885181,United States,,Grants Pass,KSXT,America/Los_Angeles,GTP,US
+GTZ,Issenye,-2.160833:34.225555,Tanzania,,Kirawira B,HTGR,Africa/Dar_es_Salaam,GTZ,TZ
+GUN,,32.38333:-86.316666,United States,,Gunter AFB,,America/Chicago,MGM,US
+GUS,Peru,40.75:-86.066666,United States,,Grissom AFB,KGUS,America/Indiana/Indianapolis,GUS,US
+GVN,Mayskiy,48.9249059:140.0297395,Russia,,May-Gatka,UHKM,Asia/Vladivostok,GVN,RU
+GXA,,-0.94180455:114.893682854169,Indonesia,,Beringin Airport,,Asia/Pontianak,GXA,ID
+GXH,Nawu,34.8190827:102.622354792625,China,,Gannan Xiahe Airport,ZLXH,Asia/Shanghai,GXH,CN
+GXM,,-1.12707:113.87517,Indonesia,,Kuala Kurun,WAGA,Asia/Pontianak,GXM,ID
+GYB,Wodgina,-21.1397729:118.6933762,Australia,,Wodgina Airport,,Australia/Perth,GYB,AU
+GYD,Yeni Suraxani,40.4728196:50.0491743962454,Azerbaijan,,Heydar Aliyev International Airport,UBBB,Asia/Baku,BAK,AZ
+GYG,Magan,62.10831635:129.562265118206,Russia,,Magan Airport,UEMM,Asia/Yakutsk,GYG,RU
+GYO,Blangkejeren,3.94565795:97.3597350002389,Indonesia,,Bandar Udara Senubung,WIMG,Asia/Jakarta,GYO,ID
+GYU,Shirak,40.833332:43.9,China,,Guyuan Liupanshan Airport,ZLGY,Asia/Shanghai,GYU,CN
+GYZ,,-28.0339912:123.8140464,Australia,,Gruyere Mine Airport,YGRM,Australia/Perth,GYZ,AU
+GZG,Ganzi,31.7548325:99.553507,China,,Garze Gesar Airport,ZUGZ,Asia/Shanghai,GZG,CN
+HAR,Steelton,40.21611:-76.85222,United States,,Capital City,KCXY,America/New_York,HAR,US
+HBB,,32.7:-103.13333,United States,,Industrial Airpark,NM83,America/Denver,HOB,US
+HBE,Alexandria,30.922234:29.686504,Egypt,,Borg El Arab Airport,HEBA,Africa/Cairo,ALY,EG
+HBG,Hattiesburg,31.316668:-89.26667,United States,,The Hattiesburg-Bobby L. Chain Mun.,KHBG,America/Chicago,HBG,US
+HBK,Holbrook,34.94173315:-110.147220230796,United States,,Holbrook Municipal,P14,America/Phoenix,HBK,US
+HBQ,Hongtu,38.00956045:100.636710753407,China,,Qilian Airport,,Asia/Shanghai,HBQ,CN
+HBU,Burenhayrhan,46.1004969:91.5836487910197,Mongolia,,Bulgan Hovd,ZMBS,Asia/Hovd,HBU,MN
+HCJ,Nandan Chengguanzhen,24.8048431:107.710749851802,China,,Hechi Jinchengjiang Airport,ZGHC,Asia/Shanghai,HCJ,CN
+HCZ,Chenzhou,25.75482855:112.849660051663,China,,Chenzhou Beihu Airport,ZGCZ,Asia/Shanghai,HCZ,CN
+HDG,Handan,36.52498965:114.427689050069,China,,Handan Airport,ZBHD,Asia/Shanghai,HDG,CN
+HDK,Kulhudhuffushi,6.6312205:73.0670944425637,Maldives,,Kulhudhuffushi Airport,VRBK,Indian/Maldives,HDK,MV
+HDO,Ghaziabad,28.70579:77.342137,India,,Hindon Airport,VIDX,Asia/Kolkata,HDO,IN
+HEW,Nanshi,29.1257754:120.244934153366,China,,Hengdian Airport,LGAT,Asia/Shanghai,HEW,CN
+HEX,,18.475:-69.975,,,Santo Domingo Herrera,,America/Santo_Domingo,SDQ,DO
+HEY,Morgan,31.416668:-84.53333,United States,,Hanchey Army Heliport,,America/Chicago,OZR,US
+HGE,Higuerote,10.46339655:-66.0960910697729,Venezuela,,Higuerote Airport,SVHG,America/Caracas,HGE,VE
+HGS,Hastings,8.393056:-13.13,,,Hastings,GFHA,Africa/Freetown,FNA,SL
+HHP,,22.318056:114.2,Hong Kong S.A.R.,,H K Heliport,,Asia/Hong_Kong,HKG,HK
+HIF,Ogden,41.216667:-111.96667,United States,,Hill AFB,KHIF,America/Denver,OGD,US
+HIK,Honolulu,21.316668:-157.86667,United States,,Hickam AFB,,Pacific/Honolulu,HNL,US
+HIW,Hiroshima-shi,34.36361:132.41638,Japan,,Hiroshima West,RJBH,Asia/Tokyo,HIJ,JP
+HJB,,42.9766:83.9729,China,,Hejing Bayinbuluke Airport,ZWHJ,Asia/Urumqi,HJB,CN
+HKR,Keroka,-1.145556:35.124722,Kenya,,Mara North Airstrip,HKMF,Africa/Nairobi,HKR,KE
+HKS,Jackson,32.3:-90.2,United States,,Hawkins Field,KHKS,America/Chicago,JAN,US
+HLE,Jamestown,-15.9586281:-5.64606422321883,,,Saint Helena Airport,FHSH,Atlantic/St_Helena,HLE,SH
+HLJ,Zhaodong,46.7932345403:130.27009854,China,,Beidahuang General Airport,,Asia/Shanghai,HLJ,CN
+HLP,Jakarta,-6.2630208:106.898950567755,Indonesia,,Halim Perdanakusuma Airport,WIHH,Asia/Jakarta,JKT,ID
+HLR,Killeen,31.116667:-97.73333,United States,,Fort Hood AAF,KHLR,America/Chicago,ILE,US
+HMB,Al Manshah,26.3417454:31.7310658400966,Egypt,,Mubarak International Airport,HESG,Africa/Cairo,HMB,EG
+HMN,Alamogordo,32.9:-105.95,United States,,Holloman AFB,KHMN,America/Denver,ALM,US
+HMS,,58.294445:-135.34723,United States,,Homeshore,,America/Juneau,HMS,US
+HMY,Suisan,36.703999:126.486,South Korea,,Seosan Airport,RKTP,Asia/Seoul,HMY,KR
+HND,Kawasaki,35.54572095:139.780587131238,Japan,,Haneda Airport,RJTT,Asia/Tokyo,TYO,JP
+HOU,,29.64714905:-95.276926086346,United States,,William P. Hobby Airport,KHOU,America/Chicago,HOU,US
+HPA,Pangai,-19.7768882:-174.341454834314,Tonga,,Salote Pilolevu,NFTL,Pacific/Tongatapu,HPA,TO
+HPG,Hongping,31.62624495:110.339766182268,China,,Shennongjia Hongping Airport,ZHSN,Asia/Shanghai,HPG,CN
+HPN,Purchase,41.0680174:-73.7083333382349,United States,,Westchester County Airport,KHPN,America/New_York,HPN,US
+HQL,Taxkorgan Tajik,37.66271:75.29227,China,,Tashkurgan Airport,,Asia/Urumqi,HQL,CN
+HQQ,,35.870833:114.461944,China,,Anyang Hongqiqu Airport,ZHQQ,Asia/Shanghai,HQQ,CN
+HRF,Hoarafushi,6.980556:72.895833,Maldives,,Hoarafushi Airport,VRAH,Indian/Maldives,HRF,MV
+HRH,,27.8592:78.1487,India,,Aligarh Airport,VIAH,Asia/Kolkata,HRH,IN
+HRI,,6.28627825:81.1225232733857,Sri Lanka,,Mattala Rajapaksa International Airport,VCRI,Asia/Colombo,HRI,LK
+HRM,Berriane,33.166668:3.2,,,Tilrempt,DAFH,Africa/Algiers,HRM,DZ
+HSA,Kentau,43.3136878:68.5500401305974,Kazakhstan,,Hazret Sultan International Airport,UAIT,Asia/Almaty,HSA,KZ
+HSF,Suifenhe,44.45487485:130.844451578685,China,,Suifenhe Dongning Airport,,Asia/Shanghai,HSF,CN
+HSJ,Gongyi,34.8402945:113.275756374414,China,,Shangjie Airport,,Asia/Shanghai,HSJ,CN
+HSR,,22.388056:71.028333,India,,Rajkot International Airport,VAHS,Asia/Kolkata,HSR,IN
+HTT,Gasi,38.1926285:90.8458892321385,China,,Huatugou Airport,ZLHX,Asia/Shanghai,HTT,CN
+HTV,Huntsville,30.716667:-95.55,United States,,Huntsville,KUTS,America/Chicago,HTV,US
+HUA,Huntsville,34.733334:-86.583336,United States,,Redstone AAF,KHUA,America/Chicago,HSV,US
+HUO,Mositai,45.48620585:119.415051837675,China,,Holingol Huolinhe Airport,ZBHZ,Asia/Shanghai,HUO,CN
+HUW,,53.583447:-0.348669,Brazil,,Humaita,SWHT,America/Manaus,HUW,BR
+HZA,General Guido,-36.7756:-57.6414,Argentina,,Establecimiento El Araza Airport,,America/Argentina/Buenos_Aires,HZA,AR
+HZP,,57.381668:-111.70111,Canada,,Horizon,CYNR,America/Edmonton,HZP,CA
+HZU,Majialin Village,30.67744769548:104.5295206131,China,,Chengdu Huaizhou Airport,,Asia/Shanghai,HZU,CN
+IAB,,37.68114:-97.27617,United States,,Mcconnell AFB,KIAB,America/Chicago,ICT,US
+IAD,Floris,38.95226625:-77.4534849116007,United States,,Washington Dulles International Airport,KIAD,America/New_York,WAS,US
+IAL,,-16.208333:-42.321944,Brazil,,Aeroporto Municipal de Salinas,,America/Sao_Paulo,IAL,BR
+IAO,Libas,9.8588579:126.015242918074,Philippines,,Sayak (Siargao),RPNS,Asia/Manila,IAO,PH
+IAX,,5.562222:126.581389,Indonesia,,Miangas Airport,WAMS,Asia/Makassar,IAX,ID
+IBB,Puerto Villamil,-0.93954245:-90.9535492043573,Ecuador,,General Villamil,SEII,Pacific/Galapagos,IBB,EC
+IBM,Marble Bar,-21.288219641995:118.88711754386,Australia,,Iron Bridge Mine Airport,YIBO,Australia/Perth,IBM,AU
+IBR,Okunoya,36.17627925:140.406945597652,Japan,,Ibaraki Airport,RJAH,Asia/Tokyo,IBR,JP
+ICC,Punta de Piedras,10.7941896:-63.98148591098231,Venezuela,,Andrés Miguel Salazar Marcano Airport,SVIE,America/Caracas,ICC,VE
+ICN,,37.4634169:126.441644094509,South Korea,,Incheon International Airport,RKSI,Asia/Seoul,SEL,KR
+ICS,Cascade,44.492787:-116.015176971751,United States,,Cascade,KU70,America/Boise,ICS,US
+IDH,Grangeville,45.9408437:-116.123964950878,United States,,Idaho County,KGIC,America/Los_Angeles,IDH,US
+IDY,Notre-Dame-de-Monts,46.7170388:-2.39082268817283,France,,Ile d'Yeu,LFEY,Europe/Paris,IDY,FR
+IEV,Chabany,50.401943:30.450832,Ukraine,,Kyiv International Airport,UKKK,Europe/Kiev,IEV,UA
+IFU,Ugoofaaru,5.70877:73.0249,Maldives,,Ifuru Airport,VREI,Indian/Maldives,IFU,MV
+IGD,Getashen,39.97341175:43.8839782336952,Turkey,,Igdir,LTCT,Europe/Istanbul,IGD,TR
+IGL,Gaziemir,38.31889:27.159445,Turkey,,Cigli AB,LTBL,Europe/Istanbul,IZM,TR
+IKA,Robat Karim,35.4164909:51.1447609161428,Iran,,Imam Khomeini International Airport,OIIE,Asia/Tehran,THR,IR
+IKE,,71.6975:128.902778,Russia,,Tiksi Airport,UEST,Asia/Yakutsk,IKE,RU
+IKU,Cholpon-Ata,42.58600115:76.7073207084651,Kyrgyzstan,,Issyk-Kul International Airport,UCFL,Asia/Bishkek,IKU,KG
+ILD,Alguaire,41.72779095:0.539126297113766,Spain,,Lleida-Alguaire Airport,LEDA,Europe/Madrid,ILD,ES
+ILS,Ilopango,13.6995807:-89.1183354304395,El Salvador,,Ilopango International Airport,,America/El_Salvador,ILS,SV
+IMQ,Showt,39.1930169:44.9220336498845,Iran,,Maku International Airport,OITU,Asia/Tehran,IMQ,IR
+IPZ,San Isidro,9.348611:-83.7125,Costa Rica,,San Isidro de El General Airport,MRSI,America/Costa_Rica,IPZ,CR
+IQA,,63.75175:-68.53658,Iraq,,Al Asad Air Base,ORAA,Asia/Baghdad,IQA,IQ
+IRU,Kawagoe,35.921055:139.50674,Sri Lanka,,Iranamadu SPB,,Asia/Colombo,IRU,LK
+IRZ,Santa Isabel do Rio Negro,-0.37810525:-64.992618800765,Brazil,,Tapuruquara,SWTP,America/Manaus,IRZ,BR
+ITM,Toyonaka,34.7839847:135.439040728061,Japan,,Itami Airport,RJOO,Asia/Tokyo,OSA,JP
+ITU,Kuril'sk,45.25471985:147.960863832479,Russia,,Iturup,UHSI,Asia/Srednekolymsk,ITU,RU
+IUP,Apui,-7.1726927603202:-59.8393706089647,Brazil,,Lorenzo Airport,,America/Manaus,IUP,BR
+IVI,,8.4693:-79.0016,Panama,,Viveros Island Airport,,America/Panama,IVI,PA
+IWK,Iwakuni,34.15909315:132.235928654188,Japan,,Iwakuni Kintaikyo Airport,RJOI,Asia/Tokyo,IWK,JP
+IWS,Oak Cliff Place,29.81916285:-95.6737914876497,United States,,West Houston,KIWS,America/Chicago,HOU,US
+IXX,Bidar,17.9081:77.487099,India,,Bidar Air Force Station,VOBR,Asia/Kolkata,IXX,IN
+IZA,Rio Novo,-21.513056:-43.173058,Brazil,,Zona da Mata Regional Airport,SBZM,America/Sao_Paulo,JDF,BR
+IZE,Peissen,53.9944458008:9.5786113739,Germany,,Itzehoe/Hungriger Wolf Airport,EDHF,Europe/Berlin,IZE,DE
+JAD,Willetton,-32.0976113:115.874748212522,Australia,,Jandakot,YPJT,Australia/Perth,PER,AU
+JAE,,33.638058:-84.424446,Peru,,Shumba Airport,SPJE,America/New_York,CIX,PE
+JAJ,Hapeville,33.635277:-84.42167,United States,,Perimeter Mall,,America/New_York,ATL,US
+JAO,College Park,33.64639:-84.43278,United States,,Beaver Ruin,,America/New_York,ATL,US
+JAW,,-7.586389:-40.535556,Brazil,,Aeroporto de Araripina,SNAB,America/Recife,JAW,BR
+JBB,Renes,-8.2421527:113.693708318349,Indonesia,,Notohadinegoro Airport,WARE,Asia/Jakarta,JBB,ID
+JBC,South Boston,42.343887:-71.049446,United States,,Boston City Heliport,,America/New_York,BOS,US
+JBQ,Santo Domingo,18.5713644:-69.9860244731835,,,La Isabela International Airport,MDJB,America/Santo_Domingo,SDQ,DO
+JBT,,60.8:-161.75,United States,,City Landing,Z59,America/Anchorage,BET,US
+JCC,San Francisco,37.75:-122.416664,United States,,China Basin Heliport,,America/Los_Angeles,SFO,US
+JCD,,17.7:-64.78333,Virgin Islands (US),,Downtown Heliport,,America/St_Thomas,STX,VI
+JCE,Oakland,37.816666:-122.26667,United States,,Convention Center Heliport,,America/Los_Angeles,OAK,US
+JCI,Gardner,38.833332:-94.9,United States,,New Century Aircenter Airport,KIXD,America/Chicago,MKC,US
+JCJ,,33.944443:126.32778,South Korea,,Chuja Heliport,,Asia/Seoul,CJU,KR
+JCL,,48.946389:14.428056,Czech Republic,,České Budějovice Airport,LKCS,Europe/Prague,JCL,CZ
+JCN,Incheon,37.466667:126.6,South Korea,,Incheon Heliport,,Asia/Seoul,JCN,KR
+JCS,Crateus,-5.21230869969:-40.7045819389,Brazil,,Aeroporto De Crateus Airport,SNWS,America/Fortaleza,JCS,BR
+JDB,Fort Worth,32.766666:-97.316666,United States,,Downtown Heliport,,America/Chicago,DFW,US
+JDE,Jiande,29.354412074477:119.18551273837,China,,Jiande Qiandaohu Airport,,Asia/Shanghai,JDE,CN
+JDG,Seogwipo,33.3926049:126.711864477159,South Korea,,Jeongseok,RKPD,Asia/Seoul,JDG,KR
+JDM,Coral Gables,25.75:-80.25,United States,,Miami Downtown Heliport,,America/New_York,MIA,US
+JDP,Issy-les-Moulineaux,48.816666:2.283333,France,,Heliport De Paris,,Europe/Paris,PAR,FR
+JDR,Tiradentes,-21.0852396:-44.224610172835504,Brazil,,Sao Joao Del Rei,SNJR,America/Sao_Paulo,JDR,BR
+JDT,Minneapolis,44.983334:-93.26667,United States,,Downtown Heliport,,America/Chicago,MSP,US
+JEK,Luangwa,-15.6334:29.6036,,,Jeki Airport,FLJK,Africa/Lusaka,JEK,ZM
+JGD,Jagdaqi,50.37175975:124.115838275056,China,,Jiagedaqi Airport,ZYJD,Asia/Shanghai,JGD,CN
+JGL,Vinings,33.886112:-84.46694,United States,,Galleria Heliport,,America/New_York,ATL,US
+JGP,South Houston,29.666668:-95.25,United States,,Greenway Plaza Heliport,,America/Chicago,HOU,US
+JGQ,Hunters Creek Village,29.766666:-95.46667,United States,,Transco Twr Galleria,,America/Chicago,HOU,US
+JGX,North Glendale,34.166668:-118.28333,United States,,Heliport,,America/Los_Angeles,JGX,US
+JHC,North Arlington,40.783333:-74.1,United States,,Island Heliport,,America/New_York,JHC,US
+JHF,São Roque,-23.426886:-47.165658,Brazil,,São Paulo Catarina Executive Airport,SBJH,America/Sao_Paulo,JHF,BR
+JHL,,57.2329368:-111.4254582,Canada,,Albian,CAL4,America/Edmonton,HZP,CA
+JHY,Cambridge,42.36667:-71.102776,United States,,Hyatt Regency Heliport,,America/New_York,JHY,US
+JIC,Jinchang,38.54139:102.348617229501,China,,Jinchuan Airport,ZLJC,Asia/Shanghai,JIC,CN
+JID,Hacienda Heights,34.0:-118.0,United States,,City Of Industry Heliport,,America/Los_Angeles,LAX,US
+JIO,Ontario,34.066666:-117.65,United States,,International Heliport,,America/Los_Angeles,ONT,US
+JIQ,Zhoubai,29.5152164:108.830895249463,China,,Qianjiang Wulingshan Airport,ZUQJ,Asia/Shanghai,JIQ,CN
+JJA,,-8.21666:159.26666,,,Jajao,,Pacific/Guadalcanal,JJA,SB
+JJD,Cruz,-2.9061463:-40.357153993491,Brazil,,Jericoacoara,SBJE,Brazil/East,JJD,BR
+JJG,Jaguaruna,-28.66726125:-49.0543779533831,Brazil,,Jaguaruna Regional Airport,SBJA,America/Sao_Paulo,JJG,BR
+JJM,Maua,0.233194:38.183334,Kenya,,Mulika Lodge Airport,HKMK,Africa/Nairobi,JJM,KE
+JKL,Kalymnos,36.9632747:26.9399813651943,Greece,,Kalymnos Island National Airport,LGKY,Europe/Athens,JKL,GR
+JLB,Long Beach,33.749293:-118.190323,United States,,Long Beach Heliport,,America/Los_Angeles,LGB,US
+JLG,,20.961944:75.626667,India,,Jalgaon Airport,VAJL,Asia/Kolkata,JLG,IN
+JLX,Burbank,34.166668:-118.333336,United States,,Union Station Heliport,,America/Los_Angeles,LAX,US
+JMA,Aldine,29.983334:-95.34,United States,,Marriot Astrodome,,America/Chicago,HOU,US
+JMD,,32.8:-97.333336,United States,,Market Centre Heliport,,America/Chicago,DFW,US
+JMJ,Menglang,22.4162629:99.7855541866368,China,,Lancang Jingmai Airport,ZPJM,Asia/Shanghai,JMJ,CN
+JMM,,55.6:13.0,Sweden,,Malmo Harbour Heliport,,Europe/Stockholm,MMA,SE
+JMN,Mankato,44.166668:-94.01667,United States,,Municipal Heliport,,America/Chicago,MKT,US
+JMR,,-22.918056:-42.828889,Brazil,,Maricá Airport,SBMI,America/Sao_Paulo,JMR,BR
+JMY,Freetown,8.483333:-13.266667,,,Mammy Yoko Heliport,,Africa/Freetown,FNA,SL
+JNH,Blue Mound,32.816666:-97.35,United States,,North Park Inn Heliport,,America/Chicago,DFW,US
+JNJ,,19.4749:57.3083,Oman,,Jaaluni,OOJA,Asia/Muscat,JNJ,OM
+JOC,,33.666668:-117.869446,United States,,Centerport Heliport,,America/Los_Angeles,SNA,US
+JOJ,Doris Lake,68.125278:-106.585278,Canada,,Doris Lake Aerodrome,,America/Cambridge_Bay,UZM,CA
+JOR,Orange,33.783333:-117.85,United States,,The City Heliport,,America/Los_Angeles,JOR,US
+JPE,Paragominas,-3.019722:-47.316389,Brazil,,Nagib Demachki Airport,SNEB,America/Sao_Paulo,JPE,BR
+JPN,Groveton,38.766666:-77.066666,United States,,Pentagon Army,,America/New_York,WAS,US
+JPO,Patos,-7.037496939556:-37.25184761766,Brazil,,Brigadeiro Firmino Ayres Airport,SNTS,America/Recife,NVM,BR
+JPT,Katy,29.786388:-95.81167,United States,,Park Ten Heliport,,America/Chicago,HOU,US
+JPU,,48.86667:2.333333,France,,La Defense Heliport,,Europe/Paris,PAR,FR
+JPY,Paraty,-23.224444:-44.720278,Brazil,,Paraty Airport,SDTK,America/Sao_Paulo,JPY,BR
+JRA,,40.75528495:-74.0067433857797,United States,,West 30th St Heliport,,America/New_York,NYC,US
+JRC,Rochester,44.016666:-92.46667,United States,,Municipalcipal Heliport,,America/Chicago,RST,US
+JRE,,40.74238615:-73.9720772913419,United States,,East 60th Street Heliport,,America/New_York,NYC,US
+JRF,,21.30863315:-158.072600918304,United States,,Kalaeloa,PHJR,Pacific/Honolulu,JRF,US
+JRG,Jharsuguda,21.91594295:84.0505048256608,India,,Jharsuguda Airport,VEJH,Asia/Kolkata,JRG,IN
+JRJ,,25.9608:116.0775,China,,Ganzhou Ruijin Airport,,Asia/Shanghai,JRJ,CN
+JRT,Juruti,-2.1866669655:-56.0902786255,Brazil,,Juruti Airport,,America/Manaus,JRT,BR
+JSB,São Benedito,-4.05:-40.883333,Brazil,,Walfrido Salmito de Almeida Airport,SWBE,America/Fortaleza,JSB,BR
+JSG,San Rafael,37.966667:-122.53333,United States,,San Rafael Heliport,,America/Los_Angeles,SRF,US
+JSJ,Fujin,47.1066465:132.663228859181,China,,Jiansanjiang Shidi Airport,ZYJS,Asia/Shanghai,JSJ,CN
+JSK,Jask,25.65476:57.80172,Iran,,Jask Airport,OIZJ,Asia/Tehran,JSK,IR
+JSL,Ventnor City,39.333332:-74.45,United States,,Steel Pier Heliport,,America/New_York,AIY,US
+JSP,Jeju-si,33.483334:126.566666,South Korea,,Seogwipo Heliport,,Asia/Seoul,CJU,KR
+JTA,Tauá,-5.93260025:-40.2959781458301,Brazil,,Pedro Teixeira Castelo Airport,SDZG,America/Fortaleza,JTA,BR
+JTC,Bauru,-22.15705835:-49.0751594378705,Brazil,,Bauru-Arealva Airport,SBAE,America/Sao_Paulo,JTC,BR
+JTN,Itanhaém,-24.164722:-46.785556,Brazil,,Antônio Ribeiro Nogueira Jr. State Airport,SDIM,America/Sao_Paulo,JTN,BR
+JUC,Silver Lake,34.083332:-118.26667,United States,,Universal City Heliport,,America/Los_Angeles,LAX,US
+JUH,Borivli,19.222221:72.84722,China,,Chizhou Jiuhuashan Airport,ZSJH,Asia/Shanghai,JUH,CN
+JUP,Upland,34.1:-117.63333,United States,,Cable Heliport,,America/Los_Angeles,CCB,US
+JWH,,29.73611:-95.41778,United States,,Westchase Hilton Heliport,,America/Chicago,HOU,US
+JWL,The Woodlands,30.150557:-95.47139,United States,,Woodlawns,,America/Chicago,HOU,US
+JWO,Koesan,37.030101:127.8855023,South Korea,,Jungwon Air Base,,Asia/Seoul,JWO,KR
+JXA,Hongjunlu,45.306084:130.99675,China,,Jixi Airport,ZYJX,Asia/Shanghai,JXA,CN
+KAH,,-37.816666:144.96666,Australia,,City Heliport,,Australia/Melbourne,MEL,AU
+KBW,,56.2955556:-158.4013889,United States,,Chignik Bay,Z78,America/Anchorage,KCL,US
+KCG,,56.310833:-158.37361,United States,,Fisheries,,America/Anchorage,KCL,US
+KCL,,56.308334:-158.53194,United States,,Lagoon,KCL,America/Anchorage,KCL,US
+KCY,,56.175833:92.542778,Russia,,Krasnoyarsk Cheremshanka Airport,UNKM,Asia/Krasnoyarsk,KCY,RU
+KDJ,,-0.186401:10.7616837,Gabon,,Ndjole-Ville,FOGJ,Africa/Libreville,KDJ,GA
+KDK,,57.80722:-152.37,United States,,Municipal,PAKD,America/Anchorage,ADQ,US
+KDX,Kadugli,11.1379995:29.7010994,Sudan,,Kadugli,HSLI,Africa/Khartoum,KDX,SD
+KEF,Reykjanesbaer,63.98486065:-22.6265981877032,Iceland,,Keflavik International Airport,BIKF,Atlantic/Reykjavik,REK,IS
+KFE,,-22.29124225:119.438348603711,Australia,,Fortescue Dave Forrest,YFDF,Australia/Perth,KFE,AU
+KFM,,55.355556:-110.6375,Canada,,Kirby Lake Aerodrome,,America/Edmonton,KFM,CA
+KFZ,Kukës,42.0342197:20.4161565260286,Albania,,Kukës International Airport,LAKU,Europe/Tirane,KFZ,AL
+KGT,,30.14307095:101.738697617343,China,,Kangding Airport,ZUKD,Asia/Shanghai,KGT,CN
+KHX,Beni,0.719444:29.7,,,Savannah Airstrip,,Africa/Kampala,KHX,UG
+KIX,Kaizuka,34.43420455:135.222523016958,Japan,,Kansai International Airport,RJBB,Asia/Tokyo,OSA,JP
+KJB,Orvakal,15.7158696:78.1693148104587,India,,Uyyalawada Narasimha Reddy Airport,VOKU,Asia/Kolkata,KJB,IN
+KJH,Shiqian,26.970256:107.986667006712,China,,Kaili Huangping Airport,ZUKJ,Asia/Shanghai,KJH,CN
+KJI,Oymak,48.22167:86.99611,China,,Kanasi Airport,ZWKN,Asia/Shanghai,KJI,CN
+KJJ,,0.200278:32.55,,,Kajjansi Airfield,HUKJ,Africa/Kampala,KJJ,UG
+KJT,Jatiwangi,-6.64858215:108.155376204337,Indonesia,,Kertajati International Airport,WICA,Asia/Jakarta,KJT,ID
+KJX,Susoh,3.734444:96.791111,Indonesia,,Blangpidie Airport,,Asia/Jakarta,KJX,ID
+KKQ,,65.71956255:82.4590972038872,Russia,,Krasnoselkup,USDP,Asia/Yekaterinburg,KKQ,RU
+KKS,Kashan,33.8901912:51.57968796069711,Iran,,Kashan Airport,OIFK,Asia/Tehran,KKS,IR
+KLJ,Neringa,55.424284:21.143408,Lithuania,,Klaipeda,,Europe/Vilnius,PLQ,LT
+KPW,Bilibino,67.8471745:166.137144529559,Russia,,Keperveyem Airport,UHMK,Asia/Kamchatka,KPW,RU
+KQH,Kishangarh,26.58696425:74.8126020223943,India,,Kishangarh Airport,VIKG,Asia/Kolkata,KQH,IN
+KQR,,-29.2152397:116.6872798,Australia,,Karara Airport,,Australia/Perth,KQR,AU
+KQT,Bustonqal'a,37.86674825:68.8617043680837,Tajikistan,,Qurghonteppa International Airport,UTDT,Asia/Dushanbe,KQT,TJ
+KTJ,Narok,-1.263508:35.027596,Kenya,,Kichwa Tembo Airport,HKTB,Africa/Nairobi,KTJ,KE
+KTP,Kingston,17.98903215:-76.8251459214969,Jamaica,,Tinson,MKTP,America/Jamaica,KIN,JM
+KVM,,64.66665715:170.411727572549,Russia,,Markovo Airport,UHMO,Asia/Anadyr,KVM,RU
+KVO,Kraljevo,43.818194:20.5874907186389,Serbia,,Morava Airport,LYKV,Europe/Belgrade,KVO,RS
+KVR,Kavalerovo,44.2715589:135.03005504251,Russia,,Kavalerovo,UHWK,Asia/Vladivostok,KVR,RU
+KXB,Kolaka,-4.3356094:121.524242255012,Indonesia,,Sangia Nibandera Airport,WAWP,Asia/Makassar,PUM,ID
+KXD,Kondinskoye,59.65:67.433333,Russia,,Kondinskoye Airport,,Asia/Yekaterinburg,KXD,RU
+KXO,,-1.283333:29.719444,,,Kisoro Airport,HUKI,Africa/Kampala,KXO,UG
+KYO,Wesley Chapel,28.216667:-82.36667,United States,,Topp Of Tampa,X39,America/New_York,TPA,US
+KZR,,39.1090247:30.1371297052383,Turkey,,Zafer Airport,LTBZ,Europe/Istanbul,KZR,TR
+LBG,Gonesse,48.9622283:2.44941061583711,France,,Le Bourget,LFPB,Europe/Paris,PAR,FR
+LBH,Botany,-33.944168:151.17583,Australia,,Palm Beach SPB,,Australia/Sydney,SYD,AU
+LCK,Obetz,39.8132172:-82.934199729754,United States,,Rickenbacker International Airport,KLCK,America/New_York,CMH,US
+LCQ,Five Points,30.320557:-82.66861,United States,,Lake City,KLCQ,America/New_York,LCQ,US
+LCT,,37.9154864:114.591526194737,China,,Shijiazhuang Luancheng Airport,,Asia/Shanghai,LCT,CN
+LCY,,51.5042655:0.0549024013303768,United Kingdom,,London City Airport,EGLC,Europe/London,LON,GB
+LDS,Xuri,47.75241185:129.017187600246,China,,Yichun Shi Airport,ZYLD,Asia/Shanghai,LDS,CN
+LEU,Sant Julia de Loria,42.416668:1.466667,Spain,,Seo de Urgel,LESU,Europe/Madrid,LEU,ES
+LFH,Jinding,26.64507115:99.5444619929783,China,,Lanping Feng Hua Airport,,Asia/Shanghai,LFH,CN
+LFI,,37.083332:-76.5,United States,,Langley AFB,KLFI,America/New_York,PHF,US
+LFQ,Linfen,36.1390292:111.639799113036,China,,Linfen Qiaoli Airport,ZBLF,Asia/Shanghai,LFQ,CN
+LGA,The Bronx,40.7757145:-73.8733639851155,United States,,LaGuardia Airport,KLGA,America/New_York,NYC,US
+LGF,,32.716667:-114.61667,United States,,Laguna AAF,KLGF,America/Phoenix,YUM,US
+LGW,Horley,51.1541082:-0.18231164991272,United Kingdom,,London Gatwick Airport,EGKK,Europe/London,LON,GB
+LIN,Novegro-Tregarezzo-San Felice,45.44420495:9.27783292215851,Italy,,Milano Linate Airport,LIML,Europe/Rome,MIL,IT
+LJC,Lafayette,36.266666:-85.75,United States,,Intercontinental,,America/Kentucky/Louisville,SDF,US
+LKE,Seattle,47.6275:-122.331665,United States,,Kenmore Air Harbor SPB,W55,America/Los_Angeles,SEA,US
+LKI,Duluth,46.783333:-92.1,United States,,Lakeside USAF,,America/Chicago,DLH,US
+LKM,,-0.960556:122.111944,Indonesia,,Raja Loloda Mokoagow Airport,,Asia/Makassar,LKM,ID
+LKW,`Ibri,22.80543685:55.3731213042623,Oman,,Lekhwair,OOLK,Asia/Muscat,LKW,OM
+LKZ,Mundford,52.49167:0.67609,United Kingdom,,RAF Lakenheath,EGUL,Europe/London,LKZ,GB
+LLB,Chuanshan,25.452477:107.961914,China,,Libo County Libo City Airport,ZULB,Asia/Shanghai,LLB,CN
+LLC,Bagumbayan,18.18240175:121.748059335043,Philippines,,Cagayan North International Airport,RPLH,Asia/Manila,LLC,PH
+LLJ,Lubuklinggau,-3.2889355:102.91416981571,Indonesia,,Silampari Airport,WIKL,Asia/Jakarta,LLJ,ID
+LLO,Beringinjaya,-3.0777591:120.243614405562,Indonesia,,Bua Airport,WAFD,Asia/Makassar,LLO,ID
+LLT,Lobito,-12.3711467:13.5385925907648,Angola,,Lobito,,Africa/Luanda,LLT,AO
+LLV,Lishi,37.683333:111.142778,China,,Lüliang Airport,ZBLL,Asia/Shanghai,LLV,CN
+LMU,,2.9642438:105.754213558221,Indonesia,,Letung Airport,WIDL,Asia/Jakarta,LMU,ID
+LMV,Madivaru,5.45798469788:73.3703800969,Maldives,,Madivaru Airport,,Indian/Maldives,LMV,MV
+LNA,,26.716667:-80.05,United States,,Palm Beach County Park,KLNA,America/New_York,PBI,US
+LNL,Diancun,33.7889894:105.781415528745,China,,Longnan Chengzhou Airport,ZLLN,Asia/Shanghai,LNL,CN
+LNU,Mensalong,3.575278:116.619722,Indonesia,,Robert Atty Bessing Airport,WAQM,Asia/Makassar,LNU,ID
+LOO,Laghouat,33.833332:2.983333,,,L'Mekrareg Airport,DAUL,Africa/Algiers,LOO,DZ
+LOR,Headland,31.5:-85.433334,United States,,Lowe Army Heliport,,America/Chicago,OZR,US
+LOU,Louisville,38.266666:-85.75,United States,,Bowman Field Airport,KLOU,America/Kentucky/Louisville,SDF,US
+LPF,Liupanshui,26.60868035:104.978582367567,China,,Liupanshui Yuezhao Airport,ZUPS,Asia/Shanghai,LPF,CN
+LRF,Little Rock Air Force Base,34.90592735:-92.1387699875984,United States,,Little Rock AFB,KLRF,America/Chicago,LRF,US
+LRN,Moses Lake,47.13333:-119.28333,United States,,Larson AFB,,America/Los_Angeles,MWH,US
+LSD,Mount Vernon,38.0317136:-84.4951359,United States,,Blue Grass Station Army Heliport,,America/New_York,LEX,US
+LSF,,32.3405:-84.986046,United States,,Lawson AAF,KLSF,America/New_York,LSF,US
+LSI,,59.87699315:-1.29033317911969,United Kingdom,,Sumburgh Airport,EGPB,Europe/London,SDZ,GB
+LSQ,Los Angeles,-37.3975:-72.422775,Chile,,Los Angeles,SCGE,America/Santiago,LSQ,CL
+LSV,Pahrump,36.3:-115.8,United States,,Nellis AFB,KLSV,America/Los_Angeles,LAS,US
+LTN,Luton,51.87814035:-0.366457329243683,United Kingdom,,London Luton Airport,EGGW,Europe/London,LON,GB
+LTS,Altus,34.66798:-99.26775,United States,,Altus Air Force Base,KLTS,America/Chicago,LTS,US
+LTU,Latur,18.41270495:76.4653702564694,India,,Latur,VALT,Asia/Kolkata,LTU,IN
+LUF,,33.61667:-111.916664,United States,,Luke AFB,KLUF,America/Phoenix,PHX,US
+LVR,,-13.037861:-55.95025,Brazil,,Mun. Do Bom Futuro,SILC,America/Cuiaba,LVR,BR
+LWK,,60.15:-1.15,United Kingdom,,Lerwick/Tingwall,EGET,Europe/London,SDZ,GB
+LYN,Bron,45.72819335:4.94270411332786,France,,Bron,LFLY,Europe/Paris,LYS,FR
+LZG,Shilong,31.50366:106.03535,China,,Langzhong Airport,,Asia/Shanghai,LZG,CN
+MAC,,32.833332:-83.63333,United States,,Smart,KMAC,America/New_York,MCN,US
+MCC,North Highlands,38.6646655:-121.409505566729,United States,,Mcclellan AFB,KMCC,America/Los_Angeles,SAC,US
+MCF,,27.95:-82.45,United States,,Mac Dill AFB,KMCF,America/New_York,TPA,US
+MCI,Weatherby Lake,39.3023103:-94.7211899174345,United States,,Kansas City International Airport,KMCI,America/Chicago,MKC,US
+MDA,San Antonio,29.4312992:-98.3778,United States,,Martindale Army Heliport,KMDA,America/Chicago,SAT,US
+MDD,Midland,32.0:-102.05,United States,,Airpark,KMDD,America/Chicago,MAF,US
+MDN,Madison,38.733334:-85.38333,United States,,Jefferson Proving Grd,KIMS,America/Indiana/Indianapolis,MDN,US
+MDW,Stickney,41.78544375:-87.7508277936727,United States,,Chicago Midway International Airport,KMDW,America/Chicago,CHI,US
+MEB,Niddrie,-37.72660985:144.901317521718,Australia,,Essendon Airport,YMEN,Australia/Melbourne,MEL,AU
+MFY,Al Wuday`,13.666667:46.00833,Yemen,,Mayfa'ah,,Asia/Aden,MFY,YE
+MGY,Union,39.933334:-84.25444,United States,,Dayton-Wright Brothers Airport,KMGY,America/New_York,DAY,US
+MHB,,-36.845:174.78473,New Zealand,,Mechanics Bay,,Pacific/Auckland,AKL,NZ
+MHP,Syenitsa,53.85:27.55,Belarus,,Minsk International 1,UMMM,Europe/Minsk,MSQ,BY
+MHR,,38.55531:-121.29721,United States,,Sacramento Mather Airport,KMHR,America/Los_Angeles,SAC,US
+MIB,,48.233334:-101.3,United States,,Minot AFB,KMIB,America/Chicago,MOT,US
+MIC,Brooklyn Center,45.06193745:-93.352502343064,United States,,Crystal,,America/Chicago,MSP,US
+MIO,Miami,36.88333:-94.9,United States,,Miami,,America/Chicago,MIO,US
+MKC,Kansas City,39.12417015:-94.5928393404876,United States,,Charles B. Wheeler Downtown Airport,KMKC,America/Chicago,MKC,US
+MKI,Obo,5.316667:25.95,Central African Republic,,Mboki,FEGE,Africa/Bangui,MKI,CF
+MKO,Muskogee,35.65580455:-95.3583798430007,United States,,Davis Field,,America/Chicago,MKO,US
+MLH,Hesingue,47.60323695:7.52434812773247,Switzerland,,EuroAirport Basel-Mulhouse-Freiburg,,Europe/Zurich,EAP,CH
+MLW,Monrovia,6.289444:-10.758333,Liberia,,Sprigg Payne,GLMR,Africa/Monrovia,MLW,LR
+MMR,Austin,30.283333:-97.75,United States,,Camp Maybry AHP,,America/Chicago,AUS,US
+MMX,Genarp,55.5361868:13.3697156810298,Sweden,,Malmo Airport,ESMS,Europe/Stockholm,MMA,SE
+MPB,,25.75:-80.166664,United States,,Miami Sea Plane Base,X44,America/New_York,MIA,US
+MQJ,,66.4511768:143.258439062884,Russia,,Moma,UEMA,Asia/Srednekolymsk,MQJ,RU
+MQP,White River,-25.38178745:31.106954598075,South Africa,,Kruger Mpumalanga International Airport,FAKN,Africa/Johannesburg,NLP,ZA
+MRI,Anchorage,61.2133214:-149.8441957,United States,,Merrill Field,PAMR,America/Anchorage,ANC,US
+MSB,,18.066668:-63.066666,,,Marigot SPB,,America/Marigot,SFG,MF
+MTC,Mount Clemens,42.583332:-82.88333,United States,,Selfridge ANGB,KMTC,America/Detroit,MTC,US
+MTN,Bowleys Quarters,39.321667:-76.41167,United States,,Glenn L Martin,KMTN,America/New_York,BWI,US
+MTX,College,64.816666:-147.86667,United States,,Metro Field,MTF,America/Anchorage,FAI,US
+MUL,Moultrie,31.183332:-83.78333,United States,,Spence,,America/New_York,MGR,US
+MUO,Mountain Home,43.13333:-115.683334,United States,,Mountain Home AFB,KMUO,America/Boise,MUO,US
+MWC,,43.033333:-87.916664,United States,,Lawrence J Timmerman,KMWC,America/Chicago,MKE,US
+MWX,Muan,34.9912802:126.384140547534,South Korea,,Muan International Airport,RKJB,Asia/Seoul,MWX,KR
+MXF,Montgomery,32.3819625:-86.3533235289683,United States,,Maxwell AFB,KMXF,America/Chicago,MGM,US
+MXP,Vizzola Ticino,45.6296273:8.72354746896739,Italy,,Milano Malpensa Airport,LIMC,Europe/Rome,MIL,IT
+MYF,,32.716667:-117.15,United States,,Montgomery Field,KMYF,America/Los_Angeles,SAN,US
+MZM,Marly,49.0725:6.134444,France,,Frescaty,LFSF,Europe/Paris,ETZ,FR
+NAB,Albany,31.583332:-84.166664,United States,,Albany NAS,,America/New_York,ABY,US
+NAY,Nanyuan,39.78215945:116.387675017321,China,,Beijing Nanyuan Airport,ZBNY,Asia/Shanghai,BJS,CN
+NBG,Timberlane,29.833332:-90.03333,United States,,NAS/Alvin Callendar,KNBG,America/Chicago,MSY,US
+NBJ,,-9.046778:13.507194,Angola,,Dr. Antonio Agostinho Neto International Airport,FNBJ,Africa/Luanda,NBJ,AO
+NBN,Pale,-1.407638:5.62510323839779,,,Annobón,FGAB,Africa/Malabo,NBN,GQ
+NBS,Manjiang,42.0691726:127.602772145101,China,,Changbaishan Airport,ZYBS,Asia/Shanghai,NBS,CN
+NBW,Guantanamo,20.166668:-75.23333,Cuba,,Guantanamo NAS,MUGM,America/Havana,GAO,CU
+NCJ,Sunchales,-30.9580775:-61.5219139196328,Argentina,,Sunchales,SAFS,America/Argentina/Cordoba,NCJ,AR
+NEI,Terney,45.0814450773:136.590342226,Russia,,Terney Airport,,Asia/Vladivostok,NEI,RU
+NES,,40.743332:-73.975,United States,,East 34th St Landing,,America/New_York,NYC,US
+NEW,Arabi,30.039444:-90.026665,United States,,Lakefront Airport,KNEW,America/Chicago,MSY,US
+NFL,Fallon,39.41783:-118.69859,United States,,Fallon Naval Air Station (Van Voorhis Field),KNFL,America/Los_Angeles,NFL,US
+NFO,,-15.571831:-175.62891795,Tonga,,Mata'aho,NFTO,Pacific/Tongatapu,NFO,TO
+NGC,Grand Canyon,36.38972:-112.129166,United States,,North Rim,,America/Phoenix,GCN,US
+NGF,Marine Corps Base Hawaii - MCBH,21.445833:-157.769722,United States,,Marine Corps Air Station Kaneohe Bay,PHNG,Pacific/Honolulu,NGF,US
+NGK,Nogliki,51.78272325:143.140559497477,Russia,,Nogliki Airport,UHSN,Asia/Sakhalin,NGK,RU
+NGP,,27.7:-97.28333,United States,,NAS,,America/Chicago,CRP,US
+NGQ,,32.1013374:80.0563279653438,China,,Ngari Gunsa/Ali Kunsha,ZUAL,Asia/Shanghai,NGQ,CN
+NGU,Columbia,35.833332:-76.28333,United States,,NAS Chambers,KNGU,America/New_York,ORF,US
+NGW,Corpus Christi,27.783333:-97.4,United States,,Cabaniss Field,,America/Chicago,CRP,US
+NHZ,Brunswick,43.916668:-69.96667,United States,,NAS,KBXM,America/New_York,NHZ,US
+NIP,,30.2321956:-81.6791856791564,United States,,Jacksonville NAS,KNIP,America/New_York,JAX,US
+NIU,,-16.11911495:-146.368370414399,,,Niau,NTKN,Pacific/Tahiti,NIU,PF
+NJF,An Najaf,31.9890477:44.403904616449104,Iraq,,Al-Najaf International Airport,ORNI,Asia/Baghdad,NJF,IQ
+NJJ,Changfu,49.238688:125.329733,China,,Nenjian Melgen Airport,,Asia/Shanghai,NJJ,CN
+NKP,Nakhon Phanom,17.3886974:104.6446664,Thailand,,Nakhon Phanom Airport,NTKU,Asia/Bangkok,NKP,TH
+NKT,Tililan,37.363889:42.06,Turkey,,Shirnak,LTCV,Europe/Istanbul,NKT,TR
+NKX,Poway,32.86667:-117.11667,United States,,Miramar MS,KNKX,America/Los_Angeles,SAN,US
+NLH,Daxing,27.54064145:100.759596149282,China,,Ninglang Luguhu Airport,ZPNL,Asia/Shanghai,NLH,CN
+NLI,Nikolayevsk-on-Amure,53.1536464:140.651714946099,Russia,,Nikolaevsk-na-Amure,UHNN,Asia/Vladivostok,NLI,RU
+NLN,Blue Lake,40.71893525:-123.927458983653,United States,,Kneeland,O19,America/Los_Angeles,NLN,US
+NLO,Kinshasa,-4.32675685:15.3266022028557,Democratic Republic of the Congo,,N'dolo,FZAB,Africa/Kinshasa,FIH,CD
+NLT,Tuergen,43.42950715:83.3726690114942,China,,Nalati Airport,ZWNL,Asia/Shanghai,NLT,CN
+NMC,,24.59807545:-76.8180328830076,The Bahamas,,Norman's Cay,MYEN,America/Nassau,NMC,BS
+NMF,Manadhoo,5.8188779:73.4699947691614,Maldives,,Maafaru International Airport,VRDA,Indian/Maldives,NMF,MV
+NMI,,18.994444:73.070278,India,,Navi Mumbai International Airport,,Asia/Kolkata,NMI,IN
+NML,,57.0537491:-111.5708846,Canada,,Mildred Lake,CER4,America/Edmonton,NML,CA
+NOG,,31.333332:-110.933334,Mexico,,Nogales,MMNG,America/Hermosillo,NOG,MX
+NOH,,41.880554:-87.61667,United States,,Chicago NAS,,America/Chicago,CHI,US
+NOP,,42.0175:35.06889,Turkey,,Sinop Airport - Turkey,LTCM,Europe/Istanbul,NOP,TR
+NPA,Pensacola,30.416668:-87.21667,United States,,Pensacola NAS,KNPA,America/Chicago,PNS,US
+NPR,,-7.125833:-55.400833,Brazil,,Novo Progresso Municipal,SJNP,America/Santarem,NPR,BR
+NPY,Mpanda,-6.35497145:31.0840824979378,Tanzania,,Mpanda Airport,HTMP,Africa/Dar_es_Salaam,NPY,TZ
+NQX,,24.55:-81.8,United States,,Key West NAS /Boca Chica Field (private U. S. Navy ),KNQX,America/New_York,EYW,US
+NQZ,Nur-Sultan,51.0258535:71.4641981323281,Kazakhstan,,Nursultan Nazarbayev International Airport,UACC,Asia/Almaty,NQZ,KZ
+NRT,Narita,35.77587145:140.393310139934,Japan,,Narita International Airport,RJAA,Asia/Tokyo,TYO,JP
+NSB,Alice Town,25.775:-79.25,The Bahamas,,North SPB,,America/Nassau,BIM,BS
+NSF,Mellwood,38.816666:-76.833336,United States,,Andrews NAF,,America/New_York,ADW,US
+NSI,,3.7250788:11.55216866478,Cameroon,,Nsimalen Airport,FKYS,Africa/Douala,YAO,CM
+NSL,Slayton,43.9840173:-95.7824693018318,United States,,Slayton Municipal,KDVP,America/Chicago,NSL,US
+NSR,São Raimundo Nonato,-9.082778:-42.644444,Brazil,,São Raimundo Nonato Airport,SWKY,America/Fortaleza,NSR,BR
+NUA,Nuwara Eliya,6.9560731:80.7795237,Sri Lanka,,Gregory's Lake,,Asia/Colombo,NUA,LK
+NUM,Duba,27.92758955:35.2914332897221,Saudi Arabia,,Neom Airport,OENN,Asia/Riyadh,NUM,SA
+NUN,East Pensacola Heights,30.4725:-87.18833,United States,,Saufley NAS,,America/Chicago,PNS,US
+NUW,Ault Field,48.351944:-122.65583,United States,,Whidbey Island NAS (Ault Field),KNUW,America/Los_Angeles,NUW,US
+NVM,Nova Mutum,-13.81380253609:-56.0349239329,Brazil,,Brigadeiro Eduardo Gomes Airport,,America/Cuiaba,NVM,BR
+NVN,Portola,39.8184:-120.3537,United States,,Nervino,KO02,America/Los_Angeles,NVN,US
+NWS,,40.703056:-74.01056,United States,,Pier 11/Wall St. SPB,,America/New_York,NYC,US
+NWU,Saint George,32.75:-65.0,Bermuda,,Bermuda NAS,,Atlantic/Bermuda,BDA,BM
+NYO,Svalsta,58.7871654:16.9104983,Sweden,,Stockholm Skavsta Airport,ESKN,Europe/Stockholm,STO,SE
+NYR,Nyurba,63.2977167:118.352362862571,Russia,,Nyurba Airport,UENN,Asia/Yakutsk,NYR,RU
+NYS,Long Island City,40.7351534:-73.9729007,United States,,New York Skyports Seaplane Base,,America/New_York,NYS,US
+NYT,Pyinmana,19.62314215:96.1942045774954,Myanmar,,Nay Pyi Taw Airport,VYNT,Asia/Rangoon,NYT,MM
+NYW,Monywa,22.22417235:95.0934598465876,Myanmar,,Monywar Airport,VYMY,Asia/Yangon,NYW,MM
+NZC,Nazca,-14.85435005:-74.9619161317712,Peru,,Maria Reiche Neuman Airport,SPZA,America/Lima,NZC,PE
+NZG,,55.801667:109.586667,Russia,,Nizhneangarsk Airport,UIUN,Asia/Irkutsk,NZG,RU
+NZL,Qinggis Han,47.865833:122.7675,China,,Zhalantun Chengjisihan Airport,ZBZL,Asia/Shanghai,NZL,CN
+NZY,Coronado,32.7:-117.2,United States,,North Island NAS,KNZY,America/Los_Angeles,SAN,US
+OAA,Pul-e `Alam,33.9232357:69.0778125348238,,,Shank Air Base,OASH,Asia/Kabul,OAA,AF
+OAH,Shindand,33.3913002014:62.2610015869,,,Shindand Air Base,OASD,Asia/Kabul,OAH,AF
+OAI,Ghulam `Ali,34.9346662:69.2425695,,,Bagram,OAIX,Asia/Kabul,OAI,AF
+OAS,Zarah Sharan,33.12575:68.838517,,,Sharana Air Base,OASA,Asia/Kabul,OAS,AF
+OAZ,,31.84874:64.22318,,,Camp Bastion,OAZI,Asia/Kabul,OAZ,AF
+OBK,Northbrook,42.11667:-87.816666,United States,,Sky Harbor,,America/Chicago,OBK,US
+OCM,,-22.540644:117.27020102829,Australia,,Boolgeeda,YBGD,Australia/Perth,OCM,AU
+OCS,Cocobeach,0.9134412:9.32937788868622,,,Corisco International Airport,,Africa/Malabo,OCS,GQ
+ODC,East Oakdale,37.757711:-120.802037379562,United States,,Oakdale,O27,America/Los_Angeles,ODC,US
+ODM,Oakland,39.5811968:-79.3353230153204,United States,,Garrett County Airport,,America/New_York,ODM,US
+ODT,Odessa,31.921389:-102.386944,United States,,Odessa-Schlemeyer Field,KODO,America/Phoenix,ODT,US
+OFF,Offutt Air Force Base,41.1183758:-95.9101309,United States,,Offutt Air Force Base,KOFF,America/Chicago,OFF,US
+OGM,,83.382225:-77.933266,Panama,,Ogobsucum,,America/Panama,OGM,PA
+OGU,Gulyali,40.966667:38.08,Turkey,,Ordu Giresun Airport,LTCB,Asia/Istanbul,QOR,TR
+OHB,Moramanga,-18.915993:48.220969,Madagascar,,Ambohibary,FMFE,Indian/Antananarivo,OHB,MG
+OHE,Xilinji,52.9156841:122.425259851876,China,,Mohe Airport,ZYMH,Asia/Shanghai,OHE,CN
+OHS,Al Sohar,24.38766535:56.6213983284842,Oman,,Sohar Airport,OOSH,Asia/Muscat,MCT,OM
+OJC,Olathe,38.8483415:-94.738015,United States,,Johnson Executive,KOJC,America/Chicago,MKC,US
+OJU,,-0.864417:121.623083,Indonesia,,Tanjung Api Airport,,Asia/Jakarta,OJU,ID
+OKD,Sapporo,43.1168178:141.381088866683,Japan,,Okadama Airport,RJCO,Asia/Tokyo,SPK,JP
+OKO,Fussa,35.75:139.35,Japan,,Yokota AFB,RJTY,Asia/Tokyo,TYO,JP
+OLC,Sao Paulo de Olivenca,-3.470869:-68.95853,Brazil,,Sen. Eunice Micheles,SDCG,America/Manaus,OLC,BR
+OLG,Bomet,-1.324397:35.247367,Kenya,,Olare Airport,,Africa/Nairobi,OLG,KE
+OLL,Clarks,32.004417:-92.229164,Congo,,Ollombo,FCOD,Africa/Brazzaville,OLL,CG
+OLR,Baalbek,34.023167:36.130333,,,Salerno Air Base,OASL,Asia/Kabul,OLR,AF
+OLX,Kihancha,-1.4087924:35.1105164,Kenya,,Olkiombo Airport,HKOK,Africa/Nairobi,OLX,KE
+OLZ,Olyokminsk,60.4008072:120.474767716816,Russia,,Olokminsk Airport,UEMO,Asia/Yakutsk,OLZ,RU
+ONK,Olenyok,68.51536115:112.479152892625,Russia,,Olenyok Airport,UERO,Asia/Yakutsk,ONK,RU
+OOD,Newman,-22.503574253549:119.07625111164,Australia,,Gudai-Darri Airstrip,YKDD,Australia/Perth,OOD,AU
+OPF,Miami Lakes,25.90619265:-80.2751507734967,United States,,Opa-locka Executive Airport,KOPF,America/New_York,MIA,US
+OPP,Salinópolis,-0.696944:-47.337778,Brazil,,Salinópolis Airport,SNSM,America/Belem,OPP,BR
+ORG,Paramaribo,5.8111098:-55.1911276874306,Suriname,,Zorg En Hoop,SMZO,America/Paramaribo,PBM,SR
+ORL,Azalea Park,28.54617435:-81.3316359131412,United States,,Orlando Executive,KORL,America/New_York,ORL,US
+ORY,Paray-Vieille-Poste,48.74847705:2.35572229362018,France,,Paris Orly Airport,LFPO,Europe/Paris,PAR,FR
+OSF,Shcherbinka,55.511667:37.507222,Russia,,Ostafyevo International Business Airport,UUMO,Europe/Moscow,OSF,RU
+OSJ,Narok,-1.378412:35.377414,Kenya,,Ol Seki Airport,,Africa/Nairobi,OSJ,KE
+OSO,,-22.0792179:140.5568295,Australia,,Osborne Mine,YOSB,Australia/Brisbane,OSO,AU
+OSU,Dublin,40.0811371:-83.0734831372409,United States,,Ohio State University,KOSU,America/New_York,CMH,US
+OTK,Tillamook,45.4182929:-123.815680105723,United States,,Tillamook,KTMK,America/Los_Angeles,OTK,US
+OTP,Otopeni,44.571156:26.077063,Romania,,Bucharest Henri Coanda International Airport,LROP,Europe/Bucharest,BUH,RO
+OTQ,Ordos City,38.17423:107.3897,China,,Otog Front Banner Oljoq Airport,,Asia/Shanghai,OTQ,CN
+OTT,Aripuana,-9.902215:-58.581287,Brazil,,Andre Maggi,,America/Cuiaba,OTT,BR
+OYC,Camopi,3.172222:-52.336111,,,Camopi Airport,,America/Cayenne,OYC,GF
+OZG,Zagora,30.26601885:-5.85920253444384,Morocco,,Zagora Airport,GMAZ,Africa/Casablanca,OZG,MA
+OZP,Utrera,37.24917:-5.759444,Spain,,Moron,LEMO,Europe/Madrid,OZP,ES
+PAC,Chepillo,8.983333:-79.21667,Panama,,Marcos A. Gelabert International Airport,MPMG,America/Panama,PTY,PA
+PAM,Panama City,30.166668:-85.683334,United States,,Tyndall AFB,KPAM,America/Chicago,PFN,US
+PCB,Pamulang,-6.3364522:106.763418680429,Indonesia,,Pondok Cabe,WIHP,Asia/Jakarta,PCB,ID
+PCF,Potchefstroom,-26.6704577:27.0839019717242,South Africa,,Potchefstroom,FAPS,Africa/Johannesburg,PCF,ZA
+PDK,Doraville,33.88333:-84.25,United States,,DeKalb Peachtree Airport,KPDK,America/New_York,ATL,US
+PDM,Pedasi,7.556944:-80.023611,Panama,,Pedasí Airport,MP00,America/Panama,PDM,PA
+PFM,,55.390556:-111.120278,Canada,,Primrose Aerodrome,,America/Edmonton,PFM,CA
+PGG,Jacareacanga,-6.954167:-55.46111,Brazil,,Progresso,,America/Santarem,PGG,BR
+PGQ,Buli,0.9171717:128.38098388661,Indonesia,,Buli Airport,WAEM,Asia/Jayapura,PGQ,ID
+PGU,Bandar-e `Asaluyeh,27.383959:52.735516,Iran,,Ala'Marvdasht Airport,OIBP,Asia/Tehran,PGU,IR
+PGZ,Ponta Grossa,-25.083332:-50.15,Brazil,,Comte Antonio Amilton Beraldo Airport,SBPG,America/Sao_Paulo,PGZ,BR
+PHG,Elele,5.033333:6.833333,Nigeria,,Port Harcourt City,,Africa/Lagos,PHC,NG
+PHQ,,-21.80924245:139.92159686434,Australia,,The Monument Airport,YTMO,Australia/Brisbane,PHQ,AU
+PID,,25.083332:-77.3,The Bahamas,,Paradise Island,,America/Nassau,NAS,BS
+PII,,64.86389:-147.71388,United States,,Phillips Field,,America/Anchorage,FAI,US
+PKX,Lixian,39.49734235:116.412314852949,China,,Beijing Daxing International Airport,ZBAD,Asia/Shanghai,BJS,CN
+PLL,Manaus,-3.1450556:-59.9856128369314,Brazil,,Ponta Pelada,SBMN,America/Manaus,PLL,BR
+PLU,Santa Luzia,-19.75:-43.75,Brazil,,Belo Horizonte Airport,SBBH,America/Sao_Paulo,BHZ,BR
+PNE,Cornwells Heights,40.080276:-75.0125,United States,,North Philadelphia,KPNE,America/New_York,PHL,US
+PNF,,58.683334:-156.83333,United States,,Peterson's Point,,America/Anchorage,PNF,US
+POB,Fayetteville,35.05:-78.88333,United States,,Pope AFB,KPOB,America/New_York,FAY,US
+POX,Pontoise,49.05:2.1,France,,Paris Cergy Pontoise,LFPT,Europe/Paris,PAR,FR
+PPD,Humacao,18.15:-65.833336,Puerto Rico,,Palmas Del Mar,,America/Puerto_Rico,HUC,PR
+PQD,Batticaloa,7.71:81.68,Sri Lanka,,Pasikudha SPB,,Asia/Colombo,BTC,LK
+PSQ,Paulsboro,39.868057:-75.24861,United States,,SPB,9N2,America/New_York,PHL,US
+PVG,Laogang,31.14134505:121.804636626886,China,,Shanghai Pudong International Airport,ZSPD,Asia/Shanghai,SHA,CN
+PVL,Coal Run Village,37.5605076:-82.5663934,United States,,Pike County Airport,KPBX,America/New_York,PVL,US
+PWA,Oklahoma City,35.466667:-97.53333,United States,,Wiley Post,KPWA,America/Chicago,OKC,US
+PWK,Wheeling,42.1175026:-87.9013847014316,United States,,Chicago Executive Airport,KPWK,America/Chicago,CHI,US
+PWY,Pinedale,42.795556:-109.807222,United States,,Ralph Wenz Field,KPNA,America/Denver,PWY,US
+PXA,Kotaagung,-4.0225:103.379167,Indonesia,,Atung Bungsu Airport,WIPY,Asia/Jakarta,PXA,ID
+PXH,,-29.7101355:135.527729419537,Australia,,Prominent Hill,YPMH,Australia/Adelaide,PXH,AU
+PYG,Rangpo,27.2325:88.588333,India,,Gangtok-Pakyong Airport,VEPY,Asia/Kolkata,PYG,IN
+PYK,Karaj,35.77795595:50.8271522209995,Iran,,Payam,OIIP,Asia/Tehran,PYK,IR
+PYS,Paradise,39.710556:-121.616389,United States,,Skypark,,America/Los_Angeles,PYS,US
+PYT,Paracatu,-17.242778:-46.883056,Brazil,,Pedro Rabelo de Souza Airport,SNZR,America/Sao_Paulo,PYT,BR
+PYY,Pai,19.37214705:98.4358961844933,Thailand,,Pai Airport,VTCI,Asia/Bangkok,PYY,TH
+PYZ,,-7.920833:-77.525,Peru,,Pias Airport,SPIS,America/Lima,PYZ,PE
+PZR,,4.960778:-77.36325,Colombia,,Aeropuerto de Pizarro,,America/Bogota,PZR,CO
+PZS,,-38.7670058:-72.6284124301851,Chile,,Temuco Maquehue Airport,SCTC,America/Santiago,PZS,CL
+QAQ,Preturo,42.379722:13.309167,Italy,,L'Aquila–Preturo Airport,LIAP,Europe/Rome,QAQ,IT
+QCY,Coningsby,53.0929985046:-0.166014000773,United Kingdom,,Coningsby RAF Station,EGXC,Europe/London,QCY,GB
+QDV,Jundiaí,-23.181667:-46.943611,Brazil,,Comte. Rolim Adolfo Amaro State Airport,SBJD,America/Sao_Paulo,JDE,BR
+QGP,Garanhuns,-8.834444:-36.471389,Brazil,,Garanhuns Airport,SNGN,America/Recife,QGP,BR
+QGV,Neu Isenburg,50.0501384:8.6491225,Germany,,Neu Isenburg,,Europe/Berlin,FRA,DE
+QKU,Altstadt Nord,50.9406645:6.9599115,Germany,,Messe/Deutz Rail Station,,Europe/Berlin,CGN,DE
+QLR,Leiria,39.778599:-8.81972,Portugal,,Leiria Gandara Airport,LPMR,Europe/Lisbon,QLR,PT
+QLU,Swidnik,51.240278:22.713611,Poland,,Lublin Radawiec Airport,,Europe/Warsaw,QLU,PL
+QLV,Leverkusen,51.0133959:7.00798689246378,Germany,,Leverkusen Mitte,,Europe/Berlin,QLV,DE
+QNS,,-29.945556:-51.143611,Brazil,,Aeroporto Campo Nossa Senhora de Fátima,SBCO,America/Sao_Paulo,QNS,BR
+QNY,,40.75:-74.0,United States,,Marine Air Terminal,,America/New_York,NYC,US
+QOR,Silvan,38.0687895:40.9671805,Turkey,,Ordu,,Asia/Istanbul,QOR,TR
+QOW,Ihuo,5.42797015:7.20452085324867,Nigeria,,Sam Mbakwe International Airport,DNIM,Africa/Lagos,QOW,NG
+QPG,,1.35248525:103.899890765297,Singapore,,Paya Lebar,WSAP,Asia/Singapore,SIN,SG
+QRA,Boksburg,-26.140278:28.242779,South Africa,,Rand/Germiston,FAGM,Africa/Johannesburg,JNB,ZA
+QSC,Ibate,-21.8730674:-47.902758209316,Brazil,,Sao Carlos,SDSC,America/Sao_Paulo,QSC,BR
+QSG,,54.913811:9.792178,Denmark,,Sonderborg,,Europe/Copenhagen,SGD,DK
+QSR,Pratole,40.61887125:14.9111031454236,Italy,,Pontecagnano,LIRI,Europe/Rome,QSR,IT
+QUG,Milland,50.941666:-0.842248,United Kingdom,,Goodwood,EGHR,Europe/London,QUG,GB
+QUO,Esuk Oron,4.8756716:8.09753091337307,Nigeria,,Akwa Ibom Airport,DNAI,Africa/Lagos,QUO,NG
+QUY,Hemingford Grey,52.3572006226:-0.107832998037,United Kingdom,,Wyton RAF Station,EGUY,Europe/London,QUY,GB
+QWG,Charlotte,35.216667:-80.85,United States,,Wilgrove Air Park,,America/New_York,CLT,US
+QXD,Quixadá,-4.978889:-38.987778,Brazil,,Quixadá Regional Airport,SNQX,America/Fortaleza,QXD,BR
+RAD,Road Town,18.427778:-64.620834,Virgin Islands (British),,Road Town,,America/Tortola,TOV,VG
+RAF,,29.6:34.85,Argentina,,Rafaela,SAFR,America/Argentina/Cordoba,RAF,AR
+RBD,Duncanville,32.679661:-96.8688770268125,United States,,Redbird,KRBD,America/Chicago,DFW,US
+RBX,Rumbek,6.83140635:29.6702568628204,South Sudan,,Rumbek,HSMK,Africa/Juba,RBX,SS
+RBZ,,39.068003:66.758388,Uzbekistan,,Shakhrisabz Airport,UTSH,Asia/Samarkand,RBZ,UZ
+RCA,Rapid City,44.083332:-103.23333,United States,,Ellsworth AFB,KRCA,America/Denver,RAP,US
+RDL,El Hassana,30.4095794591708:33.1515706592,Egypt,,Al Bardawil International Airport,,Africa/Cairo,RDL,EG
+RDO,Radom,51.389167:21.213611,Poland,,Radom Airport,EPRA,Europe/Warsaw,RDO,PL
+RDP,Bahula,23.6247865:87.2411692735675,India,,Kazi Nazrul Islam Airport,VEDG,Asia/Kolkata,RDP,IN
+REE,Lubbock,33.583332:-101.85,United States,,Reese AFB,8XS8,America/Chicago,LBB,US
+REQ,Requena,-5.064947:-73.86667,Pakistan,,Reko Diq,,Asia/Karachi,REQ,PK
+RGO,Hoemul-li,41.42923175:129.645622242053,North Korea,,Orang,ZKHM,Asia/Pyongyang,RGO,KP
+RGS,Cardenajimeno,42.3576395:-3.62158521408842,Spain,,Burgos,LEBG,Europe/Madrid,RGS,ES
+RHR,,25.691:55.778,United Arab Emirates,,Al Hamra SPB,,Asia/Dubai,RHR,AE
+RHT,Ehen Hudag,39.2133:101.6442,China,,Alxa Right Banner,ZBAR,Asia/Chongqing,RHT,CN
+RHV,,37.333332:-121.88333,United States,,Reid-Hillview,KRHV,America/Los_Angeles,SJC,US
+RIH,Rio Hato,8.375833:-80.127778,Panama,,Scarlett Martínez International Airport,MPSM,America/Panama,RIH,PA
+RIR,Jurupa Valley,33.9887875:-117.4099097,United States,,Riverside Fla-Bob,KRIR,America/Los_Angeles,RIR,US
+RIV,Rubidoux,33.8819433:-117.2590169,United States,,March ARB,KRIV,America/Los_Angeles,RIV,US
+RJM,Saonek,-0.42865185:130.773097135306,Indonesia,,Marinda Airport,WASN,Asia/Jayapura,RJM,ID
+RKA,,-15.4861066:-145.4698939,,,Aratika-Nord,NTKK,Pacific/Tahiti,RKA,PF
+RKE,Havdrup,55.5858236:12.1326855396838,Denmark,,Roskilde Airport,EKRK,Europe/Copenhagen,CPH,DK
+RKV,Kopavogur,64.13106:-21.932476,Iceland,,Reykjavik International Airport,BIRK,Atlantic/Reykjavik,REK,IS
+RKZ,Car,29.351944:89.31,China,,Peace,ZURK,Asia/Shanghai,RKZ,CN
+RLI,Anniston,33.666668:-85.85,United States,,Reilly AHP,,America/Chicago,ANB,US
+RLK,Xamba,40.9283117:107.734473359461,China,,Bayannur Tianjitai Airport,ZBYZ,Asia/Shanghai,RLK,CN
+RLR,Ranohira,-22.6415869:45.3258098,Madagascar,,Relais de la Reine,,Indian/Antananarivo,RLR,MG
+RME,Rome,43.216667:-75.45,United States,,Griffiss AFB,KRME,America/New_York,RME,US
+RML,Galkissa,6.82183215:79.8871535365376,Sri Lanka,,Ratmalana,VCCC,Asia/Colombo,CMB,LK
+RMO,Chișinău,46.927778:28.930833,Moldova,,Chișinău International Airport,LUKK,Europe/Chisinau,RMO,MD
+RMQ,Fengyuan,24.2540877:120.599620830325,Taiwan,,Taichung International Airport,RCMQ,Asia/Taipei,RMQ,TW
+RMT,,-22.6382712:-152.8053277,,,Rimatara,NTAM,Pacific/Tahiti,RMT,PF
+RMU,Fuente-Alamo de Murcia,37.803:-1.125,Spain,,Corvera International,LEMI,Europe/Madrid,RMU,ES
+RMY,Marshall,42.261806:-85.004524,United States,,Mariposa-Yosemite,KMPI,America/Los_Angeles,RMY,US
+RMZ,Tobolsk,58.058333:68.348611,Russia,,Tobolsk Remezov Airport,USTJ,Asia/Yekaterinburg,RMZ,RU
+RND,,29.5288889:-98.2780556,United States,,Randolph Air Force Base,KRND,America/Chicago,SAT,US
+RNM,Escondido,33.089054:-117.03639,Oman,,Qarn Alam,OOGB,Asia/Muscat,RNM,OM
+ROF,,41.7315629:-122.5442634,United States,,Yreka Rohrer Field,K1O5,America/Los_Angeles,SIY,US
+ROZ,Mos,43.119446:-7.502778,Spain,,US Naval Station,LERT,Europe/Madrid,ROZ,ES
+RPU,,16.5907558:120.302753276339,Philippines,,San Fernando Airport,,Asia/Manila,RPU,PH
+RQA,Ruoqiang,38.97304815:88.0091591493074,China,,Ruoqiang Loulan Airport,ZWRQ,Asia/Shanghai,RQA,CN
+RQW,Ash Sharqat,35.76720047:43.1250991821,Iraq,,West,ORQW,Asia/Baghdad,RQW,IQ
+RQY,Sogane,13.854722:75.610556,India,,Shivamogga Airport,VOSH,Asia/Kolkata,RQY,IN
+RRJ,Rio de Janeiro,-22.98641695:-43.3714494643982,Brazil,,Jacarepaguá Airport,SBJR,America/Sao_Paulo,RRJ,BR
+RRR,,-16.044859:-142.47556,,,Raroia,NTKO,Pacific/Tahiti,RRR,PF
+RSE,Castlecrag,-33.8:151.21666,Australia,,Rose Bay,,Australia/Sydney,SYD,AU
+RSW,Gateway,26.53294975:-81.7588056261221,United States,,Southwest Florida International Airport,KRSW,America/New_York,FMY,US
+RTO,,-6.293171:106.57,Indonesia,,Budiarto Airport,WIRR,Asia/Jakarta,RTO,ID
+RTU,,2.1975:118.599167,Indonesia,,Maratua Airport,WAQC,Asia/Makassar,RTU,ID
+RUD,Shahrud,36.4248886:55.1020122624194,Iran,,Shahrud,OIMJ,Asia/Tehran,RUD,IR
+RUE,Russellville,35.260094:-93.0973,Democratic Republic of the Congo,,Butembo,FZMB,Africa/Lubumbashi,RUE,CD
+RUL,Viligili,0.3380463:73.511143,Maldives,,Maavaarulaa Airport,VRQM,Indian/Maldives,RUL,MV
+RVH,Yanino Vtoroye,59.9792581:30.5784402856818,Russia,,Rzhevka,ULSS,Europe/Moscow,LED,RU
+RVI,Imeni Chkalova,47.25:39.75,Russia,,Rostov Airport,,Europe/Moscow,ROV,RU
+RVS,Tulsa,36.15:-95.96667,United States,,R.Lloyd Jones,KRVS,America/Chicago,TUL,US
+RXE,Rexburg,43.83911:-111.85106,United States,,Madison County,KRXE,America/Boise,RXE,US
+RYL,Chirundu,-15.726728:29.296678,,,Royal Airport,FLRZ,Africa/Lusaka,RYL,ZM
+RZH,Preobrazheniye,42.9186893:133.9031482,Russia,,Preobrazheniye,UIKP,Asia/Vladivostok,RZH,RU
+RZV,,41.169167:40.828889,Turkey,,Rize–Artvin Airport,LTFO,Europe/Istanbul,RZV,TR
+SAC,,38.51286:-121.4933,United States,,Sacramento Executive Airport,KSAC,America/Los_Angeles,SAC,US
+SAI,Sotr Nikum,13.375278:104.220833,Cambodia,,Siem Reap–Angkor International Airport,VDSA,Asia/Phnom_Penh,SAI,KH
+SAW,Pendik,40.89929455:29.3075523295921,Turkey,,Sabiha Gokcen International Airport,LTFJ,Europe/Istanbul,IST,TR
+SBD,Highland,34.09599685:-117.234569101414,United States,,Norton AFB,KSBD,America/Whitehorse,SBD,US
+SBO,Salina,39.029167:-111.8375,United States,,Salina,44U,America/Denver,SBO,US
+SCC,,70.2007293:-148.458662901441,United States,,Prudhoe Bay/Deadhorse Airport,PASC,America/Anchorage,SCC,US
+SCF,Paradise Valley,33.62212245:-111.912577410101,United States,,Scottsdale Airport,KSDL,America/Phoenix,PHX,US
+SCS,Lerwick,60.43348835:-1.29674919044049,United Kingdom,,Scatsta,EGPM,Europe/London,SDZ,GB
+SDM,,32.572224:-116.98,United States,,Brown Field Municipalcipal,KSDM,America/Los_Angeles,SAN,US
+SDU,Rio de Janeiro,-22.91044395:-43.1641861378117,Brazil,,Santos Dumont Airport,SBRJ,America/Sao_Paulo,RIO,BR
+SDV,Tel Aviv,32.104885:34.787857,Israel,,Dov Hoz Airport,LLSD,Asia/Jerusalem,TLV,IL
+SED,`En Boqeq,31.15:35.38333,Israel,,Min'hat Hashnayim,,Asia/Jerusalem,SED,IL
+SEE,Santee,32.82611:-116.97222,United States,,Gillespie Field,KSEE,America/Los_Angeles,SAN,US
+SEM,Selmont-West Selmont,32.226112:-87.08722,United States,,Craig AFB,KSEM,America/Chicago,SES,US
+SEN,Rochford,51.5702276:0.696613297049092,United Kingdom,,London Southend Airport,EGMC,Europe/London,LON,GB
+SFF,,47.666668:-117.4,United States,,Felts Field,KSFF,America/Los_Angeles,GEG,US
+SFS,Subic Bay Freeport Zone,14.7937674:120.268701921328,Philippines,,Subic Bay International,RPLB,Asia/Manila,SFS,PH
+SFY,Savanna,42.04550795:-90.1095889099105,United States,,Tri-Township Airport,,America/Chicago,SFY,US
+SGR,Southside Place,29.698889:-95.407776,United States,,Sugar Land Regional,KSGR,America/Chicago,SGR,US
+SIA,,34.44104:108.75874,China,,Xi'an Xiguan Airport,ZLSN,Asia/Shanghai,SIA,CN
+SIG,San Juan,18.458889:-66.102776,Puerto Rico,,Isla Grande,TJIG,America/Puerto_Rico,SJU,PR
+SJD,Las Veredas,23.1451694:-109.718012879223,Mexico,,Los Cabos International Airport,MMSD,America/Mazatlan,SJD,MX
+SJE,San Jose del Guaviare,2.583333:-72.666664,Colombia,,San Jose Del Gua,SKSJ,America/Bogota,SJE,CO
+SJI,Babug,12.36166935:121.044582547094,Philippines,,San Jose,RPUH,Asia/Manila,SJI,PH
+SKA,Spokane,47.61506:-117.65581,United States,,About Fairchild Air Force Base,KSKA,America/Los_Angeles,GEG,US
+SKF,,29.3841667:-98.5811111,United States,,Kelly AFB,KSKF,America/Chicago,SAT,US
+SMD,Fort Wayne,41.066666:-85.15,United States,,Smith Field,KSMD,America/Indiana/Indianapolis,FWA,US
+SPJ,Krokeai,36.983334:22.533333,Greece,,Eleftherios Venizelos,LGSP,Europe/Athens,SPJ,GR
+SPO,Mairena del Alcor,37.38333:-5.75,Spain,,San Pablo,,Europe/Madrid,SPO,ES
+SPS,Wichita Falls,33.98750455:-98.5012725881934,United States,,Sheppard AFB,KSPS,America/Chicago,SPS,US
+SPX,West University Place,29.766666:-95.433334,United States,,Houston Gulf Airport,HESX,America/Chicago,HOU,US
+SQD,Xuri,28.37956695:117.96398931726,China,,Shangrao Sanqingshan Airport,ZSSR,Asia/Shanghai,SQD,CN
+SSC,,33.972724:-80.4705644,United States,,Shaw AFB,KSSC,America/New_York,SSC,US
+SSF,San Antonio,29.33698:-98.47104,United States,,Stinson Municipal Airport,KSSF,America/Chicago,SAT,US
+SSI,Brunswick,31.165916:-81.46347,United States,,Malcolm Mckinnon,KSSI,America/New_York,SSI,US
+SSN,Seongnam-si,37.45:127.11667,South Korea,,Seoul AB,RKSM,Asia/Seoul,SEL,KR
+SSY,Mbanza Congo,-6.2693545:14.2472351150421,Angola,,M'banza Congo,FNBC,Africa/Luanda,SSY,AO
+STN,Takeley,51.88696515:0.244192901573303,United Kingdom,,Stansted Airport,EGSS,Europe/London,LON,GB
+SUS,Hazelwood,38.75:-90.36667,United States,,Spirit of St. Louis Airport,KSUS,America/Chicago,STL,US
+SUU,Vacaville,38.26321985:-121.945362964615,United States,,Travis AFB,KSUU,America/Los_Angeles,SUU,US
+SVM,,-10.366667:142.11667,Australia,,St Pauls,,Australia/Brisbane,SVM,AU
+SVN,Savannah,32.083332:-81.1,United States,,Hunter AAF,KSVN,America/New_York,SAV,US
+SVO,Khimki,55.97608755:37.4238008194297,Russia,,Sheremetyevo International Airport,UUEE,Europe/Moscow,MOW,RU
+SXC,,33.5:-118.416664,United States,,Avalo Vor/WP,,America/Los_Angeles,AVX,US
+SXF,Schonefeld,52.3663978:13.48956141521,Germany,,Schonefeld Airport,,Europe/Berlin,BER,DE
+SYL,San Miguel,35.75:-120.7,United States,,Roberts AAF,,America/Los_Angeles,SYL,US
+SYQ,San Rafael,9.95749965:-84.1397289141956,Costa Rica,,Tobias Bolaños International,MRPV,America/Costa_Rica,SYQ,CR
+SZB,Kampung Baru Subang,3.13088145:101.550287642748,Malaysia,,Sultan Abdul Aziz Shah Airport,WMSA,Asia/Kuala_Lumpur,KUL,MY
+SZF,Dikbiyik,41.2562275:36.5547365620795,Turkey,,Samsun-Carsamba Airport,LTFH,Europe/Istanbul,SZF,TR
+SZN,Isla Vista,34.0589776:-119.9151998,United States,,Santa Cruz Island,KSZN,America/Los_Angeles,SBA,US
+TAF,Es Senia,35.627777:-0.610556,,,Tafaraoui,DAOL,Africa/Algiers,ORN,DZ
+TAJ,,-3.19791675:142.431041498754,Papua New Guinea,,Tadji,AYTJ,Pacific/Port_Moresby,ATP,PG
+TCM,Steilacoom,47.176666:-122.56461,United States,,McChord AFB,KTCM,America/Los_Angeles,TIW,US
+TCV,,23.397417:-75.497083,The Bahamas,,Torch Cay Airport,MYTC,America/Nassau,TCV,BS
+TCZ,Tengyue,24.93792805:98.4845952981677,China,,Tengchong Tuofeng Airport,ZUTC,Asia/Shanghai,TCZ,CN
+TDP,Marigot,15.543056:-61.309166,Peru,,Trompeteros,SPDR,America/Lima,TDP,PE
+TDT,,-24.533333:31.3,South Africa,,Tanda Tula,FATD,Africa/Johannesburg,TDT,ZA
+TDW,Amarillo,35.216667:-101.833336,United States,,Tradewind,KTDW,America/Chicago,AMA,US
+TDZ,Toledo,41.65:-83.55,United States,,Toledo,KTDZ,America/New_York,TOL,US
+TEV,Cella,40.411944:-1.2175,Spain,,Teruel Airport,LETL,Europe/Madrid,TEV,ES
+TFN,La Laguna,28.48275745:-16.3412247450223,Spain,,Tenerife North Airport,GCXO,Atlantic/Canary,TCI,ES
+TFS,San Isidro,28.04605465:-16.5727152996735,Spain,,Tenerife South Airport,GCTS,Atlantic/Canary,TCI,ES
+TFU,Jiancheng,30.30293955:104.446261407544,China,,Chengdu Tianfu International Airport,ZUTF,Asia/Chongqing,TFU,CN
+TGA,Johor Bahru,1.390031:103.699468,Singapore,,Tengah Air Base,WSAT,Asia/Singapore,TGA,SG
+TGC,Sarikei,2.1800914:111.204724011429,Malaysia,,Tanjung Manis Airport,WBGT,Asia/Kuching,TGC,MY
+TGP,Podkamennaya Tunguska,61.58585095:89.9859731216332,Russia,,Podkamennaya Tunguska Airport,UNIP,Asia/Krasnoyarsk,TGP,RU
+THD,Thi Tran Tho Xuan,19.901667:105.467778,Vietnam,,Bai Thuong Airport,VVTX,Asia/Ho_Chi_Minh,THD,VN
+THQ,Beidao,34.5593442:105.863566485977,China,,Maijishan,ZLTS,Asia/Shanghai,THQ,CN
+THW,,8.569151:81.23291,Sri Lanka,,Harbour SPB,,Asia/Colombo,TRR,LK
+THX,Turukhansk,65.8001207:87.928695279152,Russia,,Turukhansk Airport,UOTT,Asia/Krasnoyarsk,THX,RU
+TIK,Midwest City,35.4117548:-97.3907973906368,United States,,Tinker AFB,KTIK,America/Chicago,OKC,US
+TJL,Tres Lagoas,-20.754444:-51.683889,Brazil,,Três Lagoas Airport,SBTG,America/Campo_Grande,TJL,BR
+TLQ,Laochenglu,43.0283315:89.1006766946583,China,,Turpan Jiaohe Airport,ZWTP,Asia/Shanghai,TLQ,CN
+TLY,Plastun,44.816066:136.288090088592,Russia,,Plastun Airport,UHWP,Asia/Vladivostok,TLY,RU
+TMB,Country Walk,25.6481009:-80.4320203945471,United States,,Tamiami,KTMB,America/New_York,MIA,US
+TMF,Veymandoo,2.208611:73.151111,Maldives,,Thimarafushi Airport,VRNT,Indian/Maldives,TMF,MV
+TNT,Miami,25.783333:-80.183334,United States,,Dade Collier,KTNT,America/New_York,MIA,US
+TNW,,62.666195:-153.7112,Ecuador,,Jumandy,SEJD,America/Guayaquil,TNW,EC
+TOJ,San Fernando de Henares,40.455555:-3.546667,Spain,,Torrejon AFB,LETO,Europe/Madrid,MAD,ES
+TPF,Tampa,27.9153058:-82.4491724163729,United States,,Peter O'Knight,KTPF,America/New_York,TPA,US
+TQD,Al Fallujah,33.33810043335:43.597099304199,Iraq,,Al Taqaddum AB,ORAT,Asia/Baghdad,TQD,IQ
+TQL,Tarko-Sale,64.93010125:77.8102152566643,Russia,,Tarko-Sale,USDS,Asia/Yekaterinburg,TQL,RU
+TQO,Tulum,20.165842:-87.659709,Mexico,,Aeropuerto Internacional de Tulum Felipe Carrillo Puerto,MMTL,America/Cancun,TQO,MX
+TQP,,-21.8402176:140.894352,Australia,,Trepell Airport,YTEE,Australia/Brisbane,TQP,AU
+TQQ,Lasehao,-5.7645702:123.9169998,Indonesia,,Maranggo Airport,WA44,Asia/Makassar,TQQ,ID
+TRF,Sandefjord,59.178085:10.251807,Norway,,Torp Sandefjord Airport,ENTO,Europe/Oslo,OSL,NO
+TSA,Taipei,25.06647695:121.554887744347,Taiwan,,Taipei Songshan Airport,RCSS,Asia/Taipei,TPE,TW
+TSS,East Newark,40.766666:-74.166664,United States,,East 34th St Heliport,,America/New_York,NYC,US
+TTW,Wattegama,6.2876:81.2906,Sri Lanka,,Tissa Tank,,Asia/Colombo,TTW,LK
+TTX,,-14.0890665:126.382045703269,Australia,,Mungalalu Truscott Airbase,YTST,Australia/Perth,TTX,AU
+TUH,Tullahoma,35.36667:-86.21667,United States,,Arnold AFS,,America/Chicago,THA,US
+TVS,Fengrun,39.7198374:118.001761918509,China,,Tangshan Sannuhe Airport,ZBTS,Asia/Shanghai,TVS,CN
+TWC,Aqal,39.88572145:79.2315384402888,China,,Tumxuk Tangwangcheng Airport,,Asia/Shanghai,TWC,CN
+TWZ,Pleasant Point,-44.234165:170.11722,New Zealand,,Pukaki/Twizel,NZUK,Pacific/Auckland,MON,NZ
+TXC,Orsha,54.44:30.296667,Belarus,,Balbasovo Air Base,UMIO,Europe/Minsk,TXC,BY
+TXE,Simpang Teritit,4.7229057:96.8491092260279,Indonesia,,Rembele Airport,WITK,Asia/Jakarta,TXE,ID
+TXL,Tegel,52.5568088:13.3037555217491,Germany,,Tegel Airport,EDDT,Europe/Berlin,BER,DE
+TYC,Mengfeng,37.5027:112.4229,China,,Taiyuan Yaocheng Airport,ZBXX,Asia/Shanghai,TYC,CN
+TZA,Belize City,17.51639:-88.191666,Belize,,Municipal,MZBE,America/Belize,BZE,BZ
+TZC,Caro,43.4586785:-83.4451618,United States,,Tuscola Area,KCFS,America/Detroit,TZC,US
+TZO,,-18.345064:45.015643,Madagascar,,Tsimiroro,,Indian/Antananarivo,TZO,MG
+UAB,Yuregir,37.00028:35.41833,Turkey,,Adana-Incirlik Airbase,LTAG,Europe/Istanbul,ADA,TR
+UAR,,51.15371:51.538563,Morocco,,Bouarfa,GMFB,Africa/Casablanca,UAR,MA
+UBN,Zuunmod,47.65:106.818889,Mongolia,,New Ulaanbaatar International Airport,ZMCK,Asia/Ulaanbaatar,UBN,MN
+UBS,Columbus,33.466667:-88.38333,United States,,Lowndes County,KUBS,America/Chicago,UBS,US
+UCB,Jining,41.1219377:113.1319445,Mongolia,,Ulanqab Jining Airport,ZBUC,Asia/Shanghai,UCB,MN
+UDD,Bermuda Dunes,33.7479089:-116.273821478546,United States,,Bermuda Dunes,KUDD,America/Los_Angeles,PSP,US
+UEN,Urengoy,65.9605734:78.4367450306026,Russia,,Urengoy,USDU,Asia/Yekaterinburg,UEN,RU
+UGB,,57.552223:-157.55112,United States,,Ugashik Bay,UGB,America/Anchorage,PIP,US
+UGL,,-79.777778:-83.320833,,,Union Glacier Blue-Ice Runway,SCGC,Antarctica/South_Pole,UGL,AQ
+UHS,Aleksandrovsk-Sakhalinskiy,50.878037:142.174682,Russia,,Aleksandrovsk-Sakhalinskiy Airport,,Asia/Sakhalin,UHS,RU
+UHT,,25.54149:36.75199,Saudi Arabia,,Ummahat Water Aerodrome,,Asia/Riyadh,UHT,SA
+UIZ,Utica,42.61667:-83.05,United States,,Berz-Macomb,,America/Detroit,UIZ,US
+UJN,Cheongsong gun,36.7775619:129.463125952272,South Korea,,Uljin,RKTL,Asia/Seoul,UJN,KR
+UJU,Uiju,40.1505605:124.498786873675,North Korea,,Uiju Airfield,,Asia/Pyongyang,UJU,KP
+UKE,Utkela,20.097778:83.183333,India,,Utkela Airport,VEUK,Asia/Kolkata,UKE,IN
+UKG,Ust-Kuyga,70.00139:135.54972,Russia,,Ust-Kuiga,UEBT,Asia/Yakutsk,UKG,RU
+UKH,Hayma',19.3823858:56.4054250629308,Oman,,Mukhaizna,,Asia/Muscat,UKH,OM
+UKY,Kyoto,35.0082126:135.7726723,Japan,,Kyoto,,Asia/Tokyo,UKY,JP
+ULC,Lo Prado,-33.489723:-70.694725,Chile,,Los Cerrillos,,America/Santiago,SCL,CL
+ULH,Al 'Ula,26.616667:37.866665,Saudi Arabia,,Prince Abdul Majeed bin Abdulaziz Airport,OEAO,Asia/Riyadh,ULH,SA
+ULK,Lensk,60.72074375:114.816949153358,Russia,,Lensk Airport,UERL,Asia/Yakutsk,ULK,RU
+UMB,,53.376667:-167.8875,United States,,North Shore,,America/Anchorage,UMB,US
+UMS,Ust-Maya,60.356989:134.436397188812,Russia,,Ust-Maya,UEMU,Asia/Yakutsk,UMS,RU
+UMZ,Mena,34.5443206:-94.2078223,United States,,Mena Intermountain Municipal Airport,,America/Chicago,UMZ,US
+UOA,,-21.809443:-138.813055,,,Mururoa Airstrip,NTTX,Pacific/Tahiti,UOA,PF
+UPB,Bauta,23.0285411:-82.5792121582453,Cuba,,Playa Baracoa,MUPB,America/Havana,UPB,CU
+USA,Harrisburg,35.38989575:-80.7102222165777,United States,,Concord-Padgett Regional Airport,KJQF,America/New_York,USA,US
+USC,Union,34.686944:-81.641111,United States,,Union County Airport,,America/New_York,USC,US
+USJ,Sarkand,46.1899941:80.813005,Kazakhstan,,Usharal,UAAL,Asia/Almaty,USJ,KZ
+USR,Ust-Nera,64.5499628:143.113857890528,Russia,,Ust-Nera Airport,UEMT,Asia/Ust-Nera,USR,RU
+UTS,Ust-Tsilma,65.43961495:52.1996755317969,Russia,,Ust-Tsilma,UUYX,Europe/Moscow,UTS,RU
+UVI,Porto Uniao,-26.231667:-51.068889,Brazil,,União da Vitória Airport,,America/Sao_Paulo,UVI,BR
+UYU,Uyuni,-20.44139465:-66.8532780687425,Bolivia,,Uyuni,SLUY,America/La_Paz,UYU,BO
+UZM,,68.15850165:-106.61625764888,Canada,,Hope Bay,,America/Cambridge_Bay,UZM,CA
+UZR,Urzhar,47.0891041:81.6558493669576,Kazakhstan,,Urzhar Airport,UASU,Asia/Almaty,UZR,KZ
+VAD,,30.833332:-83.28333,United States,,Moody AFB,KVAD,America/New_York,VLD,US
+VAM,Mahibadhoo,3.4717292:72.835128098291,Maldives,,Villa International Airport Maamigili,VRMV,Indian/Maldives,VAM,MV
+VAQ,Vanavara,60.355:102.31,Russia,,Vanavara Airport,UNIW,Asia/Krasnoyarsk,VAW,RU
+VAV,Neiafu,-18.58558155:-173.963704731563,Tonga,,Lupepau'u Airport,NFTV,Pacific/Tongatapu,VAV,TO
+VBA,Minbu,19.7704774:94.0263592134066,Myanmar,,Ann,VYAN,Asia/Rangoon,VBA,MM
+VBC,Mandalay,21.9368685:96.0889295734096,Myanmar,,Mandalay Chanmyathazi Airport,,Asia/Yangon,VBC,MM
+VBG,Lompoc,34.63333:-120.46667,United States,,Vandenberg AFB,KVBG,America/Los_Angeles,LPC,US
+VBM,,57.8575:-157.08667,United States,,Blue Mountain,,America/Anchorage,VBM,US
+VBP,Tha Sae,11.14878895:98.7363448190028,Myanmar,,Bokpyin Airport,VYBP,Asia/Rangoon,VBP,MM
+VCL,Nui Thanh,15.4075042:108.712553476667,Vietnam,,Chu Lai International Airport,VVCA,Asia/Ho_Chi_Minh,VCL,VN
+VDA,Eilat,29.952015:34.9339,Israel,,Ovda Airport,LLOV,Asia/Jerusalem,ETH,IL
+VDO,Cam Pha Mines,21.1177533:107.416806802371,Vietnam,,Van Don,VVVD,Asia/Ho_Chi_Minh,VDO,VN
+VDU,Refugio,28.3:-97.28333,United States,,Tom O'Connor Oilfield,,America/Chicago,RFG,US
+VDY,Sandur,15.1743056:76.6334746,India,,Jindal,VOJV,Asia/Kolkata,VDY,IN
+VEO,,60.373333:93.011667,Russia,,Severo-Yeniseyskiy Airport,UNIS,Asia/Krasnoyarsk,VEO,RU
+VGT,Paradise,36.09667:-115.16889,United States,,North Air Terminal,KVGT,America/Los_Angeles,LAS,US
+VHV,Verkhnevilyuysk,63.45667:120.26444,Russia,,Verhnevilyuisk,UENI,Asia/Yakutsk,VHV,RU
+VIP,Payerne,46.843333:6.915,Switzerland,,PAYERNE Airport,LSMP,Europe/Zurich,VIP,CH
+VIR,Durban,-29.7707202:31.0579479781493,South Africa,,Virginia,FAVG,Africa/Johannesburg,DUR,ZA
+VIY,Velizy-Villacoublay,48.774166:2.191667,France,,Villa Coublay,LFPV,Europe/Paris,PAR,FR
+VKO,Vnukovo,55.5995278:37.2735751671246,Russia,,Vnukovo Airport,UUWW,Europe/Moscow,MOW,RU
+VKV,Arkhangelsk,64.441667:40.421667,Russia,,Vaskovo Airport,ULAH,Europe/Moscow,VKV,RU
+VLY,Valley,53.248175:-4.53668052080299,United Kingdom,,Anglesey Airport,EGOV,Europe/London,VLY,GB
+VNT,,57.357778:21.544167,Latvia,,Ventspils International Airport,EVVA,Europe/Riga,VNT,LV
+VNY,Northridge,34.20713175:-118.490148373697,United States,,Van Nuys Airport,KVNY,America/Los_Angeles,LAX,US
+VOD,,50.0878114:14.4204598,Czech Republic,,Vodochody,LKVO,Europe/Prague,PRG,CZ
+VPG,Takaungu,-3.8153992:39.7967284,Kenya,,Vipingo,,Africa/Nairobi,VPG,KE
+VPS,Eglin Village,30.4954202:-86.549503,United States,,Destin Fort Walton Beach Airport,KVPS,America/Chicago,VPS,US
+VQQ,Jacksonville,30.21878:-81.87717,United States,,Cecil Field,KVQQ,America/New_York,JAX,US
+VRI,Parma,68.8489378:58.2025419175187,Russia,,Varandey,ULDW,Europe/Moscow,VRI,RU
+VRZ,Lavras,-21.2406:-44.9639,Brazil,,Lavras Airport,SSOL,America/Sao_Paulo,VRZ,BR
+VSK,Kennewick,46.21861:-119.212546,United States,,Vista Field,,America/Los_Angeles,VSK,US
+VST,Vasteras,59.58917:16.630556,Sweden,,Vasteras/Hasslo Airport,ESOW,Europe/Stockholm,STO,SE
+VSV,Shravasti,27.503056:82.026944,India,,Shravasti Airport,VISV,Asia/Kolkata,VSV,IN
+VTM,Dimona,31.2082996368:35.012298584,Israel,,Nevatim AFB,LLNV,Asia/Jerusalem,VTM,IL
+VVI,La Belgica,-17.6594809:-63.1384662446078,Bolivia,,Viru Viru International Airport,SLVR,America/La_Paz,SRZ,BO
+VVN,Pangoa,-11.854861:-72.939332,Peru,,Malvinas,SPWT,America/Lima,VVN,PE
+VYI,Vilyuysk,63.75598155:121.696158713268,Russia,,Vilyuisk,UENW,Asia/Yakutsk,VYI,RU
+WBI,,40.016666:-105.28333,United States,,Broker Inn,,America/Denver,WBU,US
+WBK,West Branch,44.244801:-84.179802,United States,,Community,,America/Detroit,WBK,US
+WBW,Wilkes-Barre,41.233334:-75.88333,United States,,Wilkes-Barre/Wyoming Valley,KWBW,America/New_York,AVP,US
+WCD,Stoneville,-30.1737:122.3221,Australia,,Carosue Dam Airport,YSCD,Australia/Perth,WCD,AU
+WDS,Luancheng,37.913056:114.591667,China,,Shiyan Wudangshan Airport,ZHSY,Asia/Shanghai,WDS,CN
+WDY,Kodiak,57.783333:-152.4,United States,,Kodiak Fss,,America/Anchorage,ADQ,US
+WFB,,55.358055:-131.66833,United States,,Waterfront SPB,,America/Sitka,KTN,US
+WHA,Xinfeng,31.10427305:118.664720966512,China,,Wuhu Xuanzhou Airport,,Asia/Shanghai,WHA,CN
+WHB,Eliwana,-22.4306826:116.8863515,Australia,,Eliwana Airport,,Australia/Perth,WHB,AU
+WHH,,40.030556:-105.23472,United States,,Hiltons Har H,,America/Denver,WBU,US
+WHN,Wuhan,30.251781:114.055361,China,,Wuhan Hannan General Airport,,Asia/Shanghai,WHN,CN
+WHP,Los Angeles,34.05:-118.25,United States,,Whiteman,KWHP,America/Los_Angeles,LAX,US
+WIB,Pekanbaru,0.464563:101.446884,United States,,Wilbarger County,F05,America/Chicago,WIB,US
+WIL,Nairobi,-1.318018:36.813248,Kenya,,Wilson Airport,HKNW,Africa/Nairobi,NBO,KE
+WIT,,-22.266666:118.333336,Australia,,Wittenoom,YWIT,Australia/Perth,WIT,AU
+WKR,High Rock,27.259706:-78.4014295,The Bahamas,,Walker's Cay,MYAW,America/Nassau,WKR,BS
+WLE,Westcourt,-26.809167:150.165,Australia,,Miles Airport,YMLS,Australia/Brisbane,WLE,AU
+WLP,Tom Price,-23.1356:118.7072,Australia,,West Angelas Airport,YANG,Australia/Perth,WLP,AU
+WMI,Zakroczym,52.45088565:20.6489881176213,Poland,,Warsaw-Modlin Airport,EPMO,Europe/Warsaw,WAW,PL
+WMT,Daba,27.95638265:106.435931567966,China,,Zunyi Maotai Airport,ZUMT,Asia/Shanghai,WMT,CN
+WNH,Wenshan City,23.374907:104.24256,China,,Wenshan Puzhehei Airport,ZPWS,Asia/Shanghai,WNH,CN
+WNI,Katabu,-5.2908854:123.6367654771,Indonesia,,Matahora Airport,WAWD,Asia/Makassar,WNI,ID
+WOS,,50.216667:-126.61667,North Korea,,Wonsan,ZKWS,Asia/Pyongyang,WOS,KP
+WRB,Centerville,32.695557:-83.64778,United States,,Robins AFB,KWRB,America/New_York,MCN,US
+WRN,Merredin,-30.0316511:119.383681319191,Australia,,Windarling Airport,YWDG,Australia/Perth,WRN,AU
+WRT,Warton,53.7440449:-2.8863127,United Kingdom,,Warton Aerodrome,EGNO,Europe/London,WRT,GB
+WSK,Quchi,31.07157155:109.713369377768,China,,Chongqing Wushan Airport,ZUWS,Asia/Shanghai,WSK,CN
+WSQ,,38.62056:108.82306,China,,Uxin Banner Galutu Airport,,Asia/Shanghai,WSQ,CN
+WTB,Westbrook,-27.55847015:151.793651498796,Australia,,Toowoomba Wellcamp Airport,YBWW,Australia/Queensland,TWB,AU
+WTC,,40.7:-74.01667,United States,,World Trade Center,,America/New_York,NYC,US
+WTX,Lampung,-4.39411:104.40273,Indonesia,,Way Tuba Gatot Subroto Airport,,Asia/Jakarta,WTX,ID
+WUI,Kalgoorlie,-28.7040187:121.891004069892,Australia,,Murrin Murrin Airport,YMMI,Australia/Perth,WUI,AU
+WUT,Jinchang,38.5990998:112.976228107906,China,,Xinzhou Wutaishan Airport,ZBXZ,Asia/Shanghai,WUT,CN
+WZA,Wa,10.08289355:-2.50783133172096,Ghana,,Wa Airport,,Africa/Accra,WZA,GH
+WZQ,Haliut,41.4596:108.5345,China,,Urad Middle Banner,,Asia/Shanghai,WZQ,CN
+WZY,Nassau,25.0825:-77.327225,The Bahamas,,Paradise Island Seaplane Base,,America/Nassau,NAS,BS
+XAA,Yerevan,40.1762089:44.5011413,,,Yerevan Stadium,,Asia/Yerevan,EVN,AM
+XAI,Minggang,32.5401692:114.075626480325,China,,Xinyang Minggang Airport,ZHXY,Asia/Shanghai,XAI,CN
+XEX,Torcy,48.833332:2.65,France,,Aerogare,,Europe/Paris,PAR,FR
+XFW,Isernhagen Farster Bauerschaft,52.535835:9.836945,Germany,,Hamburg Finkenwerder Airport,EDHI,Europe/Berlin,HAM,DE
+XHN,Liege,50.63333:5.56666,Belgium,,"Guillemins, Raiway Stn",,Europe/Brussels,LGG,BE
+XJH,Wan Chai,22.2478599:114.2033843,Hong Kong S.A.R.,,Hong Kong Harbour,,Asia/Hong_Kong,HKG,HK
+XNA,Cave Springs,36.275257:-94.29711,United States,,Northwest Arkansas Regional,KXNA,America/Chicago,FYV,US
+XNY,Weehawken,40.76:-74.003,United States,,39th Street Ferry,,America/New_York,NYC,US
+XOF,,51.51:0.06,United Kingdom,,Stratford International Rail Station,,Europe/London,LON,GB
+XPZ,Saint-Tropez,43.283333:6.633333,France,,Harbour,,Europe/Paris,LTT,FR
+XRH,Richmond,-33.6:150.76889,Australia,,Richmond AFB,YSRI,Australia/Sydney,XRH,AU
+XRQ,Hulun,48.57615:116.93779,China,,Xinbarag Youqi Baogede Airport,,Asia/Shanghai,XRQ,CN
+XSB,,24.2832317:52.5818066977806,United Arab Emirates,,Sir Bani Yas Island Airport,OMBY,Asia/Dubai,XSB,AE
+XSD,Tonopah,38.033333:-117.23333,United States,,Test Range,KTNX,America/Los_Angeles,TPH,US
+XSP,,1.366667:103.96667,Singapore,,Seletar,WSSL,Asia/Singapore,SIN,SG
+XTT,Paris,48.856614:2.3522219,France,,Etoile,,Europe/Paris,PAR,FR
+XWA,Williston,48.2605484:-103.746770728768,Canada,,Williston Basin International Airport,KXWA,America/Toronto,XWA,CA
+YBW,,48.75:-123.23333,Canada,,Springbank,CAB3,America/Vancouver,YBW,CA
+YCD,,49.05294715:-123.870771707254,Canada,,Nanaimo Airport,CYCD,America/Vancouver,YCD,CA
+YCN,,49.10794825:-81.0162123532419,Canada,,Cochrane,CYCN,America/Toronto,YCN,CA
+YDT,,49.183334:-123.183334,Canada,,Boundary Bay Airport,CZBB,America/Vancouver,YVR,CA
+YEB,Sault Ste. Marie,46.4176393:-84.098471319159,Canada,,Bar River,CPF2,America/Toronto,YEB,CA
+YED,,53.5:-113.5,Canada,,Namao Field,,America/Edmonton,YEA,CA
+YEG,Leduc,53.3072596:-113.5838087,Canada,,Edmonton International Airport,CYEG,America/Edmonton,YEA,CA
+YEI,Hamzabey,40.25584005:29.5620918108211,Turkey,,Yenisehir Airport,LTBR,Europe/Istanbul,YEI,TR
+YFI,,57.26543025:-110.975071780914,Canada,,Firebag,CYFI,America/Edmonton,HZP,CA
+YHH,,49.94639:-125.26556,Canada,,Harbor SPB,CAE3,America/Vancouver,YBL,CA
+YHJ,,28.700972:116.107694,China,,Nanchang Yaohu Airport,ZSYH,Asia/Shanghai,YHJ,CN
+YHU,,45.5:-73.6,Canada,,St. Hubert Airport,CYHU,America/Montreal,YMQ,CA
+YIA,Srandakan,-7.89983735:110.051194395476,Indonesia,,Yogyakarta International Airport,WAHI,Asia/Jakarta,YIA,ID
+YIC,Hutian,27.8022124:114.30823201253,China,,Yichun Mingyueshan Airport,ZSYC,Asia/Shanghai,YIC,CN
+YIE,Wenquan,47.31:119.910835,China,,Arxan Yiershi Airport,ZBES,Asia/Shanghai,YIE,CN
+YIP,Belleville,42.23492795:-83.52605021747,United States,,Willow Run Airport,KYIP,America/Detroit,DTT,US
+YJA,Jasper Park Lodge,52.9972169:-118.0612726,Canada,,Jasper Airport,CYJA,America/Edmonton,YJA,CA
+YJS,Changbai,41.90659475:128.410127556489,North Korea,,Samjiyon,ZKSE,Asia/Pyongyang,YJS,KP
+YKH,Qingshiling,40.54587515:122.361111942338,China,,Yingkou Lanqi Airport,ZYYK,Asia/Shanghai,YKH,CN
+YKO,Yuksekova,37.5518289:44.2331023513964,Turkey,,Hakkari–Yüksekova Airport,LTCW,Europe/Istanbul,YKO,TR
+YKZ,Richmond Hill,43.86667:-79.36667,Canada,,Buttonville Municipalcipal,CYKZ,America/Toronto,YTO,CA
+YLK,Barrie,44.4841513:-79.5460696,Canada,,Lake Simcoe Regional,CYLS,America/Toronto,YLK,CA
+YLV,Yevlakh,40.6264779:47.1460404,Azerbaijan,,Yevlakh Airport,UBEE,Asia/Baku,YLV,AZ
+YMH,,52.3027992:-55.8471985,Canada,,Mary's Harbour,CYMH,America/St_Johns,YMH,CA
+YMK,Mys-Kamennyy,68.46217225:73.5991434484996,Russia,,Mys-Kamenny,USDK,Asia/Yekaterinburg,YMK,RU
+YMU,,50.07145:-124.98369,Canada,,Mansons Landing SPB,CAV7,America/Vancouver,YMU,CA
+YMV,Clyde River,71.3224319:-79.3448993,Canada,,Mary River,,America/Iqaluit,YMV,CA
+YMX,Mirabel,45.6825019:-74.0275252,Canada,,Mirabel International Airport,CYMX,America/Montreal,YMQ,CA
+YND,,45.483334:-75.63333,Canada,,Gatineau Airport,CYND,America/Toronto,YOW,CA
+YNH,Chetwynd,56.0:-121.9,Canada,,Hudson Hope,CYNH,America/Edmonton,YNH,CA
+YNX,,63.5935115:-110.904085498201,Canada,,Snap Lake,CSK 6.00,America/Yellowknife,YNX,CA
+YOI,,52.2211:-76.6071602780502,Canada,,Opinaca,,America/Montreal,YOI,CA
+YON,Trashigang,27.2559902:91.5153078384967,Bhutan,,Yongphulla Airport,VQTY,Asia/Thimphu,YON,BT
+YQJ,,50.19675:-125.26748,Canada,,April Point SPB,,America/Vancouver,YQJ,CA
+YRC,Saguenay,48.526764:-71.05734,Canada,,Refuge Cove SPB,,America/Vancouver,YRC,CA
+YRO,Gatineau,45.45:-75.7,Canada,,Rockcliffe St,CYRO,America/Toronto,YOW,CA
+YTW,,36.80990525:81.7914926933386,China,,Yutian Wanfang Airport,ZWYT,Asia/Urumqi,YTW,CN
+YTY,Dinggou,32.5608476:119.716413451017,China,,Yangzhou Taizhou Airport,ZSYA,Asia/Shanghai,YTY,CN
+YTZ,Toronto,43.632023:-79.39585,Canada,,Toronto City Centre Airport,CYTZ,America/Toronto,YTO,CA
+YUK,Kapan,39.202:46.455,,,Syunik Airport,UDCK,Asia/Yerevan,YUK,AM
+YUL,Dorval,45.46873715:-73.7425716609553,Canada,,Montreal-Pierre Elliott Trudeau International Airport,CYUL,America/Montreal,YMQ,CA
+YUS,,32.8364305:97.0376270480973,China,,Yushu Batang Airport,ZYLS,Asia/Shanghai,YUS,CN
+YVA,Oussivo,-11.531944:43.261112,,,Iconi,FMCN,Indian/Comoro,YVA,KM
+YVN,,66.597376:-61.57952572,Canada,,Cape Dyer,,America/Pangnirtung,YVN,CA
+YWF,Halifax,44.63333:-63.583332,Canada,,Downtown Waterfront Heliport,,America/Halifax,YHZ,CA
+YWH,Victoria,48.4253301:-123.3904221,Canada,,Victoria Inner Harbour Airport,CYWH,America/Vancouver,YYJ,CA
+YWR,,48.583332:-85.333336,Canada,,White River,CNJ8,America/Toronto,YWR,CA
+YXD,Edmonton,53.566666:-113.51667,Canada,,Edmonton City Centre (Blatchford Field) Airport,CYXD,America/Edmonton,YEA,CA
+YYZ,Etobicoke,43.681583:-79.61146,Canada,,Pearson International Airport,CYYZ,America/Toronto,YTO,CA
+YZY,Dongle,38.8038395:100.671444597198,China,,Zhangye Ganzhou Airport,ZLZY,Asia/Shanghai,YZY,CN
+ZDY,,24.51105115:52.3351243627725,United Arab Emirates,,Delma Island Airport,OMDL,Asia/Dubai,ZDY,AE
+ZFZ,,42.8864468:-78.8783689,United States,,Buffalo Depew Rr,,America/New_York,BUF,US
+ZGY,Gurun,5.96667003632:100.550003052,Malaysia,,Kuching Port,,Asia/Kuching,ZGY,MY
+ZHY,,37.5710553:105.152332539381,China,,Zhongwei Airport,ZLZW,Asia/Shanghai,ZHY,CN
+ZIA,Zhukovskiy,55.5527354:38.1486607799044,Russia,,Zhukovsky International Airport,UUBW,Europe/Moscow,MOW,RU
+ZIS,Az Zintan,31.76947005:12.247363631616,Libya,,Alzintan Airport,HLZN,Africa/Tripoli,ZIS,LY
+ZIX,Zhigansk,66.796667:123.361389,Russia,,Zhigansk Airport,UEVV,Asia/Yakutsk,ZIX,RU
+ZIZ,Johi,26.733334:67.666664,Pakistan,,Zamzama,,Asia/Karachi,ZIZ,PK
+ZLX,Zalingei,12.9447732:23.5644544,Sudan,,Zalingei Airport,HSZA,Africa/Khartoum,ZLX,SD
+ZMH,Williams Lake,51.73500725:-121.332444279798,Canada,,South Cariboo Regional Airport,CZML,America/Vancouver,ZMH,CA
+ZNA,Ladysmith,49.05293:-123.87485,Canada,,Nanaimo Harbour,CAC8,America/Vancouver,YCD,CA
+ZQZ,Zhangjiakou,40.73820405:114.938666715105,China,,Zhangjiakou Ningyuan Airport,ZBZJ,Asia/Shanghai,ZQZ,CN
+ZSW,Prince Rupert,54.333332:-130.28334,Canada,,Seal Cove,CZSW,America/Vancouver,YPR,CA
+ZTU,Zaqatala,41.56166:46.664787,Azerbaijan,,Zaqatala,UBBY,Asia/Baku,ZTU,AZ
+ZVG,Halls Creek,-17.866667:127.583336,Australia,,Springvale,,Australia/Perth,ZVG,AU
+ZXT,Zabrat,40.485:49.983612,Azerbaijan,,Heydar Aliyev,UBTT,Asia/Baku,BAK,AZ
+ZYD,Langtou,40.032368:124.28081,Portugal,,Lisbon TP,,Europe/Lisbon,LIS,PT
+ZYF,Faro,37.0153597:-7.935113,Portugal,,Faro TP,,Europe/Lisbon,FAO,PT
+ZZE,Karabakh,39.0951219915818:46.7336184452897,Azerbaijan,,Zangilan International Airport,UBBZ,Asia/Baku,ZZE,AZ
+ZZN,Oslo,59.9138688:10.7522454,Norway,,Nationaltheatret RailS,,Europe/Oslo,OSL,NO
+ZZO,Tymovskoye,50.6606274:142.772300015168,Russia,,Zonalnoye,UHSO,Asia/Sakhalin,ZZO,RU
