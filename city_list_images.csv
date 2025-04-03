@@ -430,7 +430,7 @@ AUO,Auburn,32.6098566:-85.4807825,United States,,Auburn-Opelika,KAUO,America/Chi
 AUP,Agaun,-9.92:149.38,Papua New Guinea,,Agaun,AYAG,Pacific/Port_Moresby,AUP,PG
 AUQ,Atuona,-9.803:-139.0396,French Polynesia,,Hiva Oa Airport,NTMN,Pacific/Marquesas,AUQ,PF
 AUR,Aurillac,44.930953:2.444997,France,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aurillac-Hotel-de-ville-dpt-Cantal-DSC3-233.jpg/781px-Aurillac-Hotel-de-ville-dpt-Cantal-DSC3-233.jpg,Aurillac Airport,LFLW,Europe/Paris,AUR,FR
-AUS,Austin,30.267153:-97.7430608,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Austin_Downtown_2024.jpg/800px-Austin_Downtown_2024.jpg,Austin Bergstrom International Airport,KAUS,America/Chicago,AUS,US
+AUS,Austin,30.267153:-97.7430608,United States,https://content.r9cdn.net/rimg/dimg/15/27/c7e81fad-city-22863-177642838c4.jpg?width=1366&height=768&xhint=3008&yhint=1481&crop=true,Austin Bergstrom International Airport,KAUS,America/Chicago,AUS,US
 AUT,Atauro,-8.2368705:125.5767287,East Timor,,Atauro,WPAT,Asia/Dili,AUT,ID
 AUU,Aurukun Mission,-13.35:141.72,Australia,,Aurukun Mission,YAUR,Australia/Brisbane,AUU,AU
 AUV,Aumo,-5.73:148.5,Papua New Guinea,,Aumo,AYUM,Pacific/Port_Moresby,AUV,PG
@@ -863,7 +863,7 @@ BOO,Bodo,67.2803556:14.404916,Norway,,Bodo Airport,ENBO,Europe/Oslo,BOO,NO
 BOP,Bouar,5.933314:15.59317,Central African Republic,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bouar_%2829191093166%29.jpg/960px-Bouar_%2829191093166%29.jpg,Bouar,FEFO,Africa/Bangui,BOP,CF
 BOQ,Boku,-6.53:155.33,Papua New Guinea,,Boku,,Pacific/Port_Moresby,BOQ,PG
 BOR,Belfort,47.639674:6.863849,France,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Belfort2.jpg/800px-Belfort2.jpg,Bokeo International Airport,VLBK,Asia/Vientiane,BOR,LA
-BOS,Boston,42.3584308:-71.0597732,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/960px-Boston_-_panoramio_%2823%29.jpg,Logan International Airport,KBOS,America/New_York,BOS,US
+BOS,Boston,42.3584308:-71.0597732,United States,https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRNa5m5_BG74IfZVURMdua09iP9znJfCD8DlINemyJBoEweqoWN0oSFGR_Uh6lF6sU5aifmTHcvqafVQkE0DTGDB-eys5aULZbnTfiLqQ,Logan International Airport,KBOS,America/New_York,BOS,US
 BOT,Boset,-7.2408333:141.0923333,Papua New Guinea,,Boset,AYET,Pacific/Port_Moresby,BOT,PG
 BOU,Bourges,47.081012:2.398782,France,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bourges.JPG/800px-Bourges.JPG,Bourges,LFLD,Europe/Paris,BOU,FR
 BOV,Boang,-3.372299:153.332305,Papua New Guinea,,Boang,,Pacific/Port_Moresby,BOV,PG
@@ -980,7 +980,7 @@ BUA,Buka,-5.2384267:154.6451287,Papua New Guinea,https://upload.wikimedia.org/wi
 BUB,Burwell,41.7816732:-99.1331539,United States,,Municipal,KBUB,America/Chicago,BUB,US
 BUC,Burketown,-17.740906:139.5456106,Australia,,Burketown,YBKT,Australia/Brisbane,BUC,AU
 BUD,Budapest,47.4984056:19.0407578,Hungary,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20190503_Hungarian_Parliament_Building_1814_2263_DxO.jpg/960px-20190503_Hungarian_Parliament_Building_1814_2263_DxO.jpg,Budapest Ferenc Liszt International Airport,LHBP,Europe/Budapest,BUD,HU
-BUE,Buenos Aires,-34.6084175:-58.3731613,Argentina,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/800px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg,,,America/Argentina/Buenos_Aires,BUE,AR
+BUE,Buenos Aires,-34.6084175:-58.3731613,Argentina,https://www.fodors.com/wp-content/uploads/2018/08/HERO-BA-Instagrammable-Neighborhood-La-Boca-18.jpg,,,America/Argentina/Buenos_Aires,BUE,AR
 BUF,Buffalo,42.8864468:-78.8783689,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Skyway_Skyline%2C_Buffalo%2C_New_York_-_20210908.jpg/960px-Skyway_Skyline%2C_Buffalo%2C_New_York_-_20210908.jpg,Buffalo Niagara International Airport,KBUF,America/New_York,BUF,US
 BUG,Benguela,-12.57655:13.40555,Angola,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Palacio_das_Bolas_%2819819765355%29.jpg/960px-Palacio_das_Bolas_%2819819765355%29.jpg,Gen V Deslandes,FNBG,Africa/Luanda,BUG,AO
 BUH,Bucharest,44.437711:26.097367,Romania,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/800px-Bucharest_University_Square_%28cropped%29.jpg,,,,,
@@ -1261,12 +1261,12 @@ CGY,Cagayan De Oro,8.4833333:124.65,Philippines,https://upload.wikimedia.org/wik
 CGZ,Casa Grande,32.8795022:-111.7573521,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Casa_Grande-Casa_Grande_Union_High_School-1920-2.jpg/960px-Casa_Grande-Casa_Grande_Union_High_School-1920-2.jpg,Municipal,KCGZ,America/Phoenix,CGZ,US
 CHA,Chattanooga,35.0456297:-85.3096801,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chattanooga%2C_Tennessee_%282023%29.jpg/800px-Chattanooga%2C_Tennessee_%282023%29.jpg,Chattanooga Airport,KCHA,America/New_York,CHA,US
 CHB,Chilas,35.4271456:74.0862796,Pakistan,,Chilas,OPCL,Asia/Karachi,CHB,PK
-CHC,Christchurch,-43.5320544:172.6362254,New Zealand,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Panorama_of_northern_parts_of_Christchurch_Central_City%2C_New_Zealand.jpg/800px-Panorama_of_northern_parts_of_Christchurch_Central_City%2C_New_Zealand.jpg,Christchurch International Airport,NZCH,Pacific/Auckland,CHC,NZ
+CHC,Christchurch,-43.5320544:172.6362254,New Zealand,https://d31atr86jnqrq2.cloudfront.net/images/sister-city-Christchurch-New-Zealand.jpg,Christchurch International Airport,NZCH,Pacific/Auckland,CHC,NZ
 CHE,Caherciveen,51.9477635:-10.224143,Ireland,,,,,,
 CHF,Jinhae,35.1330308:128.7100167,South Korea,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jinhae_City_20090405.JPG/800px-Jinhae_City_20090405.JPG,Jinhae,RKPE,Asia/Seoul,CHF,KR
 CHG,Chaoyang,,China,,Chaoyang Airport,ZYCY,Asia/Shanghai,CHG,CN
 CHH,Chachapoyas,-6.2166667:-77.85,Peru,,Chachapoyas,SPPY,America/Lima,CHH,PE
-ORD,Chicago,41.8781136:-87.6297982,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chicago_Skyline_in_September_2023_%28cropped%29.jpg/960px-Chicago_Skyline_in_September_2023_%28cropped%29.jpg,O'Hare International Airport,KORD,America/Chicago,CHI,US
+ORD,Chicago,41.8781136:-87.6297982,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/2560px-Chicago_River_ferry_b.jpg,O'Hare International Airport,KORD,America/Chicago,CHI,US
 CHJ,Chipinge,-20.21:32.63,Zimbabwe,,Chipinge,FVCH,Africa/Harare,CHJ,ZW
 CHK,Chickasha,35.052565:-97.9364326,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rock_Island_Chickasha.jpg/800px-Rock_Island_Chickasha.jpg,Municipal,KCHK,America/Chicago,CHK,US
 CHL,Challis,44.5046445:-114.2317308,United States,,Challis,KLLJ,America/Boise,CHL,US
@@ -1529,7 +1529,7 @@ CTP,Carutapera,-1.2029404:-46.0166481,Brazil,,Carutapera,,America/Fortaleza,CTP,
 CTQ,Santa Vitoria,-18.8534949:-50.1248336,Brazil,,Do Palmar,SSVP,America/Sao_Paulo,CTQ,BR
 CTR,Cattle Creek,-17.61:131.55,Australia,,Cattle Creek,YCAC,Australia/Darwin,CTR,AU
 CTT,Le Castellet,43.203551:5.776755,France,,Le Castellet,LFMQ,Europe/Paris,CTT,FR
-CTU,Chengdu,30.658601:104.064856,China,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg/960px-%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg,Chengdu Shuangliu International Airport,ZUUU,Asia/Shanghai,CTU,CN
+CTU,Chengdu,30.658601:104.064856,China,https://a.storyblok.com/f/88065/1600x900/d9b494bf92/chengdu.jpg,Chengdu Shuangliu International Airport,ZUUU,Asia/Shanghai,CTU,CN
 CTW,Cottonwood,34.7391876:-112.0098791,United States,,Cottonwood,,America/Phoenix,CTW,US
 CTX,Cortland,42.6011813:-76.1804843,United States,,Cortland,KN03,America/New_York,CTX,US
 CTY,Cross City,29.6343977:-83.1251306,United States,,Cross City,KCTY,America/New_York,CTY,US
@@ -4492,7 +4492,7 @@ MEH,Mehamn,71.03:27.83,Norway,https://upload.wikimedia.org/wikipedia/commons/thu
 MEI,Meridian,32.3643098:-88.703656,United States,,Key Field,KMEI,America/Chicago,MEI,US
 MEJ,Meadville,41.63:-80.21,United States,,Meadville,KGKJ,America/New_York,MEJ,US
 MEK,Meknes,33.90387:-5.55745,Morocco,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Place_el-Hedim_%28cropped_for_panorama%29_DSCF5775.jpg/800px-Place_el-Hedim_%28cropped_for_panorama%29_DSCF5775.jpg,Meknes,GMFM,Africa/Casablanca,MEK,MA
-MEL,Melbourne,-37.8131869:144.9629796,Australia,https://upload.wikimedia.org/wikipedia/commons/4/46/Melburnian_Skyline_b.jpg,Tullamarine Airport,YMML,Australia/Melbourne,MEL,AU
+MEL,Melbourne,-37.8131869:144.9629796,Australia,https://ifsa-butler.org/wp-content/uploads/2023/09/HERO-UofMelbourne-274387127.jpg,Tullamarine Airport,YMML,Australia/Melbourne,MEL,AU
 MEM,Memphis,35.1495343:-90.0489801,United States,,Memphis International Airport,KMEM,America/Chicago,MEM,US
 MEN,Mende,44.517611:3.501873,France,,Brenoux,LFNB,Europe/Paris,MEN,FR
 MEO,Manteo,35.9082256:-75.6757302,United States,,Dare County Regional,KMQI,America/New_York,MEO,US
@@ -6111,7 +6111,7 @@ QFQ,Maloy,61.9355433:5.1135542,Norway,,Harbour,,Europe/Oslo,QFQ,NO
 QGQ,Attu,,Greenland,,Heliport,,America/Godthab,QGQ,GL
 QGY,Per,,Hungary,,,,,,
 QHA,Hasselt,,Belgium,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Panorama_Hasselt-_stadscentrum_met_Sint_Quintinuskathedraal_en_Blauwe_Boulevard.jpg/800px-Panorama_Hasselt-_stadscentrum_met_Sint_Quintinuskathedraal_en_Blauwe_Boulevard.jpg,,,,,
-IAH,Houston,29.7601927:-95.3693896,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632226.tif/lossy-page1-800px-Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632226.tif.jpg,George Bush Intercontinental Airport,KIAH,America/Chicago,HOU,US
+IAH,Houston,29.7601927:-95.3693896,United States,https://www.houston.org/sites/default/files/2024-06/Houston%20Skyline%20Sunset.jpg,George Bush Intercontinental Airport,KIAH,America/Chicago,HOU,US
 QHU,Husum,,Germany,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Am_Hafen_-_panoramio_-_Georg_Denda_%281%29.jpg/960px-Am_Hafen_-_panoramio_-_Georg_Denda_%281%29.jpg,Husum,EDXJ,Europe/Berlin,QHU,DE
 QIE,Istres,,France,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Istres_-_Centre_ancien.jpg/960px-Istres_-_Centre_ancien.jpg,,,,,
 QIG,Iguatu,-6.34:-39.3,Brazil,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bandeira_de_Iguatu.jpeg/800px-Bandeira_de_Iguatu.jpeg,Dr. Francisco Tomé da Frota Airport,SNIG,America/Fortaleza,QIG,BR
@@ -6457,7 +6457,7 @@ SAJ,Sirajganj,25.17:91.42,Bangladesh,https://upload.wikimedia.org/wikipedia/comm
 SAK,Saudarkrokur,65.7461111:-19.6394444,Iceland,,Saudarkrokur,BIKR,Atlantic/Reykjavik,SAK,IS
 SAL,San Salvador,13.69:-89.19,El Salvador,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Zona_Rosa_San_Salvador.jpg/800px-Zona_Rosa_San_Salvador.jpg,El Salvador International Airport,MSLP,America/El_Salvador,SAL,SV
 SAM,Salamo,-9.67:150.78,Papua New Guinea,,Salamo,,Pacific/Port_Moresby,SAM,PG
-SAN,San Diego,32.7153292:-117.1572551,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/San_Diego_skyline_18_%28cropped%29.jpg/960px-San_Diego_skyline_18_%28cropped%29.jpg,San Diego International Airport,KSAN,America/Los_Angeles,SAN,US
+SAN,San Diego,32.7153292:-117.1572551,United States,https://thedana.com/wp-content/uploads/sites/2/2024/09/Mission-Beach-1536x1179.webp,San Diego International Airport,KSAN,America/Los_Angeles,SAN,US
 SAO,Sao Paulo,-23.63:-46.66,Brazil,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/800px-Marginal_Pinheiros_e_Jockey_Club.jpg,,,,,
 SAP,San Pedro Sula,15.5036588:-88.0046804,Honduras,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Collage_of_San_Pedro_Sula_Honduras.jpg/800px-Collage_of_San_Pedro_Sula_Honduras.jpg,Ramon Villeda Morales International Airport,MHLM,America/Tegucigalpa,SAP,HN
 SAQ,San Andros,25.0522614:-78.0430817,Bahamas,,San Andros,MYAN,America/Nassau,SAQ,BS
@@ -6913,7 +6913,7 @@ STJ,St Joseph,39.7577778:-94.8363889,United States,,Rosecrans Memorial,KSTJ,Amer
 STK,Sterling,40.6255415:-103.207709,United States,,Crosson Field,KSTK,America/Denver,STK,US
 STL,St Louis,38.6270025:-90.1994042,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Runner_Fountain_and_Old_Courthouse_and_Arch_%285618845531%29.jpg/783px-Runner_Fountain_and_Old_Courthouse_and_Arch_%285618845531%29.jpg,Lambert-St. Louis International Airport,KSTL,America/Chicago,STL,US
 STM,Santarem,-2.4394353:-54.6987351,Brazil,,Santarem-Maestro Wilson Fonseca Airport,SBSN,America/Santarem,STM,BR
-STO,Stockholm,59.3327881:18.0644881,Sweden,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Skeppsbron_20-48%2C_2006.jpg/800px-Skeppsbron_20-48%2C_2006.jpg,,,,,
+STO,Stockholm,59.3327881:18.0644881,Sweden,https://api.tours-tickets.com/media/rm5pvtur/things-to-do-in-stockholm.jpg?format=webp,,,,,
 STP,St Paul,44.9541667:-93.1138889,United States,,St. Paul Downtown Airport,KSTP,America/Chicago,MSP,US
 STQ,St Marys,41.4375:-78.5427778,United States,,St Marys,KOYM,America/New_York,STQ,US
 STR,Stuttgart,48.7771056:9.1807688,Germany,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg/800px-Neues_Schloss_Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_01.jpg,Stuttgart Airport,EDDS,Europe/Berlin,STR,DE
@@ -8808,7 +8808,7 @@ ZLO,Manzanillo,19.0522222:-104.3158333,Mexico,,Manzanillo Airport,MMZO,America/M
 ZLT,La Tabatiere,50.83:-58.98,Canada,,La Tabatiere,CTU5,America/Blanc-Sablon,ZLT,CA
 ZLW,Pasir Gudang,,Malaysia,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tun_Jeanne_Abdullah_Lake_Park_%28cropped%29.jpg/800px-Tun_Jeanne_Abdullah_Lake_Park_%28cropped%29.jpg,Pasir Gudang Port,,Asia/Kuala_Lumpur,ZLW,MY
 ZMD,Sena Madureira,-9.0672055:-68.6576716,Brazil,,Sena Madureira,,America/Rio_Branco,ZMD,BR
-ZME,Newark,,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Newark_October_2016_panorama.jpg/800px-Newark_October_2016_panorama.jpg,,,,,
+ZME,Newark,,United States,https://e7jecw7o93n.exactdn.com/wp-content/uploads/2019/05/NewarkNJ.jpg?lossy=1&ssl=1,,,,,
 ZML,Milwaukee,43.0387949:-87.9065334,United States,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dji_fly_20241201_160430_0031_1733092392756_photo.jpg/960px-Dji_fly_20241201_160430_0031_1733092392756_photo.jpg,Milwaukee General Mitchell,,America/Chicago,MKE,US
 ZMM,Zamora,20.05:-102.28,Mexico,,Zamora,MMZM,America/Mexico_City,ZMM,MX
 ZMT,Masset,54.014779:-132.13481,Canada,,Masset Airport,CZMT,America/Vancouver,ZMT,CA
